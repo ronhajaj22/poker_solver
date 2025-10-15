@@ -1,0 +1,309 @@
+/* Professional poker player box */
+.player {
+  position: absolute;
+  min-width: 4.6rem;
+  min-height: 4rem;
+  background: #23272f;
+  border-radius: 12px;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.18), 0 0 0 1.5px #111 inset;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0.18rem 0.3rem 0.3rem 0.3rem;
+  color: #fff;
+  font-size: 0.75rem;
+  z-index: 2;
+  border: 2px solid transparent;
+  transition: border 0.2s, box-shadow 0.2s;
+  position: relative;
+}
+
+/* Folded player: gray and faded */
+.player.folded {
+  background: #888;
+  color: #ccc;
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+/* Main player: highlight border */
+.player.main-player {
+  border: 2.5px solid #00adb5;
+  box-shadow: 0 0 16px 2px #00adb5, 0 2px 12px rgba(0,0,0,0.25);
+}
+
+/* Player who needs to act: glow */
+.player.winner {
+  box-shadow: 0 0 16px 4px #ffd600, 0 2px 12px rgba(0,0,0,0.25);
+}
+
+/* Player info (name, stack) - make it more compact */
+.player-info {
+  font-size: 0.85rem;
+  text-align: center;
+  line-height: 1.1;
+  margin-bottom: 0.15rem;
+  width: 95%;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.player-name {
+  font-weight: bold;
+  margin-bottom: 0.05rem;
+  display: block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  color: #fff;
+}
+
+.player-stack {
+  color: #ffd600;
+  font-weight: bold;
+  font-size: 1.05rem;
+  display: block;
+  text-shadow: 0 1px 2px #111;
+}
+
+/* Player cards - make them smaller */
+.player-cards {
+  display: flex;
+  gap: 0.2rem;
+  margin-bottom: -18px; /* overlap table edge */
+  justify-content: center;
+  z-index: 10;
+}
+
+/* Poker card style for player cards */
+.player-cards .card {
+  width: 32px !important;
+  height: 25rem !important;
+  font-size: 0.9rem !important;
+  min-width: 32px !important;
+  min-height: 44px !important;
+  border-radius: 6px !important;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.18);
+  background: #fff;
+  border: 2px solid #333;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.player-cards .card-back {
+  background: repeating-linear-gradient(135deg, #b0b0b0 0 4px, #e0e0e0 4px 8px);
+  color: #888;
+  font-size: 1.2rem;
+  border: 2px solid #333;
+  border-radius: 6px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.player-cards .card-rank {
+  font-size: 0.8rem !important;
+}
+
+.player-cards .card-suit {
+  font-size: 1.1rem !important;
+}
+
+/* Raised chips */
+.player-chips {
+  background: #ffd600;
+  color: #222;
+  z-index: 100;
+  border-radius: 10px;
+  padding: 0.4rem 0.5rem;
+  font-weight: bold;
+  margin-bottom: 0.1rem;
+  font-size: 0.8rem;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+}
+
+/* Action buttons for main player - make them fit inside */
+.player-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.15rem;
+  width: 100%;
+  margin-top: 0.2rem;
+  z-index: 20;
+}
+
+.action-buttons-row {
+  display: flex;
+  gap: 0.1rem;
+  width: 100%;
+}
+
+.raise-row {
+  display: flex;
+  gap: 0.1rem;
+  width: 100%;
+}
+
+.action-btn {
+  padding: 0.18rem 0.3rem;
+  border: none;
+  border-radius: 5px;
+  background: #00adb5;
+  color: #fff;
+  font-weight: bold;
+  cursor: pointer;
+  font-size: 0.75rem;
+  flex: 1;
+  box-shadow: 0 1px 2px #1112;
+  white-space: nowrap;
+}
+
+.action-btn:hover {
+  background: #008891;
+}
+
+.action-btn:disabled {
+  background: #888;
+  color: #ccc;
+  cursor: not-allowed;
+}
+
+.raise-input {
+  flex: 2;
+  border-radius: 5px;
+  border: 1px solid #393e46;
+  padding: 0.1rem 0.2rem;
+  font-size: 0.75rem;
+  text-align: center;
+}
+
+.raise-btn {
+  flex: 1;
+}
+
+.player-action-label {
+  position: absolute;
+  top: 10%;
+  z-index: 100; /* 20% lower than -28px */
+  left: 50%;
+  transform: translateX(-50%);
+  background: #393838;
+  color: #fff;
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-size: 0.8rem;
+  font-weight: bold;
+  z-index: 2;
+  pointer-events: none;
+  opacity: 0.95;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+.player-action-label.fold-action {
+  font-size: 0.8rem;
+  color: #ff6b6b;
+  background: #2a1a1a;
+}
+
+.player-action-label.win-action {
+  font-size: 1.1rem;
+  color: #ffd700;
+  background: linear-gradient(45deg, #2a1a1a, #4a2a1a);
+  text-shadow: 0 0 10px #ffd700;
+  animation: winGlow 1s ease-in-out infinite alternate;
+  border: 2px solid #ffd700;
+}
+
+@keyframes winGlow {
+  from {
+    box-shadow: 0 0 10px #ffd700, 0 0 20px #ffd700;
+  }
+  to {
+    box-shadow: 0 0 15px #ffd700, 0 0 30px #ffd700;
+  }
+} 
+
+.player-action-label-fold {
+  position: absolute;
+  top: 10%;
+  z-index: 100; /* 20% lower than -28px */
+  left: 50%;
+  transform: translateX(-50%);
+  background: #222;
+  color: #db2020;
+  padding: 4px 12px;
+  border-radius: 12px;
+  font-size: 1rem;
+  font-weight: normal;
+  z-index: 2;
+  pointer-events: none;
+  opacity: 0.95;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+}
+
+/* Question mark for check action feedback */
+.check-action-question-mark {
+  position: absolute;
+  top: -25px;
+  right: -10px;
+  width: 20px;
+  height: 20px;
+  background: #ffd600;
+  color: #23272f;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 14px;
+  cursor: pointer;
+  z-index: 200;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+  border: 2px solid #fff;
+  transition: all 0.2s ease;
+}
+
+.check-action-question-mark:hover {
+  background: #ffed4e;
+  transform: scale(1.1);
+}
+
+/* Tooltip for check action message */
+.check-action-tooltip {
+  position: absolute;
+  top: -80px;
+  right: -150px;
+  width: 280px;
+  background: #23272f;
+  color: #fff;
+  padding: 12px;
+  border-radius: 8px;
+  font-size: 12px;
+  line-height: 1.4;
+  z-index: 300;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+  border: 1px solid #393e46;
+  word-wrap: break-word;
+}
+
+.check-action-tooltip::after {
+  content: '';
+  position: absolute;
+  bottom: -8px;
+  right: 20px;
+  width: 0;
+  height: 0;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  border-top: 8px solid #23272f;
+}
+
+.player.folded .check-action-question-mark {
+  opacity: 1 !important;
+  pointer-events: auto !important;
+  z-index: 300 !important;
+  filter: none !important;
+}
+

@@ -1,0 +1,296 @@
+PLAYER: player_hu_2
+============================================================
+
+GENERAL STATS:
+  Total Hands: 546
+  Hands Won (314): 57.51%
+  Won With Showdown: 13.06%, Won With No Showdown: 86.94%
+  VPIP: 59.52%
+
+============================================================
+
+PREFLOP STATS:
+  PFR: 40.66%
+  When checked to him:
+  SB: Raise: 202 (59.06%), Limp: 15 (4.39%), 
+  BB: Raise: 3 (37.5%), Check: 5 (62.5%), 
+  
+VS Bet:
+  3Bet: 8.37%
+  SB: Raise: 0 (0.0%), Call: 4 (57.14%), Fold: 3 (42.86%)
+  BB: Raise: 17 (8.67%), Call: 88 (44.9%), Fold: 91 (46.43%)
+  
+VS 3Bet:
+  4Bet: 11.54%
+  SB: Raise: 3 (11.54%), Call: 9 (34.62%), Fold: 14 (53.85%)
+  
+VS 4Bet:
+  5Bet: 0.0%
+  BB: Raise: 0 (0.0%), Call: 0 (0.0%), Fold: 1 (100.0%)
+  
+VS 5Bet:
+
+PREFLOP RANGES:
+  SB Open Range: {'AA': 1, '99': 1, '88': 1, '77': 2, '55': 1, '44': 1, 'AKs': 1, 'AJs': 1, 'ATs': 2, 'A6s': 1, 'KJs': 1, 'K2s': 1, 'Q5s': 1, 'Q4s': 1, 'J8s': 1, 'T8s': 1, 'T6s': 1, '92s': 1, '86s': 2, '74s': 1, '53s': 1, '42s': 1, 'AQo': 1, 'AJo': 2, 'A3o': 1, 'A2o': 2, 'K9o': 3, 'K8o': 1, 'K4o': 1, 'QTo': 1, 'J8o': 1, 'J5o': 1, '97o': 1, '87o': 2, '85o': 1, '76o': 1, '64o': 2}
+  BB Open Range: {'KJs': 1}
+  Call 3bet Range: {'88': 1, '77': 1, '86s': 1, 'AJo': 1}
+  4bet Range: {'AA': 1, 'AQo': 1}
+  Call 4bet Range: {}
+  5bet Range: {}
+  Call 5bet Range: {}
+
+
+General Flop STATS:
+  Hands in Flop: 228
+  When checked to him: Raise: 64 (33.161%), Check: 129 (66.839%)
+  Open Sizes: Small: 6 (9.375%), Medium: 42 (65.625%), Large: 14 (21.875%), Overbet: 2 (3.125%)
+  When got raised: Raise: 11 (12.36%), Fold: 37 (41.573%), Call: 41 (46.067%)
+  vs small bet size: Raise: 0 (0.0%), Fold: 3 (33.333%), Call: 6 (66.667%)
+  vs medium bet size: Raise: 9 (14.516%), Fold: 24 (38.71%), Call: 29 (46.774%)
+  vs large bet size: Raise: 2 (11.111%), Fold: 10 (55.556%), Call: 6 (33.333%)
+  When got re-raised: Raise: 1 (14.286%), Fold: 5 (71.429%), Call: 1 (14.286%)
+  When got 4-bet or more: Raise: 1 (100.0%), Fold: 0 (0.0%), Call: 0 (0.0%)
+  Big hand on flush board (when checked to him): Raise: 1 (25.0%), Check: 3 (75.0%)
+  Big hand on flush board (when got raised): Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 2 (100.0%)
+  Flush draw play (when got raised): Raise: 1 (100.0%), Fold: 0 (0.0%), Call: 0 (0.0%)
+  Big hand play (when checked to him): Raise: 5 (55.556%), Check: 4 (44.444%)
+  Big hand play (when got raised): Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 4 (100.0%)
+
+
+2 Players:
+
+
+ Flop STATS:
+  Hands in Flop: 228
+  When checked to him: Raise: 64 (33.161%), Check: 129 (66.839%)
+  Open Sizes: Small: 6 (9.375%), Medium: 42 (65.625%), Large: 14 (21.875%), Overbet: 2 (3.125%)
+  When got raised: Raise: 11 (12.36%), Fold: 37 (41.573%), Call: 41 (46.067%)
+  vs small bet size: Raise: 0 (0.0%), Fold: 3 (33.333%), Call: 6 (66.667%)
+  vs medium bet size: Raise: 9 (14.516%), Fold: 24 (38.71%), Call: 29 (46.774%)
+  vs large bet size: Raise: 2 (11.111%), Fold: 10 (55.556%), Call: 6 (33.333%)
+  When got re-raised: Raise: 1 (14.286%), Fold: 5 (71.429%), Call: 1 (14.286%)
+  When got 4-bet or more: Raise: 1 (100.0%), Fold: 0 (0.0%), Call: 0 (0.0%)
+  Big hand on flush board (when checked to him): Raise: 1 (25.0%), Check: 3 (75.0%)
+  Big hand on flush board (when got raised): Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 2 (100.0%)
+  Flush draw play (when got raised): Raise: 1 (100.0%), Fold: 0 (0.0%), Call: 0 (0.0%)
+  Big hand play (when checked to him): Raise: 5 (55.556%), Check: 4 (44.444%)
+  Big hand play (when got raised): Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 4 (100.0%)
+
+
+SRP Flop STATS:
+  Hands in Flop: 209
+  When checked to him: Raise: 54 (29.834%), Check: 127 (70.166%)
+  Open Sizes: Small: 4 (7.407%), Medium: 37 (68.519%), Large: 12 (22.222%), Overbet: 1 (1.852%)
+  When got raised: Raise: 11 (13.415%), Fold: 33 (40.244%), Call: 38 (46.341%)
+  vs small bet size: Raise: 0 (0.0%), Fold: 2 (40.0%), Call: 3 (60.0%)
+  vs medium bet size: Raise: 9 (15.0%), Fold: 22 (36.667%), Call: 29 (48.333%)
+  vs large bet size: Raise: 2 (11.765%), Fold: 9 (52.941%), Call: 6 (35.294%)
+  When got re-raised: Raise: 1 (14.286%), Fold: 5 (71.429%), Call: 1 (14.286%)
+  When got 4-bet or more: Raise: 1 (100.0%), Fold: 0 (0.0%), Call: 0 (0.0%)
+  Big hand on flush board (when checked to him): Raise: 1 (25.0%), Check: 3 (75.0%)
+  Big hand on flush board (when got raised): Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 1 (100.0%)
+  Flush draw play (when got raised): Raise: 1 (100.0%), Fold: 0 (0.0%), Call: 0 (0.0%)
+  Big hand play (when checked to him): Raise: 2 (33.333%), Check: 4 (66.667%)
+  Big hand play (when got raised): Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 4 (100.0%)
+
+
+3Bet Flop STATS:
+  Hands in Flop: 17
+  When checked to him: Raise: 8 (80.0%), Check: 2 (20.0%)
+  Open Sizes: Small: 2 (25.0%), Medium: 3 (37.5%), Large: 2 (25.0%), Overbet: 1 (12.5%)
+  When got raised: Raise: 0 (0.0%), Fold: 4 (57.143%), Call: 3 (42.857%)
+  vs small bet size: Raise: 0 (0.0%), Fold: 1 (25.0%), Call: 3 (75.0%)
+  vs medium bet size: Raise: 0 (0.0%), Fold: 2 (100.0%), Call: 0 (0.0%)
+  vs large bet size: Raise: 0 (0.0%), Fold: 1 (100.0%), Call: 0 (0.0%)
+  Big hand on flush board (when got raised): Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 1 (100.0%)
+  Big hand play (when checked to him): Raise: 2 (100.0%), Check: 0 (0.0%)
+
+
+4Bet Flop STATS:
+  Hands in Flop: 2
+  When checked to him: Raise: 2 (100.0%), Check: 0 (0.0%)
+  Open Sizes: Small: 0 (0.0%), Medium: 2 (100.0%), Large: 0 (0.0%), Overbet: 0 (0.0%)
+  Big hand play (when checked to him): Raise: 1 (100.0%), Check: 0 (0.0%)
+
+
+IP Flop STATS:
+  Hands in Flop: 120
+  When checked to him: Raise: 43 (50.0%), Check: 43 (50.0%)
+  Open Sizes: Small: 3 (6.977%), Medium: 31 (72.093%), Large: 8 (18.605%), Overbet: 1 (2.326%)
+  When got raised: Raise: 3 (8.824%), Fold: 16 (47.059%), Call: 15 (44.118%)
+  vs small bet size: Raise: 0 (0.0%), Fold: 1 (16.667%), Call: 5 (83.333%)
+  vs medium bet size: Raise: 2 (9.091%), Fold: 13 (59.091%), Call: 7 (31.818%)
+  vs large bet size: Raise: 1 (16.667%), Fold: 2 (33.333%), Call: 3 (50.0%)
+  When got re-raised: Raise: 0 (0.0%), Fold: 4 (80.0%), Call: 1 (20.0%)
+  Big hand on flush board (when checked to him): Raise: 1 (33.333%), Check: 2 (66.667%)
+  Big hand on flush board (when got raised): Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 2 (100.0%)
+  Flush draw play (when got raised): Raise: 1 (100.0%), Fold: 0 (0.0%), Call: 0 (0.0%)
+  Big hand play (when checked to him): Raise: 2 (50.0%), Check: 2 (50.0%)
+  Big hand play (when got raised): Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 2 (100.0%)
+
+
+OOP Flop STATS:
+  Hands in Flop: 108
+  When checked to him: Raise: 21 (19.626%), Check: 86 (80.374%)
+  Open Sizes: Small: 3 (14.286%), Medium: 11 (52.381%), Large: 6 (28.571%), Overbet: 1 (4.762%)
+  When got raised: Raise: 8 (14.545%), Fold: 21 (38.182%), Call: 26 (47.273%)
+  vs small bet size: Raise: 0 (0.0%), Fold: 2 (66.667%), Call: 1 (33.333%)
+  vs medium bet size: Raise: 7 (17.5%), Fold: 11 (27.5%), Call: 22 (55.0%)
+  vs large bet size: Raise: 1 (8.333%), Fold: 8 (66.667%), Call: 3 (25.0%)
+  When got re-raised: Raise: 1 (50.0%), Fold: 1 (50.0%), Call: 0 (0.0%)
+  When got 4-bet or more: Raise: 1 (100.0%), Fold: 0 (0.0%), Call: 0 (0.0%)
+  Big hand on flush board (when checked to him): Raise: 0 (0.0%), Check: 1 (100.0%)
+  Big hand play (when checked to him): Raise: 3 (60.0%), Check: 2 (40.0%)
+  Big hand play (when got raised): Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 2 (100.0%)
+
+
+Pre-Flop Raiser Flop STATS:
+  Hands in Flop: 110
+  When checked to him: Raise: 52 (57.778%), Check: 38 (42.222%)
+  Open Sizes: Small: 5 (9.615%), Medium: 36 (69.231%), Large: 11 (21.154%), Overbet: 0 (0.0%)
+  When got raised: Raise: 2 (10.0%), Fold: 9 (45.0%), Call: 9 (45.0%)
+  vs small bet size: Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 1 (100.0%)
+  vs medium bet size: Raise: 1 (6.25%), Fold: 9 (56.25%), Call: 6 (37.5%)
+  vs large bet size: Raise: 1 (33.333%), Fold: 0 (0.0%), Call: 2 (66.667%)
+  When got re-raised: Raise: 0 (0.0%), Fold: 4 (80.0%), Call: 1 (20.0%)
+  Big hand on flush board (when checked to him): Raise: 1 (33.333%), Check: 2 (66.667%)
+  Flush draw play (when got raised): Raise: 1 (100.0%), Fold: 0 (0.0%), Call: 0 (0.0%)
+  Big hand play (when checked to him): Raise: 4 (80.0%), Check: 1 (20.0%)
+  Big hand play (when got raised): Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 1 (100.0%)
+
+
+Pre-Flop Caller Flop STATS:
+  Hands in Flop: 118
+  When checked to him: Raise: 12 (11.65%), Check: 91 (88.35%)
+  Open Sizes: Small: 1 (8.333%), Medium: 6 (50.0%), Large: 3 (25.0%), Overbet: 2 (16.667%)
+  When got raised: Raise: 9 (13.043%), Fold: 28 (40.58%), Call: 32 (46.377%)
+  vs small bet size: Raise: 0 (0.0%), Fold: 3 (37.5%), Call: 5 (62.5%)
+  vs medium bet size: Raise: 8 (17.391%), Fold: 15 (32.609%), Call: 23 (50.0%)
+  vs large bet size: Raise: 1 (6.667%), Fold: 10 (66.667%), Call: 4 (26.667%)
+  When got re-raised: Raise: 1 (50.0%), Fold: 1 (50.0%), Call: 0 (0.0%)
+  When got 4-bet or more: Raise: 1 (100.0%), Fold: 0 (0.0%), Call: 0 (0.0%)
+  Big hand on flush board (when checked to him): Raise: 0 (0.0%), Check: 1 (100.0%)
+  Big hand on flush board (when got raised): Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 2 (100.0%)
+  Big hand play (when checked to him): Raise: 1 (25.0%), Check: 3 (75.0%)
+  Big hand play (when got raised): Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 3 (100.0%)
+
+
+
+
+General Turn STATS:
+  Hands in Turn: 159
+  When checked to him: Raise: 54 (41.86%), Check: 75 (58.14%)
+  Open Sizes: Small: 0 (0.0%), Medium: 29 (53.704%), Large: 16 (29.63%), Overbet: 9 (16.667%)
+  When got raised: Raise: 6 (11.111%), Fold: 25 (46.296%), Call: 23 (42.593%)
+  When got re-raised: Raise: 1 (14.286%), Fold: 4 (57.143%), Call: 2 (28.571%)
+  When got 4-bet or more: Raise: 0 (0.0%), Fold: 1 (25.0%), Call: 3 (75.0%)
+General River STATS:
+  Hands number: 107
+  When checked to him: Raise: 33 (39.759%), Check: 50 (60.241%)
+  Bet Sizes: Small: 1 (3.03%), Medium: 10 (30.303%), Large: 16 (48.485%), Overbet: 6 (18.182%)
+  When got raised: Raise: 4 (13.793%), Fold: 13 (44.828%), Call: 12 (41.379%)
+  vs small bet size: Raise: 1 (33.333%), Fold: 1 (33.333%), Call: 1 (33.333%)
+  vs medium bet size: Raise: 1 (6.667%), Fold: 9 (60.0%), Call: 5 (33.333%)
+  vs large bet size: Raise: 2 (20.0%), Fold: 3 (30.0%), Call: 5 (50.0%)
+  vs overbet bet size: Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 1 (100.0%)
+  When got re-raised: Raise: 1 (25.0%), Fold: 0 (0.0%), Call: 3 (75.0%)
+  When got 4-bet or more: Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 1 (100.0%)
+  Three-bet+ split: {'Bluff': 0, 'Value': 1}
+  Value Three-bet+ Avg Strength: 84.98
+  Overbet split: {'Bluff': 0, 'Value': 2}
+  Value Overbet Avg Strength: 90.1
+  Calling outcomes: {'won': 9, 'lost': 7}
+  Calling outcomes by bet size: {'small': {'won': 1, 'lost': 0}, 'medium': {'won': 2, 'lost': 3}, 'large': {'won': 3, 'lost': 2}, 'overbet': {'won': 1, 'lost': 0}, 're_raise': {'won': 2, 'lost': 2}}
+
+
+ River STATS:
+  Hands number: 107
+  When checked to him: Raise: 33 (39.759%), Check: 50 (60.241%)
+  Bet Sizes: Small: 1 (3.03%), Medium: 10 (30.303%), Large: 16 (48.485%), Overbet: 6 (18.182%)
+  When got raised: Raise: 4 (13.793%), Fold: 13 (44.828%), Call: 12 (41.379%)
+  vs small bet size: Raise: 1 (33.333%), Fold: 1 (33.333%), Call: 1 (33.333%)
+  vs medium bet size: Raise: 1 (6.667%), Fold: 9 (60.0%), Call: 5 (33.333%)
+  vs large bet size: Raise: 2 (20.0%), Fold: 3 (30.0%), Call: 5 (50.0%)
+  vs overbet bet size: Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 1 (100.0%)
+  When got re-raised: Raise: 1 (25.0%), Fold: 0 (0.0%), Call: 3 (75.0%)
+  When got 4-bet or more: Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 1 (100.0%)
+  Three-bet+ split: {'Bluff': 0, 'Value': 1}
+  Value Three-bet+ Avg Strength: 84.98
+  Overbet split: {'Bluff': 0, 'Value': 2}
+  Value Overbet Avg Strength: 90.1
+  Calling outcomes: {'won': 9, 'lost': 7}
+  Calling outcomes by bet size: {'small': {'won': 1, 'lost': 0}, 'medium': {'won': 2, 'lost': 3}, 'large': {'won': 3, 'lost': 2}, 'overbet': {'won': 1, 'lost': 0}, 're_raise': {'won': 2, 'lost': 2}}
+
+
+Small Pot River STATS:
+  Hands number: 80
+  When checked to him: Raise: 24 (38.095%), Check: 39 (61.905%)
+  Bet Sizes: Small: 1 (4.167%), Medium: 8 (33.333%), Large: 11 (45.833%), Overbet: 4 (16.667%)
+  When got raised: Raise: 4 (19.048%), Fold: 10 (47.619%), Call: 7 (33.333%)
+  vs small bet size: Raise: 1 (50.0%), Fold: 0 (0.0%), Call: 1 (50.0%)
+  vs medium bet size: Raise: 1 (9.091%), Fold: 7 (63.636%), Call: 3 (27.273%)
+  vs large bet size: Raise: 2 (25.0%), Fold: 3 (37.5%), Call: 3 (37.5%)
+  When got re-raised: Raise: 1 (33.333%), Fold: 0 (0.0%), Call: 2 (66.667%)
+  When got 4-bet or more: Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 1 (100.0%)
+  Three-bet+ split: {'Bluff': 0, 'Value': 1}
+  Value Three-bet+ Avg Strength: 84.98
+  Overbet split: {'Bluff': 0, 'Value': 2}
+  Value Overbet Avg Strength: 90.1
+  Calling outcomes: {'won': 5, 'lost': 5}
+  Calling outcomes by bet size: {'small': {'won': 1, 'lost': 0}, 'medium': {'won': 0, 'lost': 3}, 'large': {'won': 2, 'lost': 1}, 'overbet': {'won': 0, 'lost': 0}, 're_raise': {'won': 2, 'lost': 1}}
+
+
+Med Pot River STATS:
+  Hands number: 20
+  When checked to him: Raise: 8 (53.333%), Check: 7 (46.667%)
+  Bet Sizes: Small: 0 (0.0%), Medium: 2 (25.0%), Large: 4 (50.0%), Overbet: 2 (25.0%)
+  When got raised: Raise: 0 (0.0%), Fold: 2 (33.333%), Call: 4 (66.667%)
+  vs medium bet size: Raise: 0 (0.0%), Fold: 2 (66.667%), Call: 1 (33.333%)
+  vs large bet size: Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 2 (100.0%)
+  vs overbet bet size: Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 1 (100.0%)
+  When got re-raised: Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 1 (100.0%)
+  Calling outcomes: {'won': 3, 'lost': 2}
+  Calling outcomes by bet size: {'small': {'won': 0, 'lost': 0}, 'medium': {'won': 1, 'lost': 0}, 'large': {'won': 1, 'lost': 1}, 'overbet': {'won': 1, 'lost': 0}, 're_raise': {'won': 0, 'lost': 1}}
+
+
+Large Pot River STATS:
+  Hands number: 7
+  When checked to him: Raise: 1 (20.0%), Check: 4 (80.0%)
+  Bet Sizes: Small: 0 (0.0%), Medium: 0 (0.0%), Large: 1 (100.0%), Overbet: 0 (0.0%)
+  When got raised: Raise: 0 (0.0%), Fold: 1 (50.0%), Call: 1 (50.0%)
+  vs small bet size: Raise: 0 (0.0%), Fold: 1 (100.0%), Call: 0 (0.0%)
+  vs medium bet size: Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 1 (100.0%)
+  Calling outcomes: {'won': 1, 'lost': 0}
+  Calling outcomes by bet size: {'small': {'won': 0, 'lost': 0}, 'medium': {'won': 1, 'lost': 0}, 'large': {'won': 0, 'lost': 0}, 'overbet': {'won': 0, 'lost': 0}, 're_raise': {'won': 0, 'lost': 0}}
+
+
+IP River STATS:
+  Hands number: 65
+  When checked to him: Raise: 13 (31.707%), Check: 28 (68.293%)
+  Bet Sizes: Small: 0 (0.0%), Medium: 3 (23.077%), Large: 9 (69.231%), Overbet: 1 (7.692%)
+  When got raised: Raise: 3 (12.5%), Fold: 11 (45.833%), Call: 10 (41.667%)
+  vs small bet size: Raise: 1 (33.333%), Fold: 1 (33.333%), Call: 1 (33.333%)
+  vs medium bet size: Raise: 1 (8.333%), Fold: 8 (66.667%), Call: 3 (25.0%)
+  vs large bet size: Raise: 1 (12.5%), Fold: 2 (25.0%), Call: 5 (62.5%)
+  vs overbet bet size: Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 1 (100.0%)
+  Calling outcomes: {'won': 7, 'lost': 3}
+  Calling outcomes by bet size: {'small': {'won': 1, 'lost': 0}, 'medium': {'won': 2, 'lost': 1}, 'large': {'won': 3, 'lost': 2}, 'overbet': {'won': 1, 'lost': 0}, 're_raise': {'won': 0, 'lost': 0}}
+
+
+OOP River STATS:
+  Hands number: 42
+  When checked to him: Raise: 20 (47.619%), Check: 22 (52.381%)
+  Bet Sizes: Small: 1 (5.0%), Medium: 7 (35.0%), Large: 7 (35.0%), Overbet: 5 (25.0%)
+  When got raised: Raise: 1 (20.0%), Fold: 2 (40.0%), Call: 2 (40.0%)
+  vs medium bet size: Raise: 0 (0.0%), Fold: 1 (33.333%), Call: 2 (66.667%)
+  vs large bet size: Raise: 1 (50.0%), Fold: 1 (50.0%), Call: 0 (0.0%)
+  When got re-raised: Raise: 1 (25.0%), Fold: 0 (0.0%), Call: 3 (75.0%)
+  When got 4-bet or more: Raise: 0 (0.0%), Fold: 0 (0.0%), Call: 1 (100.0%)
+  Three-bet+ split: {'Bluff': 0, 'Value': 1}
+  Value Three-bet+ Avg Strength: 84.98
+  Overbet split: {'Bluff': 0, 'Value': 2}
+  Value Overbet Avg Strength: 90.1
+  Calling outcomes: {'won': 2, 'lost': 4}
+  Calling outcomes by bet size: {'small': {'won': 0, 'lost': 0}, 'medium': {'won': 0, 'lost': 2}, 'large': {'won': 0, 'lost': 0}, 'overbet': {'won': 0, 'lost': 0}, 're_raise': {'won': 2, 'lost': 2}}
+
+

@@ -1,0 +1,115 @@
+PLAYER: BigCosmo
+============================================================
+
+GENERAL STATS:
+  Total Hands: 91
+  VPIP: 59.34%
+  WTSD: 0
+  WSD: 0
+
+PREFLOP STATS:
+  PFR: 7.69%
+  When checked to him:
+  UTG: Raise: 0Call: 0
+  HJ: Raise: 1 (3.7%), Call: 15 (55.56%), 
+  CO: Raise: 0 (0.0%), Call: 6 (54.55%), 
+  BTN: Raise: 1 (10.0%), Call: 4 (40.0%), 
+  SB: Raise: 1 (11.11%), Call: 3 (33.33%), 
+  BB: Raise: 3 (37.5%), Check: 5 (62.5%), 
+  
+VS aggression:
+  3Bet: 1.54%
+  UTG:  Raise: 0 Call: 0
+  HJ:  Raise: 0 (0.0%),  Call: 7 (77.78%), 
+  CO:  Raise: 0 (0.0%),  Call: 1 (16.67%), 
+  BTN:  Raise: 0 (0.0%),  Call: 2 (33.33%), 
+  SB:  Raise: 0 (0.0%),  Call: 5 (71.43%), 
+  BB:  Raise: 1 (14.29%),  Call: 4 (57.14%), 
+  
+VS 3Bet:
+  IP:  Raise: 0 (0.0%),  Call: 2 (66.67%),  Fold: 0 (0.0%), 
+  OOP:  Raise: 0 (0.0%),  Call: 0 (0.0%),  Fold: 1 (100.0%), 
+  
+VS 4Bet:
+  IP:  Raise: 1 (100.0%),  Call: 0 (0.0%),  Fold: 0 (0.0%), 
+  OOP:  Raise: 0 (0.0%),  Call: 1 (100.0%),  Fold: 0 (0.0%), 
+  
+VS 5Bbet
+  IP:  Raise: 0 (0.0%),  Call: 0 (0.0%),  Fold: 1 (100.0%), 
+  OOP:  Raise: 0 Call: 0 Fold: 0
+
+PREFLOP RANGES:
+  UTG Open Range: {}
+  HJ Open Range: {}
+  CO Open Range: {}
+  BTN Open Range: {}
+  SB Open Range: {}
+  BB Open Range: {}
+  BB 3-bet Range: {'QJo': 1}
+  General 3-bet Range: {}
+  Call 3bet Range: {'QJs': 1}
+  4bet Range: {}
+  Call 4bet Range: {'QJo': 1}
+  5bet Range: {'QJs': 1}
+  Call 5bet Range: {}
+
+FLOP STATS:
+  Hands in Flop: 44
+  Flop Raises: 6
+  Flop open Avg Sizes: 0.36000000000000004
+  Flop Open Avg Strength: 0
+  Open Range: {}
+  Flop Checks: 22
+  Flop Folds: 17
+  Flop Calls: 6
+  Flop Re-raises: 0
+  Flop Check-raise: 0
+  Flop Re-re-raise: 0
+  When was the aggressor-pre-flop:
+  C-bet: 0.5 ,  checked: 0.5
+  When faced aggression: fold: 0.5
+  Flop Re-raise Avg Strength: 0
+  Flop Call Re-raise: 0
+  Flop Call Re-raise Avg Strength: 0
+  Flop Re-re-raise Avg Strength: 0
+  Call Re-raise Range: {}
+  Re-re-raise Range: {}
+
+RIVER STATS:
+  River Check When Act First: 4
+  River Check Back: 4
+  River Calls: 0
+  River Check Call: 0
+  River Call Re-raise: 0
+  River Folds: 1
+  River Check Fold: 3
+  River Fold to Re-raise: 1
+  River Raise When Act First: 1
+  River Raise Bluff When Act First: 1
+  River Raise Value When Act First: 0
+  River Raise When Last: 0
+  River Check Raise: 0
+  River Re-raise: 0
+
+RIVER BET SIZES:
+
+RIVER RANGES:
+  Check When Act First Range: {'other': 1}
+  Check Back Range: {'other': 4}
+  Call Range: {}
+  Call Re-raise Range: {}
+  Raise When Act First Range: {}
+  Raise When Last Range: {}
+  Check Raise Range: {}
+  Re-raise Range: {}
+
+RIVER RANGE STRENGTHS:
+  Check When Act First Avg Strength: 10.51
+  Check Back Avg Strength: 41.894999999999996
+  Call Avg Strength: 0
+  Call Re-raise Avg Strength: 0
+  Raise When Last Avg Strength: 0
+  Check Raise Avg Strength: 0
+  Re-raise Avg Strength: 0
+
+============================================================

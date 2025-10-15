@@ -1,0 +1,83 @@
+Poker Hand #ring_822465046: NLH No Limit ($2/$4) - 2025/04/14 00:55:02
+Table 'MR NLH 2/4' 7-max Seat #6 is the button
+Seat 4: 19371606 ($871.25 in chips)
+Seat 1: fc36c880 ($296 in chips)
+Seat 5: 612b28d6 ($381.81 in chips)
+Seat 7: Hero ($296 in chips)
+Seat 6: 9c47ed9c ($982.35 in chips)
+Hero: posts small blind $2
+fc36c880: posts big blind $4
+*** HOLE CARDS ***
+Dealt to 19371606 
+Dealt to fc36c880 
+Dealt to 612b28d6 
+Dealt to Hero [Jh Kc]
+Dealt to 9c47ed9c 
+19371606: folds
+612b28d6: folds
+9c47ed9c: raises $6 to $10
+Hero: calls $8
+fc36c880: calls $6
+*** FLOP *** [2s Kd Jc]
+Hero: bets $15
+fc36c880: folds
+9c47ed9c: calls $15
+*** TURN *** [2s Kd Jc] [Qh]
+Hero: bets $18
+9c47ed9c: raises $48 to $66
+Hero: calls $48
+*** RIVER *** [2s Kd Jc Qh] [7c]
+Hero: checks
+9c47ed9c: bets $240
+Hero: calls $205 and is all-in
+Uncalled bet ($35) returned to 9c47ed9c
+9c47ed9c: shows [9s Ts]
+Hero: shows [Jh Kc]
+*** SHOWDOWN ***
+9c47ed9c collected $602 from pot
+*** SUMMARY ***
+Total pot $602
+Board [2s Kd Jc Qh 7c]
+Seat 4: 19371606 folded before Flop (didn't bet)
+Seat 1: fc36c880(big blind) folded on the Flop
+Seat 5: 612b28d6 folded before Flop (didn't bet)
+Seat 7: Hero(small blind) showed [Jh Kc] and lost with Pair of Kings and Pair of Jacks
+Seat 6: 9c47ed9c showed [9s Ts] and won ($602) with Kings-High Straight
+
+
+
+Poker Hand #ring_822464269: NLH No Limit ($2/$4) - 2025/04/14 00:54:34
+Table 'MR NLH 2/4' 7-max Seat #5 is the button
+Seat 4: 19371606 ($861.25 in chips)
+Seat 1: fc36c880 ($300 in chips)
+Seat 5: 612b28d6 ($381.81 in chips)
+Seat 7: Hero ($300 in chips)
+Seat 6: 9c47ed9c ($984.35 in chips)
+9c47ed9c: posts small blind $2
+Hero: posts big blind $4
+fc36c880: posts big blind $4
+*** HOLE CARDS ***
+Dealt to 19371606 
+Dealt to fc36c880 
+Dealt to 612b28d6 
+Dealt to Hero [Ts 5d]
+Dealt to 9c47ed9c 
+fc36c880: checks
+19371606: raises $14 to $18
+612b28d6: folds
+9c47ed9c: folds
+Hero: folds
+fc36c880: folds
+Uncalled bet ($14) returned to 19371606
+*** SHOWDOWN ***
+19371606 collected $14 from pot
+*** SUMMARY ***
+Total pot $14
+Seat 4: 19371606won ($14)
+Seat 1: fc36c880 folded before Flop
+Seat 5: 612b28d6 folded before Flop (didn't bet)
+Seat 7: Hero(big blind) folded before Flop
+Seat 6: 9c47ed9c(small blind) folded before Flop
+
+
+

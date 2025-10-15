@@ -1,0 +1,34 @@
+Poker Hand #ring_891454803: NLH No Limit ($1/$2) - 2025/05/22 02:27:35
+Table 'MR NLH 1/2' 7-max Seat #4 is the button
+Seat 4: 560dbba5 ($232 in chips)
+Seat 3: Hero ($150 in chips)
+560dbba5: posts small blind $1
+Hero: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 560dbba5 
+Dealt to Hero [6h 7d]
+560dbba5: raises $3 to $5
+Hero: calls $3
+*** FLOP *** [5s 8h Jh]
+Hero: checks
+560dbba5: bets $3.3
+Hero: raises $13.28 to $16.58
+560dbba5: calls $13.28
+*** TURN *** [5s 8h Jh] [Ad]
+Hero: checks
+560dbba5: checks
+*** RIVER *** [5s 8h Jh Ad] [7s]
+Hero: checks
+560dbba5: checks
+Hero: shows [6h 7d]
+560dbba5: shows [Js 3s]
+*** SHOWDOWN ***
+560dbba5 collected $43.16 from pot
+*** SUMMARY ***
+Total pot $43.16
+Board [5s 8h Jh Ad 7s]
+Seat 4: 560dbba5(small blind) showed [Js 3s] and won ($43.16) with Pair of Jacks
+Seat 3: Hero(big blind) showed [6h 7d] and lost with Pair of Sevens
+
+
+

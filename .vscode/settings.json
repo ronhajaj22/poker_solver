@@ -1,0 +1,14 @@
+{
+  "python.analysis.exclude": [
+    "**/.cursor/extensions/**",
+    "**/node_modules/**",
+    "**/__pycache__/**"
+  ],
+  "python.analysis.ignore": [
+    "**/.cursor/extensions/**"
+  ],
+  "files.exclude": {
+    "**/.cursor/extensions": true
+  }
+}
+

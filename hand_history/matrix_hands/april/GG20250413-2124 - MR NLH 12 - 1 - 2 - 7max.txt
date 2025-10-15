@@ -1,0 +1,57 @@
+Poker Hand #ring_822412688: NLH No Limit ($1/$2) - 2025/04/14 00:24:00
+Table 'MR NLH 1/2' 7-max Seat #2 is the button
+Seat 3: fd187643 ($170.43 in chips)
+Seat 1: e1288dc7 ($600.5 in chips)
+Seat 6: 94614d2e ($563.52 in chips)
+Seat 5: 825ca938 ($601.92 in chips)
+Seat 2: ae7abe64 ($409 in chips)
+Seat 4: Hero ($162 in chips)
+fd187643: posts small blind $1
+Hero: posts big blind $2
+*** HOLE CARDS ***
+Dealt to fd187643 
+Dealt to e1288dc7 
+Dealt to 94614d2e 
+Dealt to 825ca938 
+Dealt to ae7abe64 
+Dealt to Hero [Kc Ad]
+825ca938: folds
+94614d2e: folds
+e1288dc7: raises $4 to $6
+ae7abe64: raises $12 to $18
+fd187643: folds
+Hero: raises $43 to $61
+e1288dc7: folds
+ae7abe64: raises $101 to $162
+Hero: calls $101 and is all-in
+ae7abe64: shows [Ah Ac]
+Hero: shows [Kc Ad]
+*** FIRST FLOP *** [Jh 9h 5c]
+*** SECOND FLOP *** [Th 4c Kh]
+*** THIRD FLOP *** [8h 8s 2c]
+*** FIRST TURN *** [Jh 9h 5c] [6d]
+*** SECOND TURN *** [Th 4c Kh] [Js]
+*** THIRD TURN *** [8h 8s 2c] [7s]
+*** FIRST RIVER *** [Jh 9h 5c 6d] [4h]
+*** SECOND RIVER *** [Th 4c Kh Js] [6h]
+*** THIRD RIVER *** [8h 8s 2c 7s] [Qd]
+*** FIRST SHOWDOWN ***
+ae7abe64 collected $110.68 from pot
+*** SECOND SHOWDOWN ***
+ae7abe64 collected $110.16 from pot
+*** THIRD SHOWDOWN ***
+ae7abe64 collected $110.16 from pot
+*** SUMMARY ***
+Total pot $331
+Hand was run three timesFIRST Board [Jh 9h 5c 6d 4h]
+SECOND Board [Th 4c Kh Js 6h]
+THIRD Board [8h 8s 2c 7s Qd]
+Seat 3: fd187643(small blind) folded before Flop
+Seat 1: e1288dc7 folded before Flop
+Seat 6: 94614d2e folded before Flop (didn't bet)
+Seat 5: 825ca938 folded before Flop (didn't bet)
+Seat 2: ae7abe64 showed [Ah Ac] and won ($331) with Pair of Aces / Pair of Aces / Pair of Aces and Pair of Eights
+Seat 4: Hero(big blind) showed [Kc Ad] and lost with Ace-High / Pair of Kings / Pair of Eights
+
+
+

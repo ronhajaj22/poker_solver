@@ -1,0 +1,115 @@
+PLAYER: DolevDolev
+============================================================
+
+GENERAL STATS:
+  Total Hands: 243
+  VPIP: 37.45%
+  WTSD: 0
+  WSD: 0
+
+PREFLOP STATS:
+  PFR: 5.35%
+  When checked to him:
+  UTG: Raise: 1 (8.33%), Call: 5 (41.67%), 
+  HJ: Raise: 6 (8.7%), Call: 23 (33.33%), 
+  CO: Raise: 0 (0.0%), Call: 12 (35.29%), 
+  BTN: Raise: 1 (4.55%), Call: 7 (31.82%), 
+  SB: Raise: 2 (11.11%), Call: 12 (66.67%), 
+  BB: Raise: 3 (15.79%), Check: 15 (78.95%), 
+  
+VS aggression:
+  3Bet: 0.0%
+  UTG:  Raise: 0 (0.0%),  Call: 1 (50.0%), 
+  HJ:  Raise: 0 (0.0%),  Call: 3 (18.75%), 
+  CO:  Raise: 0 (0.0%),  Call: 2 (14.29%), 
+  BTN:  Raise: 0 (0.0%),  Call: 4 (22.22%), 
+  SB:  Raise: 0 (0.0%),  Call: 4 (18.18%), 
+  BB:  Raise: 0 (0.0%),  Call: 5 (27.78%), 
+  
+VS 3Bet:
+  IP:  Raise: 0 (0.0%),  Call: 4 (44.44%),  Fold: 4 (44.44%), 
+  OOP:  Raise: 0 (0.0%),  Call: 0 (0.0%),  Fold: 2 (100.0%), 
+  
+VS 4Bet:
+  IP:  Raise: 1 (50.0%),  Call: 0 (0.0%),  Fold: 1 (50.0%), 
+  OOP:  Raise: 0 Call: 0 Fold: 0
+  
+VS 5Bbet
+  IP:  Raise: 0 Call: 0 Fold: 0
+  OOP:  Raise: 0 Call: 0 Fold: 0
+
+PREFLOP RANGES:
+  UTG Open Range: {}
+  HJ Open Range: {'AQo': 1}
+  CO Open Range: {}
+  BTN Open Range: {}
+  SB Open Range: {}
+  BB Open Range: {'JJ': 1}
+  BB 3-bet Range: {}
+  General 3-bet Range: {}
+  Call 3bet Range: {'AQo': 2}
+  4bet Range: {}
+  Call 4bet Range: {}
+  5bet Range: {'AQo': 1}
+  Call 5bet Range: {}
+
+FLOP STATS:
+  Hands in Flop: 79
+  Flop Raises: 14
+  Flop open Avg Sizes: 0.4178571428571428
+  Flop Open Avg Strength: 94.91
+  Open Range: {'Pair': 1}
+  Flop Checks: 48
+  Flop Folds: 14
+  Flop Calls: 10
+  Flop Re-raises: 2
+  Flop Check-raise: 1
+  Flop Re-re-raise: 0
+  When was the aggressor-pre-flop:
+  C-bet: 0.88 ,  checked: 0.12
+  When faced aggression: fold: 0.5
+  Flop Re-raise Avg Strength: 99.17
+  Flop Call Re-raise: 2
+  Flop Call Re-raise Avg Strength: 91.94999999999999
+  Flop Re-re-raise Avg Strength: 0
+  Call Re-raise Range: {'Two Pair': 1, 'Pair': 1}
+  Re-re-raise Range: {}
+
+RIVER STATS:
+  River Check When Act First: 11
+  River Check Back: 2
+  River Calls: 2
+  River Check Call: 2
+  River Call Re-raise: 1
+  River Folds: 1
+  River Check Fold: 2
+  River Fold to Re-raise: 0
+  River Raise When Act First: 6
+  River Raise Bluff When Act First: 7
+  River Raise Value When Act First: 2
+  River Raise When Last: 3
+  River Check Raise: 0
+  River Re-raise: 1
+
+RIVER BET SIZES:
+
+RIVER RANGES:
+  Check When Act First Range: {'other': 9}
+  Check Back Range: {'other': 2}
+  Call Range: {'other': 4}
+  Call Re-raise Range: {'other': 1}
+  Raise When Act First Range: {'other': 2}
+  Raise When Last Range: {}
+  Check Raise Range: {}
+  Re-raise Range: {'other': 1}
+
+RIVER RANGE STRENGTHS:
+  Check When Act First Avg Strength: 42.33444444444444
+  Check Back Avg Strength: 34.09
+  Call Avg Strength: 86.8675
+  Call Re-raise Avg Strength: 86.97
+  Raise When Last Avg Strength: 0.0
+  Check Raise Avg Strength: 0
+  Re-raise Avg Strength: 86.97
+
+============================================================

@@ -1,0 +1,33 @@
+Poker Hand #ring_968733709: NLH No Limit ($2/$4) - 2025/07/02 22:20:28
+Table 'MR NLH 2/4' 7-max Seat #3 is the button
+Seat 3: 2607cc62 ($425.55 in chips)
+Seat 2: Hero ($200 in chips)
+2607cc62: posts small blind $2
+Hero: posts big blind $4
+*** HOLE CARDS ***
+Dealt to 2607cc62 
+Dealt to Hero [5c 6d]
+2607cc62: raises $6 to $10
+Hero: calls $6
+*** FLOP *** [Tc 3h 6h]
+Hero: checks
+2607cc62: checks
+*** TURN *** [Tc 3h 6h] [8c]
+Hero: checks
+2607cc62: bets $15
+Hero: calls $15
+*** RIVER *** [Tc 3h 6h 8c] [5d]
+Hero: checks
+2607cc62: checks
+Hero: shows [5c 6d]
+2607cc62: shows [Qs 8h]
+*** SHOWDOWN ***
+Hero collected $50 from pot
+*** SUMMARY ***
+Total pot $50
+Board [Tc 3h 6h 8c 5d]
+Seat 3: 2607cc62(small blind) showed [Qs 8h] and lost with Pair of Eights
+Seat 2: Hero(big blind) showed [5c 6d] and won ($50) with Pair of Sixes and Pair of Fives
+
+
+

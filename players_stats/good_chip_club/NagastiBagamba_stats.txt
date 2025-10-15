@@ -1,0 +1,115 @@
+PLAYER: NagastiBagamba
+============================================================
+
+GENERAL STATS:
+  Total Hands: 532
+  VPIP: 51.69%
+  WTSD: 0
+  WSD: 0
+
+PREFLOP STATS:
+  PFR: 8.83%
+  When checked to him:
+  UTG: Raise: 0 (0.0%), Call: 13 (39.39%), 
+  HJ: Raise: 4 (4.55%), Call: 26 (29.55%), 
+  CO: Raise: 7 (8.54%), Call: 28 (34.15%), 
+  BTN: Raise: 14 (17.95%), Call: 27 (34.62%), 
+  SB: Raise: 11 (17.74%), Call: 40 (64.52%), 
+  BB: Raise: 9 (22.5%), Check: 31 (77.5%), 
+  
+VS aggression:
+  3Bet: 0.52%
+  UTG:  Raise: 0 (0.0%),  Call: 9 (90.0%), 
+  HJ:  Raise: 0 (0.0%),  Call: 9 (45.0%), 
+  CO:  Raise: 1 (3.85%),  Call: 14 (53.85%), 
+  BTN:  Raise: 0 (0.0%),  Call: 19 (47.5%), 
+  SB:  Raise: 0 (0.0%),  Call: 18 (40.0%), 
+  BB:  Raise: 1 (1.82%),  Call: 25 (45.45%), 
+  
+VS 3Bet:
+  IP:  Raise: 1 (10.0%),  Call: 3 (30.0%),  Fold: 5 (50.0%), 
+  OOP:  Raise: 0 (0.0%),  Call: 6 (54.55%),  Fold: 3 (27.27%), 
+  
+VS 4Bet:
+  IP:  Raise: 0 (0.0%),  Call: 1 (50.0%),  Fold: 1 (50.0%), 
+  OOP:  Raise: 3 (100.0%),  Call: 0 (0.0%),  Fold: 0 (0.0%), 
+  
+VS 5Bbet
+  IP:  Raise: 1 (100.0%),  Call: 0 (0.0%),  Fold: 0 (0.0%), 
+  OOP:  Raise: 0 (0.0%),  Call: 0 (0.0%),  Fold: 1 (100.0%), 
+
+PREFLOP RANGES:
+  UTG Open Range: {}
+  HJ Open Range: {}
+  CO Open Range: {'55': 1, 'J9s': 1, 'J8s': 1, 'AJo': 1}
+  BTN Open Range: {'JJ': 1, 'AQs': 1, 'J8s': 1, 'AKo': 1, 'KQo': 1}
+  SB Open Range: {'66': 2}
+  BB Open Range: {'KQo': 1}
+  BB 3-bet Range: {'AKo': 1}
+  General 3-bet Range: {'TT': 1}
+  Call 3bet Range: {'KJs': 2, '76s': 2}
+  4bet Range: {'TT': 1}
+  Call 4bet Range: {'76s': 1}
+  5bet Range: {'KJs': 1, 'AKo': 1}
+  Call 5bet Range: {}
+
+FLOP STATS:
+  Hands in Flop: 234
+  Flop Raises: 38
+  Flop open Avg Sizes: 0.39394736842105266
+  Flop Open Avg Strength: 76.5025
+  Open Range: {'Two Pair': 1, 'Pair': 2, 'High Card': 1}
+  Flop Checks: 132
+  Flop Folds: 81
+  Flop Calls: 35
+  Flop Re-raises: 2
+  Flop Check-raise: 2
+  Flop Re-re-raise: 0
+  When was the aggressor-pre-flop:
+  C-bet: 0.66 ,  checked: 0.34
+  When faced aggression: fold: 0.5
+  Flop Re-raise Avg Strength: 0
+  Flop Call Re-raise: 2
+  Flop Call Re-raise Avg Strength: 61.515
+  Flop Re-re-raise Avg Strength: 0
+  Call Re-raise Range: {'Two Pair': 1, 'High Card': 1}
+  Re-re-raise Range: {}
+
+RIVER STATS:
+  River Check When Act First: 34
+  River Check Back: 8
+  River Calls: 3
+  River Check Call: 4
+  River Call Re-raise: 2
+  River Folds: 3
+  River Check Fold: 4
+  River Fold to Re-raise: 1
+  River Raise When Act First: 12
+  River Raise Bluff When Act First: 14
+  River Raise Value When Act First: 8
+  River Raise When Last: 10
+  River Check Raise: 0
+  River Re-raise: 3
+
+RIVER BET SIZES:
+
+RIVER RANGES:
+  Check When Act First Range: {'other': 30}
+  Check Back Range: {'other': 8}
+  Call Range: {'other': 7}
+  Call Re-raise Range: {'other': 2}
+  Raise When Act First Range: {'other': 5}
+  Raise When Last Range: {'other': 6}
+  Check Raise Range: {}
+  Re-raise Range: {'other': 2}
+
+RIVER RANGE STRENGTHS:
+  Check When Act First Avg Strength: 46.467
+  Check Back Avg Strength: 57.045
+  Call Avg Strength: 73.25999999999999
+  Call Re-raise Avg Strength: 91.715
+  Raise When Last Avg Strength: 45.838
+  Check Raise Avg Strength: 0
+  Re-raise Avg Strength: 65.38666666666667
+
+============================================================

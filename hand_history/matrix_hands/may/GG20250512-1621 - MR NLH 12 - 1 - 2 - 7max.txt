@@ -1,0 +1,90 @@
+Poker Hand #ring_873409978: NLH No Limit ($1/$2) - 2025/05/12 19:22:48
+Table 'MR NLH 1/2' 7-max Seat #2 is the button
+Seat 3: cee56aa3 ($401 in chips)
+Seat 2: Hero ($108.33 in chips)
+Seat 1: a8f97253 ($528.46 in chips)
+cee56aa3: posts small blind $1
+a8f97253: posts big blind $2
+*** HOLE CARDS ***
+Dealt to cee56aa3 
+Dealt to Hero [5h Qs]
+Dealt to a8f97253 
+Hero: folds
+cee56aa3: calls $1
+a8f97253: checks
+*** FLOP *** [Js 7s 4s]
+cee56aa3: checks
+a8f97253: checks
+*** TURN *** [Js 7s 4s] [Th]
+cee56aa3: checks
+a8f97253: checks
+*** RIVER *** [Js 7s 4s Th] [2s]
+cee56aa3: checks
+a8f97253: checks
+a8f97253: shows [4c 6s]
+cee56aa3: shows [7d 8s]
+*** SHOWDOWN ***
+cee56aa3 collected $4 from pot
+*** SUMMARY ***
+Total pot $4
+Board [Js 7s 4s Th 2s]
+Seat 3: cee56aa3(small blind) showed [7d 8s] and won ($4) with Jack High Flush
+Seat 2: Hero folded before Flop (didn't bet)
+Seat 1: a8f97253(big blind) showed [4c 6s] and lost with Jack High Flush
+
+
+
+Poker Hand #ring_873409600: NLH No Limit ($1/$2) - 2025/05/12 19:22:33
+Table 'MR NLH 1/2' 7-max Seat #1 is the button
+Seat 3: cee56aa3 ($400 in chips)
+Seat 2: Hero ($109.33 in chips)
+Seat 1: a8f97253 ($528.46 in chips)
+Hero: posts small blind $1
+cee56aa3: posts big blind $2
+*** HOLE CARDS ***
+Dealt to cee56aa3 
+Dealt to Hero [4h Qd]
+Dealt to a8f97253 
+a8f97253: folds
+Hero: folds
+*** SHOWDOWN ***
+cee56aa3 collected $3 from pot
+*** SUMMARY ***
+Total pot $3
+Seat 3: cee56aa3(big blind)won ($3)
+Seat 2: Hero(small blind) folded before Flop
+Seat 1: a8f97253 folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_873408667: NLH No Limit ($1/$2) - 2025/05/12 19:21:54
+Table 'MR NLH 1/2' 7-max Seat #3 is the button
+Seat 3: cee56aa3 ($405 in chips)
+Seat 2: Hero ($100 in chips)
+Seat 1: a8f97253 ($533.46 in chips)
+a8f97253: posts small blind $1
+Hero: posts big blind $2
+*** HOLE CARDS ***
+Dealt to cee56aa3 
+Dealt to Hero [5c Jc]
+Dealt to a8f97253 
+cee56aa3: raises $3 to $5
+a8f97253: calls $4
+Hero: calls $3
+*** FLOP *** [6c Kc 6h]
+a8f97253: checks
+Hero: bets $7.5
+cee56aa3: folds
+a8f97253: folds
+Uncalled bet ($7.5) returned to Hero
+*** SHOWDOWN ***
+Hero collected $15 from pot
+*** SUMMARY ***
+Total pot $15
+Board [6c Kc 6h]
+Seat 3: cee56aa3 folded on the Flop
+Seat 2: Hero(big blind)won ($15) with Pair of Sixes
+Seat 1: a8f97253(small blind) folded on the Flop
+
+
+

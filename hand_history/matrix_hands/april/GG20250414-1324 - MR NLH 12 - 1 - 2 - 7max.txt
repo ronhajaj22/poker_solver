@@ -1,0 +1,790 @@
+Poker Hand #ring_823166650: NLH No Limit ($1/$2) - 2025/04/14 16:35:37
+Table 'MR NLH 1/2' 7-max Seat #4 is the button
+Seat 1: 3cb81cba ($121.11 in chips)
+Seat 4: 506e6e3e ($58.67 in chips)
+Seat 5: 840f4aa5 ($211.99 in chips)
+Seat 3: a117788d ($174.03 in chips)
+Seat 6: 4cb684f0 ($106.83 in chips)
+Seat 7: Hero ($196.2 in chips)
+Seat 2: 210c4982 ($283.06 in chips)
+840f4aa5: posts small blind $1
+4cb684f0: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 3cb81cba 
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to a117788d 
+Dealt to 4cb684f0 
+Dealt to Hero [Th Tc]
+Dealt to 210c4982 
+Hero: raises $4 to $6
+3cb81cba: folds
+210c4982: raises $12 to $18
+a117788d: folds
+506e6e3e: folds
+840f4aa5: folds
+4cb684f0: folds
+Hero: calls $12
+*** FLOP *** [Ah Ts Ks]
+Hero: bets $19.5
+210c4982: raises $20.5 to $40
+Hero: calls $20.5
+*** TURN *** [Ah Ts Ks] [6d]
+Hero: bets $35.7
+210c4982: raises $189.36 to $225.06 and is all-in
+Hero: calls $102.5 and is all-in
+Uncalled bet ($86.86) returned to 210c4982
+210c4982: shows [Ac As]
+Hero: shows [Th Tc]
+*** RIVER *** [Ah Ts Ks 6d] [5h]
+*** SHOWDOWN ***
+210c4982 collected $395.4 from pot
+*** SUMMARY ***
+Total pot $395.4
+Board [Ah Ts Ks 6d 5h]
+Seat 1: 3cb81cba folded before Flop (didn't bet)
+Seat 4: 506e6e3e folded before Flop (didn't bet)
+Seat 5: 840f4aa5(small blind) folded before Flop
+Seat 3: a117788d folded before Flop (didn't bet)
+Seat 6: 4cb684f0(big blind) folded before Flop
+Seat 7: Hero showed [Th Tc] and lost with Three Tens
+Seat 2: 210c4982 showed [Ac As] and won ($395.4) with Three Aces
+
+
+
+Poker Hand #ring_823166094: NLH No Limit ($1/$2) - 2025/04/14 16:34:52
+Table 'MR NLH 1/2' 7-max Seat #3 is the button
+Seat 1: 3cb81cba ($59.17 in chips)
+Seat 4: 506e6e3e ($59.67 in chips)
+Seat 5: 840f4aa5 ($213.99 in chips)
+Seat 3: a117788d ($174.03 in chips)
+Seat 6: 4cb684f0 ($166 in chips)
+Seat 7: Hero ($202.2 in chips)
+Seat 2: 210c4982 ($283.06 in chips)
+506e6e3e: posts small blind $1
+840f4aa5: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 3cb81cba 
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to a117788d 
+Dealt to 4cb684f0 
+Dealt to Hero [Ts 9s]
+Dealt to 210c4982 
+4cb684f0: calls $2
+Hero: raises $4 to $6
+3cb81cba: calls $6
+210c4982: folds
+a117788d: folds
+506e6e3e: folds
+840f4aa5: folds
+4cb684f0: calls $4
+*** FLOP *** [8h Qh 3h]
+4cb684f0: checks
+Hero: checks
+3cb81cba: bets $21
+4cb684f0: raises $63 to $84
+Hero: folds
+3cb81cba: calls $32.17 and is all-in
+Uncalled bet ($30.83) returned to 4cb684f0
+3cb81cba: shows [Jd Qd] (Pair of Queens)
+4cb684f0: shows [7h 6h] (Queen High Flush)
+*** TURN *** [8h Qh 3h] [8c]
+*** RIVER *** [8h Qh 3h 8c] [8s]
+a117788d: shows [Qc]
+*** SHOWDOWN ***
+3cb81cba collected $127.34 from pot
+*** SUMMARY ***
+Total pot $127.34
+Board [8h Qh 3h 8c 8s]
+Seat 1: 3cb81cba showed [Jd Qd] and won ($127.34) with Eights Full over Queens
+Seat 4: 506e6e3e(small blind) folded before Flop
+Seat 5: 840f4aa5(big blind) folded before Flop
+Seat 3: a117788d folded before Flop (didn't bet)
+Seat 6: 4cb684f0 showed [7h 6h] and lost with Queen High Flush
+Seat 7: Hero folded on the Flop
+Seat 2: 210c4982 folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_823165489: NLH No Limit ($1/$2) - 2025/04/14 16:34:04
+Table 'MR NLH 1/2' 7-max Seat #2 is the button
+Seat 1: 3cb81cba ($70.17 in chips)
+Seat 4: 506e6e3e ($61.67 in chips)
+Seat 5: 840f4aa5 ($199.7 in chips)
+Seat 3: a117788d ($175.03 in chips)
+Seat 6: 4cb684f0 ($168 in chips)
+Seat 7: Hero ($202.2 in chips)
+Seat 2: 210c4982 ($283.06 in chips)
+a117788d: posts small blind $1
+506e6e3e: posts big blind $2
+4cb684f0: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 3cb81cba 
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to a117788d 
+Dealt to 4cb684f0 
+Dealt to Hero [8s Kc]
+Dealt to 210c4982 
+840f4aa5: calls $2
+4cb684f0: checks
+Hero: folds
+3cb81cba: raises $9 to $11
+210c4982: folds
+a117788d: folds
+506e6e3e: folds
+840f4aa5: calls $9
+4cb684f0: folds
+*** FLOP *** [7c 8c Qs]
+840f4aa5: checks
+3cb81cba: checks
+*** TURN *** [7c 8c Qs] [8h]
+840f4aa5: checks
+3cb81cba: checks
+*** RIVER *** [7c 8c Qs 8h] [8d]
+840f4aa5: checks
+3cb81cba: checks
+3cb81cba: shows [Ks Js]
+840f4aa5: shows [Ac 9c]
+*** SHOWDOWN ***
+840f4aa5 collected $27 from pot
+*** SUMMARY ***
+Total pot $27
+Board [7c 8c Qs 8h 8d]
+Seat 1: 3cb81cba showed [Ks Js] and lost with Three Eights
+Seat 4: 506e6e3e(big blind) folded before Flop
+Seat 5: 840f4aa5 showed [Ac 9c] and won ($27) with Three Eights
+Seat 3: a117788d(small blind) folded before Flop
+Seat 6: 4cb684f0 folded before Flop
+Seat 7: Hero folded before Flop (didn't bet)
+Seat 2: 210c4982 folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_823165089: NLH No Limit ($1/$2) - 2025/04/14 16:33:25
+Table 'MR NLH 1/2' 7-max Seat #1 is the button
+Seat 1: 3cb81cba ($35.5 in chips)
+Seat 4: 506e6e3e ($97.17 in chips)
+Seat 5: 840f4aa5 ($199.7 in chips)
+Seat 3: a117788d ($177.03 in chips)
+Seat 7: Hero ($202.2 in chips)
+Seat 2: 210c4982 ($284.06 in chips)
+210c4982: posts small blind $1
+a117788d: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 3cb81cba 
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to a117788d 
+Dealt to Hero [5c Tc]
+Dealt to 210c4982 
+506e6e3e: raises $4 to $6
+840f4aa5: folds
+Hero: folds
+3cb81cba: raises $29.5 to $35.5 and is all-in
+210c4982: folds
+a117788d: folds
+506e6e3e: calls $29.5
+3cb81cba: shows [Kh Qc]
+506e6e3e: shows [Js Jc]
+*** FLOP *** [Qs 5d 5s]
+*** TURN *** [Qs 5d 5s] [8s]
+*** RIVER *** [Qs 5d 5s 8s] [Qd]
+210c4982: shows [Qh]
+*** SHOWDOWN ***
+3cb81cba collected $74 from pot
+*** SUMMARY ***
+Total pot $74
+Board [Qs 5d 5s 8s Qd]
+Seat 1: 3cb81cba showed [Kh Qc] and won ($74) with Queens Full over Fives
+Seat 4: 506e6e3e showed [Js Jc] and lost with Pair of Queens and Pair of Jacks
+Seat 5: 840f4aa5 folded before Flop (didn't bet)
+Seat 3: a117788d(big blind) folded before Flop
+Seat 7: Hero folded before Flop (didn't bet)
+Seat 2: 210c4982(small blind) folded before Flop
+
+
+
+Poker Hand #ring_823164452: NLH No Limit ($1/$2) - 2025/04/14 16:32:42
+Table 'MR NLH 1/2' 7-max Seat #7 is the button
+Seat 1: 3cb81cba ($43.5 in chips)
+Seat 4: 506e6e3e ($97.17 in chips)
+Seat 5: 840f4aa5 ($199.7 in chips)
+Seat 3: a117788d ($177.03 in chips)
+Seat 7: Hero ($202.2 in chips)
+Seat 2: 210c4982 ($276.78 in chips)
+3cb81cba: posts small blind $1
+210c4982: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 3cb81cba 
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to a117788d 
+Dealt to Hero [5s Kh]
+Dealt to 210c4982 
+a117788d: folds
+506e6e3e: folds
+840f4aa5: folds
+Hero: folds
+3cb81cba: calls $1
+210c4982: checks
+*** FLOP *** [4d Jc 6d]
+3cb81cba: checks
+210c4982: bets $2
+3cb81cba: calls $2
+*** TURN *** [4d Jc 6d] [Ac]
+3cb81cba: checks
+210c4982: bets $4
+3cb81cba: calls $4
+*** RIVER *** [4d Jc 6d Ac] [Kd]
+3cb81cba: checks
+210c4982: checks
+3cb81cba: shows [8c 4h]
+210c4982: shows [Js 7c]
+*** SHOWDOWN ***
+210c4982 collected $16 from pot
+*** SUMMARY ***
+Total pot $16
+Board [4d Jc 6d Ac Kd]
+Seat 1: 3cb81cba(small blind) showed [8c 4h] and lost with Pair of Fours
+Seat 4: 506e6e3e folded before Flop (didn't bet)
+Seat 5: 840f4aa5 folded before Flop (didn't bet)
+Seat 3: a117788d folded before Flop (didn't bet)
+Seat 7: Hero folded before Flop (didn't bet)
+Seat 2: 210c4982(big blind) showed [Js 7c] and won ($16) with Pair of Jacks
+
+
+
+Poker Hand #ring_823163837: NLH No Limit ($1/$2) - 2025/04/14 16:31:47
+Table 'MR NLH 1/2' 7-max Seat #5 is the button
+Seat 1: 3cb81cba ($98 in chips)
+Seat 4: 506e6e3e ($97.17 in chips)
+Seat 5: 840f4aa5 ($199.7 in chips)
+Seat 3: a117788d ($177.03 in chips)
+Seat 7: Hero ($203.2 in chips)
+Seat 2: 210c4982 ($226.73 in chips)
+Hero: posts small blind $1
+3cb81cba: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 3cb81cba 
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to a117788d 
+Dealt to Hero [4h 7h]
+Dealt to 210c4982 
+210c4982: raises $3 to $5
+a117788d: folds
+506e6e3e: folds
+840f4aa5: folds
+Hero: folds
+3cb81cba: calls $3
+*** FLOP *** [3d Kh Ts]
+3cb81cba: bets $8.25
+210c4982: calls $8.25
+*** TURN *** [3d Kh Ts] [Js]
+3cb81cba: checks
+210c4982: bets $13.75
+3cb81cba: calls $13.75
+*** RIVER *** [3d Kh Ts Js] [5c]
+3cb81cba: bets $27.5
+210c4982: calls $27.5
+3cb81cba: shows [Qd 5s]
+210c4982: shows [Qh Tc]
+*** SHOWDOWN ***
+210c4982 collected $110 from pot
+*** SUMMARY ***
+Total pot $110
+Board [3d Kh Ts Js 5c]
+Seat 1: 3cb81cba(big blind) showed [Qd 5s] and lost with Pair of Fives
+Seat 4: 506e6e3e folded before Flop (didn't bet)
+Seat 5: 840f4aa5 folded before Flop (didn't bet)
+Seat 3: a117788d folded before Flop (didn't bet)
+Seat 7: Hero(small blind) folded before Flop
+Seat 2: 210c4982 showed [Qh Tc] and won ($110) with Pair of Tens
+
+
+
+Poker Hand #ring_823163510: NLH No Limit ($1/$2) - 2025/04/14 16:31:14
+Table 'MR NLH 1/2' 7-max Seat #4 is the button
+Seat 1: 3cb81cba ($100 in chips)
+Seat 4: 506e6e3e ($97.17 in chips)
+Seat 5: 840f4aa5 ($200.7 in chips)
+Seat 3: a117788d ($172.03 in chips)
+Seat 7: Hero ($205.2 in chips)
+Seat 2: 210c4982 ($226.73 in chips)
+840f4aa5: posts small blind $1
+Hero: posts big blind $2
+3cb81cba: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 3cb81cba 
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to a117788d 
+Dealt to Hero [6s Qh]
+Dealt to 210c4982 
+3cb81cba: checks
+210c4982: folds
+a117788d: raises $3 to $5
+506e6e3e: folds
+840f4aa5: folds
+Hero: folds
+3cb81cba: folds
+Uncalled bet ($3) returned to a117788d
+*** SHOWDOWN ***
+a117788d collected $7 from pot
+*** SUMMARY ***
+Total pot $7
+Seat 1: 3cb81cba folded before Flop
+Seat 4: 506e6e3e folded before Flop (didn't bet)
+Seat 5: 840f4aa5(small blind) folded before Flop
+Seat 3: a117788dwon ($7)
+Seat 7: Hero(big blind) folded before Flop
+Seat 2: 210c4982 folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_823163125: NLH No Limit ($1/$2) - 2025/04/14 16:30:31
+Table 'MR NLH 1/2' 7-max Seat #3 is the button
+Seat 4: 506e6e3e ($87.1 in chips)
+Seat 5: 840f4aa5 ($202.7 in chips)
+Seat 3: a117788d ($180.99 in chips)
+Seat 7: Hero ($205.2 in chips)
+Seat 2: 210c4982 ($226.73 in chips)
+506e6e3e: posts small blind $1
+840f4aa5: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to a117788d 
+Dealt to Hero [5s 4h]
+Dealt to 210c4982 
+Hero: folds
+210c4982: folds
+a117788d: raises $3 to $5
+506e6e3e: calls $4
+840f4aa5: folds
+*** FLOP *** [As Jh 9d]
+506e6e3e: checks
+a117788d: bets $3.96
+506e6e3e: raises $6.57 to $10.53
+a117788d: folds
+Uncalled bet ($6.57) returned to 506e6e3e
+*** SHOWDOWN ***
+506e6e3e collected $19.92 from pot
+*** SUMMARY ***
+Total pot $19.92
+Board [As Jh 9d]
+Seat 4: 506e6e3e(small blind)won ($19.92) with Pair of Jacks
+Seat 5: 840f4aa5(big blind) folded before Flop
+Seat 3: a117788d folded on the Flop
+Seat 7: Hero folded before Flop (didn't bet)
+Seat 2: 210c4982 folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_823162959: NLH No Limit ($1/$2) - 2025/04/14 16:30:14
+Table 'MR NLH 1/2' 7-max Seat #2 is the button
+Seat 4: 506e6e3e ($86.1 in chips)
+Seat 5: 840f4aa5 ($202.7 in chips)
+Seat 3: a117788d ($181.99 in chips)
+Seat 7: Hero ($205.2 in chips)
+Seat 2: 210c4982 ($226.73 in chips)
+a117788d: posts small blind $1
+506e6e3e: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to a117788d 
+Dealt to Hero [8h 3s]
+Dealt to 210c4982 
+840f4aa5: folds
+Hero: folds
+210c4982: folds
+a117788d: folds
+*** SHOWDOWN ***
+506e6e3e collected $3 from pot
+*** SUMMARY ***
+Total pot $3
+Seat 4: 506e6e3e(big blind)won ($3)
+Seat 5: 840f4aa5 folded before Flop (didn't bet)
+Seat 3: a117788d(small blind) folded before Flop
+Seat 7: Hero folded before Flop (didn't bet)
+Seat 2: 210c4982 folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_823162596: NLH No Limit ($1/$2) - 2025/04/14 16:29:38
+Table 'MR NLH 1/2' 7-max Seat #7 is the button
+Seat 4: 506e6e3e ($86.1 in chips)
+Seat 5: 840f4aa5 ($199.92 in chips)
+Seat 3: a117788d ($183.99 in chips)
+Seat 7: Hero ($205.2 in chips)
+Seat 2: 210c4982 ($227.73 in chips)
+210c4982: posts small blind $1
+a117788d: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to a117788d 
+Dealt to Hero [5d Ac]
+Dealt to 210c4982 
+506e6e3e: folds
+840f4aa5: calls $2
+Hero: folds
+210c4982: folds
+a117788d: checks
+*** FLOP *** [Kc 5c 7c]
+a117788d: checks
+840f4aa5: checks
+*** TURN *** [Kc 5c 7c] [9h]
+a117788d: checks
+840f4aa5: checks
+*** RIVER *** [Kc 5c 7c 9h] [Kh]
+a117788d: checks
+840f4aa5: checks
+a117788d: shows [Jc Td]
+840f4aa5: shows [9s Qs]
+*** SHOWDOWN ***
+840f4aa5 collected $5 from pot
+*** SUMMARY ***
+Total pot $5
+Board [Kc 5c 7c 9h Kh]
+Seat 4: 506e6e3e folded before Flop (didn't bet)
+Seat 5: 840f4aa5 showed [9s Qs] and won ($5) with Pair of Kings and Pair of Nines
+Seat 3: a117788d(big blind) showed [Jc Td] and lost with Pair of Kings
+Seat 7: Hero folded before Flop (didn't bet)
+Seat 2: 210c4982(small blind) folded before Flop
+
+
+
+Poker Hand #ring_823162281: NLH No Limit ($1/$2) - 2025/04/14 16:29:01
+Table 'MR NLH 1/2' 7-max Seat #5 is the button
+Seat 4: 506e6e3e ($92.1 in chips)
+Seat 5: 840f4aa5 ($199.92 in chips)
+Seat 3: a117788d ($183.99 in chips)
+Seat 7: Hero ($197.83 in chips)
+Seat 2: 210c4982 ($229.73 in chips)
+Hero: posts small blind $1
+210c4982: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to a117788d 
+Dealt to Hero [2d 2s]
+Dealt to 210c4982 
+a117788d: folds
+506e6e3e: raises $4 to $6
+840f4aa5: folds
+Hero: calls $5
+210c4982: folds
+*** FLOP *** [Tc Td 3d]
+Hero: checks
+506e6e3e: checks
+*** TURN *** [Tc Td 3d] [8d]
+Hero: checks
+506e6e3e: checks
+*** RIVER *** [Tc Td 3d 8d] [5c]
+Hero: checks
+506e6e3e: checks
+506e6e3e: shows [Ah 7c]
+Hero: shows [2d 2s]
+*** SHOWDOWN ***
+Hero collected $14 from pot
+*** SUMMARY ***
+Total pot $14
+Board [Tc Td 3d 8d 5c]
+Seat 4: 506e6e3e showed [Ah 7c] and lost with Pair of Tens
+Seat 5: 840f4aa5 folded before Flop (didn't bet)
+Seat 3: a117788d folded before Flop (didn't bet)
+Seat 7: Hero(small blind) showed [2d 2s] and won ($14) with Pair of Tens and Pair of Twos
+Seat 2: 210c4982(big blind) folded before Flop
+
+
+
+Poker Hand #ring_823162119: NLH No Limit ($1/$2) - 2025/04/14 16:28:47
+Table 'MR NLH 1/2' 7-max Seat #4 is the button
+Seat 4: 506e6e3e ($92.1 in chips)
+Seat 5: 840f4aa5 ($200.92 in chips)
+Seat 3: a117788d ($183.99 in chips)
+Seat 7: Hero ($196.83 in chips)
+Seat 2: 210c4982 ($229.73 in chips)
+840f4aa5: posts small blind $1
+Hero: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to a117788d 
+Dealt to Hero [Qc 8d]
+Dealt to 210c4982 
+210c4982: folds
+a117788d: folds
+506e6e3e: folds
+840f4aa5: folds
+*** SHOWDOWN ***
+Hero collected $3 from pot
+*** SUMMARY ***
+Total pot $3
+Seat 4: 506e6e3e folded before Flop (didn't bet)
+Seat 5: 840f4aa5(small blind) folded before Flop
+Seat 3: a117788d folded before Flop (didn't bet)
+Seat 7: Hero(big blind)won ($3)
+Seat 2: 210c4982 folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_823161966: NLH No Limit ($1/$2) - 2025/04/14 16:28:30
+Table 'MR NLH 1/2' 7-max Seat #3 is the button
+Seat 4: 506e6e3e ($93.1 in chips)
+Seat 5: 840f4aa5 ($202.92 in chips)
+Seat 3: a117788d ($183.99 in chips)
+Seat 7: Hero ($193.83 in chips)
+Seat 2: 210c4982 ($229.73 in chips)
+506e6e3e: posts small blind $1
+840f4aa5: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to a117788d 
+Dealt to Hero [Ac 2c]
+Dealt to 210c4982 
+Hero: raises $3 to $5
+210c4982: folds
+a117788d: folds
+506e6e3e: folds
+840f4aa5: folds
+Uncalled bet ($3) returned to Hero
+*** SHOWDOWN ***
+Hero collected $5 from pot
+*** SUMMARY ***
+Total pot $5
+Seat 4: 506e6e3e(small blind) folded before Flop
+Seat 5: 840f4aa5(big blind) folded before Flop
+Seat 3: a117788d folded before Flop (didn't bet)
+Seat 7: Herowon ($5)
+Seat 2: 210c4982 folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_823161610: NLH No Limit ($1/$2) - 2025/04/14 16:27:51
+Table 'MR NLH 1/2' 7-max Seat #2 is the button
+Seat 4: 506e6e3e ($105.6 in chips)
+Seat 5: 840f4aa5 ($202.92 in chips)
+Seat 3: a117788d ($184.99 in chips)
+Seat 7: Hero ($182 in chips)
+Seat 2: 210c4982 ($229.73 in chips)
+a117788d: posts small blind $1
+506e6e3e: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to a117788d 
+Dealt to Hero [As Kh]
+Dealt to 210c4982 
+840f4aa5: folds
+Hero: raises $4 to $6
+210c4982: folds
+a117788d: folds
+506e6e3e: calls $4
+*** FLOP *** [7c Tc Kc]
+506e6e3e: checks
+Hero: bets $6.5
+506e6e3e: calls $6.5
+*** TURN *** [7c Tc Kc] [3s]
+506e6e3e: checks
+Hero: bets $26
+506e6e3e: folds
+Uncalled bet ($26) returned to Hero
+*** SHOWDOWN ***
+Hero collected $26 from pot
+*** SUMMARY ***
+Total pot $26
+Board [7c Tc Kc 3s]
+Seat 4: 506e6e3e(big blind) folded on the Turn
+Seat 5: 840f4aa5 folded before Flop (didn't bet)
+Seat 3: a117788d(small blind) folded before Flop
+Seat 7: Herowon ($26) with Pair of Kings
+Seat 2: 210c4982 folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_823161016: NLH No Limit ($1/$2) - 2025/04/14 16:26:40
+Table 'MR NLH 1/2' 7-max Seat #1 is the button
+Seat 1: 4ac9eb87 ($84.02 in chips)
+Seat 4: 506e6e3e ($111.6 in chips)
+Seat 5: 840f4aa5 ($202.92 in chips)
+Seat 3: a117788d ($97.57 in chips)
+Seat 7: Hero ($182 in chips)
+Seat 2: 210c4982 ($235.73 in chips)
+210c4982: posts small blind $1
+a117788d: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 4ac9eb87 
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to a117788d 
+Dealt to Hero [Kd 6d]
+Dealt to 210c4982 
+506e6e3e: raises $4 to $6
+840f4aa5: folds
+Hero: folds
+4ac9eb87: calls $6
+210c4982: calls $5
+a117788d: raises $24 to $30
+506e6e3e: folds
+4ac9eb87: raises $54.02 to $84.02 and is all-in
+210c4982: folds
+a117788d: calls $54.02
+4ac9eb87: shows [8c 9c]
+a117788d: shows [Jc Ah]
+*** FLOP *** [2h 4d Qh]
+*** TURN *** [2h 4d Qh] [2s]
+*** RIVER *** [2h 4d Qh 2s] [5d]
+*** SHOWDOWN ***
+a117788d collected $180.04 from pot
+*** SUMMARY ***
+Total pot $180.04
+Board [2h 4d Qh 2s 5d]
+Seat 1: 4ac9eb87 showed [8c 9c] and lost with Pair of Twos
+Seat 4: 506e6e3e folded before Flop
+Seat 5: 840f4aa5 folded before Flop (didn't bet)
+Seat 3: a117788d(big blind) showed [Jc Ah] and won ($180.04) with Pair of Twos
+Seat 7: Hero folded before Flop (didn't bet)
+Seat 2: 210c4982(small blind) folded before Flop
+
+
+
+Poker Hand #ring_823160832: NLH No Limit ($1/$2) - 2025/04/14 16:26:18
+Table 'MR NLH 1/2' 7-max Seat #7 is the button
+Seat 1: 4ac9eb87 ($85.02 in chips)
+Seat 4: 506e6e3e ($111.6 in chips)
+Seat 5: 840f4aa5 ($202.92 in chips)
+Seat 3: a117788d ($97.57 in chips)
+Seat 7: Hero ($179 in chips)
+Seat 2: 210c4982 ($237.73 in chips)
+4ac9eb87: posts small blind $1
+210c4982: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 4ac9eb87 
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to a117788d 
+Dealt to Hero [Ah 7c]
+Dealt to 210c4982 
+a117788d: folds
+506e6e3e: folds
+840f4aa5: folds
+Hero: raises $4 to $6
+4ac9eb87: folds
+210c4982: folds
+Uncalled bet ($4) returned to Hero
+*** SHOWDOWN ***
+Hero collected $5 from pot
+*** SUMMARY ***
+Total pot $5
+Seat 1: 4ac9eb87(small blind) folded before Flop
+Seat 4: 506e6e3e folded before Flop (didn't bet)
+Seat 5: 840f4aa5 folded before Flop (didn't bet)
+Seat 3: a117788d folded before Flop (didn't bet)
+Seat 7: Herowon ($5)
+Seat 2: 210c4982(big blind) folded before Flop
+
+
+
+Poker Hand #ring_823160506: NLH No Limit ($1/$2) - 2025/04/14 16:25:38
+Table 'MR NLH 1/2' 7-max Seat #6 is the button
+Seat 1: 4ac9eb87 ($69.14 in chips)
+Seat 4: 506e6e3e ($111.6 in chips)
+Seat 5: 840f4aa5 ($202.92 in chips)
+Seat 6: f9e11255 ($400 in chips)
+Seat 3: a117788d ($97.57 in chips)
+Seat 7: Hero ($197 in chips)
+Seat 2: 210c4982 ($237.73 in chips)
+Hero: posts small blind $1
+4ac9eb87: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 4ac9eb87 
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to f9e11255 
+Dealt to a117788d 
+Dealt to Hero [Kd Js]
+Dealt to 210c4982 
+210c4982: folds
+a117788d: folds
+506e6e3e: folds
+840f4aa5: folds
+f9e11255: folds
+Hero: raises $4 to $6
+4ac9eb87: raises $12 to $18
+Hero: calls $12
+*** FLOP *** [3c 7d Qh]
+Hero: checks
+4ac9eb87: bets $18
+Hero: folds
+Uncalled bet ($18) returned to 4ac9eb87
+*** SHOWDOWN ***
+4ac9eb87 collected $36 from pot
+*** SUMMARY ***
+Total pot $36
+Board [3c 7d Qh]
+Seat 1: 4ac9eb87(big blind)won ($36) with Pair of Treys
+Seat 4: 506e6e3e folded before Flop (didn't bet)
+Seat 5: 840f4aa5 folded before Flop (didn't bet)
+Seat 6: f9e11255 folded before Flop (didn't bet)
+Seat 3: a117788d folded before Flop (didn't bet)
+Seat 7: Hero(small blind) folded on the Flop
+Seat 2: 210c4982 folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_823160081: NLH No Limit ($1/$2) - 2025/04/14 16:24:53
+Table 'MR NLH 1/2' 7-max Seat #5 is the button
+Seat 1: 4ac9eb87 ($69.14 in chips)
+Seat 4: 506e6e3e ($98 in chips)
+Seat 5: 840f4aa5 ($202.92 in chips)
+Seat 6: f9e11255 ($400 in chips)
+Seat 3: a117788d ($97.57 in chips)
+Seat 7: Hero ($202 in chips)
+Seat 2: 210c4982 ($242.73 in chips)
+f9e11255: posts small blind $1
+Hero: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 4ac9eb87 
+Dealt to 506e6e3e 
+Dealt to 840f4aa5 
+Dealt to f9e11255 
+Dealt to a117788d 
+Dealt to Hero [Jc 2c]
+Dealt to 210c4982 
+4ac9eb87: folds
+210c4982: raises $3 to $5
+a117788d: folds
+506e6e3e: calls $5
+840f4aa5: folds
+f9e11255: calls $4
+Hero: calls $3
+*** FLOP *** [6c 4h 9s]
+f9e11255: checks
+Hero: checks
+210c4982: checks
+506e6e3e: bets $6.6
+f9e11255: folds
+Hero: folds
+210c4982: folds
+Uncalled bet ($6.6) returned to 506e6e3e
+*** SHOWDOWN ***
+506e6e3e collected $20 from pot
+*** SUMMARY ***
+Total pot $20
+Board [6c 4h 9s]
+Seat 1: 4ac9eb87 folded before Flop (didn't bet)
+Seat 4: 506e6e3ewon ($20) with Pair of Sixes
+Seat 5: 840f4aa5 folded before Flop (didn't bet)
+Seat 6: f9e11255(small blind) folded on the Flop
+Seat 3: a117788d folded before Flop (didn't bet)
+Seat 7: Hero(big blind) folded on the Flop
+Seat 2: 210c4982 folded on the Flop
+
+
+

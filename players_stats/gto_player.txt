@@ -1,0 +1,43 @@
+Flop stats
+
+When check to him: 
+Bet: 36.6, Check: 63.4
+Bet sizes: small (0-36%): 19, medium (36-67%): 8, big (67-100%): 6.7, overbet(>100%): 2.9
+
+VS Bet:
+Fold: 40.8%, Call: 47.9%, Raise: 11.3%
+Fold (vs different sizes): vs small: 33.8%, vs medium: 41.4%, vs large: 50%, vs overbet: 62.9%
+Call (vs different sizes): vs small: 51.8%, vs medium: 48.6%, vs large: 42.9%, vs overbet: 32.6%
+Raise (vs different sizes): vs small: 14.4%, vs medium: 9.9%, vs large: 7.1%, vs overbet: 4.5%
+
+VS Re-Raise:
+Fold: 42.3%, Call: 49.5%, 4-bet: 8.2%
+
+Flop stats - SRP:
+When check to him: 
+Bet: 36.6, Check: 63.4
+Bet sizes: small (0-36%): 19, medium (36-67%): 8, big (67-100%): 6.7, overbet(>100%): 2.9
+
+VS Bet:
+Fold: 40.8%, Call: 47.9%, Raise: 11.3%
+Fold (vs different sizes): vs small: 33.8%, vs medium: 41.4%, vs large: 50%, vs overbet: 62.9%
+Call (vs different sizes): vs small: 51.8%, vs medium: 48.6%, vs large: 42.9%, vs overbet: 32.6%
+Raise (vs different sizes): vs small: 14.4%, vs medium: 9.9%, vs large: 7.1%, vs overbet: 4.5%
+
+VS Re-Raise:
+Fold: 42.3%, Call: 49.5%, 4-bet: 8.2%
+
+Flop Stats - 3Bet pot:
+When check to him: 
+Bet: 36.6, Check: 63.4
+Bet sizes: small (0-36%): 19, medium (36-67%): 8, big (67-100%): 6.7, overbet(>100%): 2.9
+
+VS Bet:
+Fold: 40.8%, Call: 47.9%, Raise: 11.3%
+Fold (vs different sizes): vs small: 33.8%, vs medium: 41.4%, vs large: 50%, vs overbet: 62.9%
+Call (vs different sizes): vs small: 51.8%, vs medium: 48.6%, vs large: 42.9%, vs overbet: 32.6%
+Raise (vs different sizes): vs small: 14.4%, vs medium: 9.9%, vs large: 7.1%, vs overbet: 4.5%
+
+VS Re-Raise:
+Fold: 42.3%, Call: 49.5%, 4-bet: 8.2%
+

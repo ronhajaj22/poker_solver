@@ -1,0 +1,5782 @@
+Poker Hand #ring_995884067: NLH No Limit ($3/$6) - 2025/07/17 01:00:21
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($3,685.42 in chips)
+Seat 2: EliorDahan ($1,725.24 in chips)
+Seat 3: ie11 ($705 in chips)
+Seat 4: Hero ($729.03 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [2d 9c]
+NagastiBagamba: raises $18 to $24
+EliorDahan: calls $24
+ie11: calls $21
+Hero: folds
+*** FLOP *** [3d 4d Ks]
+ie11: checks
+NagastiBagamba: bets $54.6
+EliorDahan: calls $54.6
+ie11: calls $54.6
+*** TURN *** [3d 4d Ks] [5d]
+ie11: checks
+NagastiBagamba: checks
+EliorDahan: checks
+*** RIVER *** [3d 4d Ks 5d] [2c]
+ie11: bets $159.59
+NagastiBagamba: folds
+EliorDahan: calls $159.59
+EliorDahan: shows [6s 6h]
+ie11: shows [9d Qd]
+*** SHOWDOWN ***
+ie11 collected $560.98 from pot
+*** SUMMARY ***
+Total pot $560.98
+Board [3d 4d Ks 5d 2c]
+Seat 7: NagastiBagamba folded on the River
+Seat 2: EliorDahan showed [6s 6h] and lost with Sixes-High Straight
+Seat 3: ie11(small blind) showed [9d Qd] and won ($560.98) with Queen High Flush
+Seat 4: Hero(big blind) folded before Flop
+
+
+
+Poker Hand #ring_995882954: NLH No Limit ($3/$6) - 2025/07/17 00:59:46
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($3,685.42 in chips)
+Seat 2: EliorDahan ($1,716.24 in chips)
+Seat 3: ie11 ($723 in chips)
+Seat 4: Hero ($720.03 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Kh Js]
+Hero: raises $12 to $18
+NagastiBagamba: folds
+EliorDahan: calls $15
+ie11: calls $12
+*** FLOP *** [Kc 6h 6s]
+EliorDahan: checks
+ie11: checks
+Hero: checks
+*** TURN *** [Kc 6h 6s] [Qc]
+EliorDahan: bets $27
+ie11: folds
+Hero: calls $27
+*** RIVER *** [Kc 6h 6s Qc] [3s]
+EliorDahan: checks
+Hero: bets $54
+EliorDahan: calls $54
+EliorDahan: shows [Ts Ks]
+Hero: shows [Kh Js]
+*** SHOWDOWN ***
+EliorDahan collected $108 from pot
+Hero collected $108 from pot
+*** SUMMARY ***
+Total pot $216
+Board [Kc 6h 6s Qc 3s]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan(small blind) showed [Ts Ks] and won ($108) with Pair of Kings and Pair of Sixes
+Seat 3: ie11(big blind) folded on the Turn
+Seat 4: Hero showed [Kh Js] and won ($108) with Pair of Kings and Pair of Sixes
+
+
+
+Poker Hand #ring_995881046: NLH No Limit ($3/$6) - 2025/07/17 00:58:46
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($3,688.42 in chips)
+Seat 2: EliorDahan ($1,327.75 in chips)
+Seat 3: ie11 ($747 in chips)
+Seat 4: Hero ($1,081.52 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Th Ah]
+ie11: calls $6
+Hero: raises $18 to $24
+NagastiBagamba: folds
+EliorDahan: calls $18
+ie11: calls $18
+*** FLOP *** [Ac 8h Qs]
+EliorDahan: checks
+ie11: checks
+Hero: bets $37.5
+EliorDahan: calls $37.5
+ie11: folds
+*** TURN *** [Ac 8h Qs] [7d]
+EliorDahan: checks
+Hero: bets $75
+EliorDahan: calls $75
+*** RIVER *** [Ac 8h Qs 7d] [4c]
+EliorDahan: bets $224.99
+Hero: calls $224.99
+EliorDahan: shows [7s Qc]
+Hero: shows [Th Ah]
+*** SHOWDOWN ***
+EliorDahan collected $749.98 from pot
+*** SUMMARY ***
+Total pot $749.98
+Board [Ac 8h Qs 7d 4c]
+Seat 7: NagastiBagamba(small blind) folded before Flop
+Seat 2: EliorDahan(big blind) showed [7s Qc] and won ($749.98) with Pair of Queens and Pair of Sevens
+Seat 3: ie11 folded on the Flop
+Seat 4: Hero showed [Th Ah] and lost with Pair of Aces
+
+
+
+Poker Hand #ring_995879791: NLH No Limit ($3/$6) - 2025/07/17 00:58:07
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($3,751.42 in chips)
+Seat 2: EliorDahan ($1,234.75 in chips)
+Seat 3: ie11 ($771 in chips)
+Seat 4: Hero ($1,087.52 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Kd 5c]
+EliorDahan: calls $6
+ie11: calls $6
+Hero: calls $3
+NagastiBagamba: raises $18 to $24
+EliorDahan: calls $18
+ie11: calls $18
+Hero: folds
+*** FLOP *** [8h 4s 8d]
+NagastiBagamba: bets $39
+EliorDahan: calls $39
+ie11: folds
+*** TURN *** [8h 4s 8d] [Td]
+NagastiBagamba: checks
+EliorDahan: bets $78
+NagastiBagamba: folds
+Uncalled bet ($78) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $156 from pot
+*** SUMMARY ***
+Total pot $156
+Board [8h 4s 8d Td]
+Seat 7: NagastiBagamba(big blind) folded on the Turn
+Seat 2: EliorDahanwon ($156) with Pair of Eights
+Seat 3: ie11 folded on the Flop
+Seat 4: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_995877588: NLH No Limit ($3/$6) - 2025/07/17 00:57:01
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($3,751.42 in chips)
+Seat 2: EliorDahan ($1,072.05 in chips)
+Seat 3: ie11 ($774 in chips)
+Seat 4: Hero ($1,247.22 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [6c 6s]
+NagastiBagamba: folds
+EliorDahan: raises $12 to $18
+ie11: folds
+Hero: calls $12
+*** FLOP *** [8h 5s Ks]
+Hero: checks
+EliorDahan: bets $39
+Hero: calls $39
+*** TURN *** [8h 5s Ks] [5c]
+Hero: checks
+EliorDahan: bets $38.61
+Hero: calls $38.61
+*** RIVER *** [8h 5s Ks 5c] [Td]
+Hero: checks
+EliorDahan: bets $64.09
+Hero: calls $64.09
+EliorDahan: shows [Kd 5d]
+Hero: shows [6c 6s]
+*** SHOWDOWN ***
+EliorDahan collected $322.4 from pot
+*** SUMMARY ***
+Total pot $322.4
+Board [8h 5s Ks 5c Td]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan showed [Kd 5d] and won ($322.4) with Fives Full over Kings
+Seat 3: ie11(small blind) folded before Flop
+Seat 4: Hero(big blind) showed [6c 6s] and lost with Pair of Sixes and Pair of Fives
+
+
+
+Poker Hand #ring_995877075: NLH No Limit ($3/$6) - 2025/07/17 00:56:45
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($3,742.42 in chips)
+Seat 2: EliorDahan ($1,075.05 in chips)
+Seat 3: ie11 ($780 in chips)
+Seat 4: Hero ($1,247.22 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [3s 6d]
+Hero: folds
+NagastiBagamba: raises $18 to $24
+EliorDahan: folds
+ie11: folds
+Uncalled bet ($18) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $15 from pot
+*** SUMMARY ***
+Total pot $15
+Seat 7: NagastiBagambawon ($15)
+Seat 2: EliorDahan(small blind) folded before Flop
+Seat 3: ie11(big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995875722: NLH No Limit ($3/$6) - 2025/07/17 00:56:03
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($3,760.42 in chips)
+Seat 2: EliorDahan ($1,357.38 in chips)
+Seat 3: ie11 ($780 in chips)
+Seat 4: Hero ($946.89 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Td Th]
+ie11: folds
+Hero: raises $12 to $18
+NagastiBagamba: calls $15
+EliorDahan: calls $12
+*** FLOP *** [2c 3s 7c]
+NagastiBagamba: checks
+EliorDahan: checks
+Hero: bets $43.2
+NagastiBagamba: folds
+EliorDahan: calls $43.2
+*** TURN *** [2c 3s 7c] [7d]
+EliorDahan: bets $105.3
+Hero: calls $105.3
+*** RIVER *** [2c 3s 7c 7d] [Qh]
+EliorDahan: bets $115.83
+Hero: calls $115.83
+EliorDahan: shows [3c 8c]
+Hero: shows [Td Th]
+*** SHOWDOWN ***
+Hero collected $582.66 from pot
+*** SUMMARY ***
+Total pot $582.66
+Board [2c 3s 7c 7d Qh]
+Seat 7: NagastiBagamba(small blind) folded on the Flop
+Seat 2: EliorDahan(big blind) showed [3c 8c] and lost with Pair of Sevens and Pair of Treys
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero showed [Td Th] and won ($582.66) with Pair of Tens and Pair of Sevens
+
+
+
+Poker Hand #ring_995874981: NLH No Limit ($3/$6) - 2025/07/17 00:55:40
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($3,748.42 in chips)
+Seat 2: EliorDahan ($1,357.38 in chips)
+Seat 3: ie11 ($786 in chips)
+Seat 4: Hero ($952.89 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [6s 3h]
+EliorDahan: folds
+ie11: checks
+Hero: calls $3
+NagastiBagamba: checks
+*** FLOP *** [Td 8s 4d]
+Hero: checks
+NagastiBagamba: bets $12.6
+ie11: folds
+Hero: folds
+Uncalled bet ($12.6) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $18 from pot
+*** SUMMARY ***
+Total pot $18
+Board [Td 8s 4d]
+Seat 7: NagastiBagamba(big blind)won ($18) with Pair of Tens
+Seat 2: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11 folded on the Flop
+Seat 4: Hero(small blind) folded on the Flop
+
+
+
+Poker Hand #ring_995874522: NLH No Limit ($3/$6) - 2025/07/17 00:55:26
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($3,748.42 in chips)
+Seat 2: EliorDahan ($1,351.38 in chips)
+Seat 4: Hero ($958.89 in chips)
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to Hero [6s Th]
+NagastiBagamba: folds
+EliorDahan: raises $12 to $18
+Hero: folds
+Uncalled bet ($12) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $12 from pot
+*** SUMMARY ***
+Total pot $12
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahanwon ($12)
+Seat 4: Hero(big blind) folded before Flop
+
+
+
+Poker Hand #ring_995873348: NLH No Limit ($3/$6) - 2025/07/17 00:54:51
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($3,748.42 in chips)
+Seat 2: EliorDahan ($1,059.04 in chips)
+Seat 3: ie11 ($292.34 in chips)
+Seat 4: Hero ($958.89 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [8c Js]
+Hero: folds
+NagastiBagamba: folds
+EliorDahan: raises $18 to $24
+ie11: raises $48 to $72
+EliorDahan: calls $48
+*** FIRST FLOP *** [8s 8d Qs]
+EliorDahan: checks
+ie11: bets $220.34 and is all-in
+EliorDahan: calls $220.34
+EliorDahan: shows [7c Qc] (Pair of Queens and Pair of Eights)
+ie11: shows [Ad Td] (Pair of Eights)
+*** FIRST TURN *** [8s 8d Qs] [8h]
+*** SECOND TURN *** [8s 8d Qs] [Ks]
+*** FIRST RIVER *** [8s 8d Qs 8h] [9c]
+*** SECOND RIVER *** [8s 8d Qs Ks] [Qh]
+Hero: shows [8c]
+*** FIRST SHOWDOWN ***
+EliorDahan collected $292.34 from pot
+*** SECOND SHOWDOWN ***
+EliorDahan collected $292.34 from pot
+*** SUMMARY ***
+Total pot $584.68
+Hand was run two timesFIRST Board [8s 8d Qs 8h 9c]
+SECOND Board [Ks Qh]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan(small blind) showed [7c Qc] and won ($584.68) with Eights Full over Queens / Queens Full over Eights
+Seat 3: ie11(big blind) showed [Ad Td] and lost with Three Eights / Pair of Queens and Pair of Eights
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995872055: NLH No Limit ($3/$6) - 2025/07/17 00:54:11
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($3,751.42 in chips)
+Seat 2: EliorDahan ($528.02 in chips)
+Seat 3: ie11 ($820.36 in chips)
+Seat 4: Hero ($958.89 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [2c 9h]
+ie11: calls $6
+Hero: folds
+NagastiBagamba: folds
+EliorDahan: raises $16.2 to $22.2
+ie11: calls $16.2
+*** FIRST FLOP *** [3s 4s 9c]
+EliorDahan: bets $35.55
+ie11: raises $39.11 to $74.66
+EliorDahan: raises $196.72 to $271.38
+ie11: raises $526.78 to $798.16 and is all-in
+EliorDahan: calls $234.44 and is all-in
+Uncalled bet ($292.34) returned to ie11
+EliorDahan: shows [Qd Qh] (Pair of Queens)
+ie11: shows [Th 9s] (Pair of Nines)
+*** FIRST TURN *** [3s 4s 9c] [8h]
+*** SECOND TURN *** [3s 4s 9c] [Kh]
+*** FIRST RIVER *** [3s 4s 9c 8h] [6s]
+*** SECOND RIVER *** [3s 4s 9c Kh] [Kd]
+Hero: shows [9h]
+*** FIRST SHOWDOWN ***
+EliorDahan collected $529.52 from pot
+*** SECOND SHOWDOWN ***
+EliorDahan collected $529.52 from pot
+*** SUMMARY ***
+Total pot $1,059.04
+Hand was run two timesFIRST Board [3s 4s 9c 8h 6s]
+SECOND Board [Kh Kd]
+Seat 7: NagastiBagamba(small blind) folded before Flop
+Seat 2: EliorDahan(big blind) showed [Qd Qh] and won ($1,059.04) with Pair of Queens / Pair of Kings and Pair of Queens
+Seat 3: ie11 showed [Th 9s] and lost with Pair of Nines / Pair of Kings and Pair of Nines
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995871566: NLH No Limit ($3/$6) - 2025/07/17 00:53:56
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($3,757.42 in chips)
+Seat 2: EliorDahan ($519.02 in chips)
+Seat 3: ie11 ($820.36 in chips)
+Seat 4: Hero ($961.89 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [7c 8h]
+EliorDahan: raises $18 to $24
+ie11: folds
+Hero: folds
+NagastiBagamba: folds
+Uncalled bet ($18) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $15 from pot
+*** SUMMARY ***
+Total pot $15
+Seat 7: NagastiBagamba(big blind) folded before Flop
+Seat 2: EliorDahanwon ($15)
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_995870397: NLH No Limit ($3/$6) - 2025/07/17 00:53:21
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($3,754.42 in chips)
+Seat 2: EliorDahan ($519.02 in chips)
+Seat 3: ie11 ($826.36 in chips)
+Seat 4: Hero ($958.89 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [3d 5d]
+NagastiBagamba: calls $6
+EliorDahan: folds
+ie11: calls $3
+Hero: checks
+*** FLOP *** [Ac 3c 4s]
+ie11: checks
+Hero: bets $9
+NagastiBagamba: calls $9
+ie11: folds
+*** TURN *** [Ac 3c 4s] [Tc]
+Hero: checks
+NagastiBagamba: checks
+*** RIVER *** [Ac 3c 4s Tc] [2s]
+Hero: checks
+NagastiBagamba: bets $18
+Hero: calls $18
+Hero: shows [3d 5d]
+NagastiBagamba: shows [5h 5s]
+*** SHOWDOWN ***
+Hero collected $36 from pot
+NagastiBagamba collected $36 from pot
+*** SUMMARY ***
+Total pot $72
+Board [Ac 3c 4s Tc 2s]
+Seat 7: NagastiBagamba showed [5h 5s] and won ($36) with Fives-High Straight
+Seat 2: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11(small blind) folded on the Flop
+Seat 4: Hero(big blind) showed [3d 5d] and won ($36) with Fives-High Straight
+
+
+
+Poker Hand #ring_995869953: NLH No Limit ($3/$6) - 2025/07/17 00:53:07
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($3,754.42 in chips)
+Seat 2: EliorDahan ($522.02 in chips)
+Seat 3: ie11 ($823.36 in chips)
+Seat 4: Hero ($958.89 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [4s 6d]
+Hero: folds
+NagastiBagamba: folds
+EliorDahan: folds
+*** SHOWDOWN ***
+ie11 collected $9 from pot
+*** SUMMARY ***
+Total pot $9
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan(small blind) folded before Flop
+Seat 3: ie11(big blind)won ($9)
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995868914: NLH No Limit ($3/$6) - 2025/07/17 00:52:35
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($3,757.42 in chips)
+Seat 2: EliorDahan ($462.02 in chips)
+Seat 3: ie11 ($823.36 in chips)
+Seat 4: Hero ($1,015.89 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Qs Ac]
+ie11: folds
+Hero: raises $12 to $18
+NagastiBagamba: folds
+EliorDahan: calls $12
+*** FLOP *** [3s 9c 7s]
+EliorDahan: bets $39
+Hero: calls $39
+*** TURN *** [3s 9c 7s] [4h]
+EliorDahan: bets $117
+Hero: folds
+Uncalled bet ($117) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $117 from pot
+*** SUMMARY ***
+Total pot $117
+Board [3s 9c 7s 4h]
+Seat 7: NagastiBagamba(small blind) folded before Flop
+Seat 2: EliorDahan(big blind)won ($117) with Pair of Fours
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero folded on the Turn
+
+
+
+Poker Hand #ring_995868188: NLH No Limit ($3/$6) - 2025/07/17 00:52:14
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($3,775.42 in chips)
+Seat 2: EliorDahan ($441.02 in chips)
+Seat 3: ie11 ($823.36 in chips)
+Seat 4: Hero ($1,018.89 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [5c 8d]
+EliorDahan: raises $12 to $18
+ie11: folds
+Hero: folds
+NagastiBagamba: calls $12
+*** FLOP *** [Th Kh 5d]
+NagastiBagamba: checks
+EliorDahan: bets $19.5
+NagastiBagamba: folds
+Uncalled bet ($19.5) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $39 from pot
+*** SUMMARY ***
+Total pot $39
+Board [Th Kh 5d]
+Seat 7: NagastiBagamba(big blind) folded on the Flop
+Seat 2: EliorDahanwon ($39) with Ace-High
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_995866552: NLH No Limit ($3/$6) - 2025/07/17 00:51:24
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($3,799.42 in chips)
+Seat 2: EliorDahan ($513.02 in chips)
+Seat 3: ie11 ($895.36 in chips)
+Seat 4: Hero ($850.89 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ks 2s]
+NagastiBagamba: calls $6
+EliorDahan: raises $18 to $24
+ie11: calls $21
+Hero: calls $18
+NagastiBagamba: calls $18
+*** FLOP *** [Kd Kh Qh]
+ie11: checks
+Hero: checks
+NagastiBagamba: checks
+EliorDahan: bets $48
+ie11: calls $48
+Hero: calls $48
+NagastiBagamba: folds
+*** TURN *** [Kd Kh Qh] [8c]
+ie11: checks
+Hero: bets $120
+EliorDahan: folds
+ie11: folds
+Uncalled bet ($120) returned to Hero
+*** SHOWDOWN ***
+Hero collected $240 from pot
+*** SUMMARY ***
+Total pot $240
+Board [Kd Kh Qh 8c]
+Seat 7: NagastiBagamba folded on the Flop
+Seat 2: EliorDahan folded on the Turn
+Seat 3: ie11(small blind) folded on the Turn
+Seat 4: Hero(big blind)won ($240) with Three Kings
+
+
+
+Poker Hand #ring_995866166: NLH No Limit ($3/$6) - 2025/07/17 00:51:12
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($3,799.42 in chips)
+Seat 2: EliorDahan ($516.02 in chips)
+Seat 3: ie11 ($892.36 in chips)
+Seat 4: Hero ($850.89 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Kc 9d]
+Hero: folds
+NagastiBagamba: folds
+EliorDahan: folds
+*** SHOWDOWN ***
+ie11 collected $9 from pot
+*** SUMMARY ***
+Total pot $9
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan(small blind) folded before Flop
+Seat 3: ie11(big blind)won ($9)
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995865125: NLH No Limit ($3/$6) - 2025/07/17 00:50:41
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($3,805.42 in chips)
+Seat 2: EliorDahan ($522.02 in chips)
+Seat 3: ie11 ($880.36 in chips)
+Seat 4: Hero ($850.89 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [3h 5d]
+ie11: calls $6
+Hero: folds
+NagastiBagamba: calls $3
+EliorDahan: checks
+*** FLOP *** [As 2h Ks]
+NagastiBagamba: checks
+EliorDahan: checks
+ie11: checks
+*** TURN *** [As 2h Ks] [Th]
+NagastiBagamba: checks
+EliorDahan: checks
+ie11: bets $18
+NagastiBagamba: folds
+EliorDahan: folds
+Uncalled bet ($18) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $18 from pot
+*** SUMMARY ***
+Total pot $18
+Board [As 2h Ks Th]
+Seat 7: NagastiBagamba(small blind) folded on the Turn
+Seat 2: EliorDahan(big blind) folded on the Turn
+Seat 3: ie11won ($18) with Pair of Tens
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995864155: NLH No Limit ($3/$6) - 2025/07/17 00:50:11
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($3,823.42 in chips)
+Seat 2: EliorDahan ($540.02 in chips)
+Seat 3: ie11 ($826.36 in chips)
+Seat 4: Hero ($868.89 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [7c Qc]
+EliorDahan: raises $12 to $18
+ie11: calls $18
+Hero: calls $15
+NagastiBagamba: calls $12
+*** FLOP *** [Jh 2h Ts]
+Hero: checks
+NagastiBagamba: checks
+EliorDahan: checks
+ie11: bets $72
+Hero: folds
+NagastiBagamba: folds
+EliorDahan: folds
+Uncalled bet ($72) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $72 from pot
+*** SUMMARY ***
+Total pot $72
+Board [Jh 2h Ts]
+Seat 7: NagastiBagamba(big blind) folded on the Flop
+Seat 2: EliorDahan folded on the Flop
+Seat 3: ie11won ($72) with Pair of Tens
+Seat 4: Hero(small blind) folded on the Flop
+
+
+
+Poker Hand #ring_995863669: NLH No Limit ($3/$6) - 2025/07/17 00:49:56
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($3,823.42 in chips)
+Seat 2: EliorDahan ($531.02 in chips)
+Seat 3: ie11 ($829.36 in chips)
+Seat 4: Hero ($874.89 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [7c 8d]
+NagastiBagamba: folds
+EliorDahan: raises $18 to $24
+ie11: folds
+Hero: folds
+Uncalled bet ($18) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $15 from pot
+*** SUMMARY ***
+Total pot $15
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahanwon ($15)
+Seat 3: ie11(small blind) folded before Flop
+Seat 4: Hero(big blind) folded before Flop
+
+
+
+Poker Hand #ring_995862955: NLH No Limit ($3/$6) - 2025/07/17 00:49:34
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($3,829.42 in chips)
+Seat 2: EliorDahan ($537.02 in chips)
+Seat 3: ie11 ($817.36 in chips)
+Seat 4: Hero ($874.89 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [5d 9c]
+Hero: folds
+NagastiBagamba: calls $6
+EliorDahan: calls $3
+ie11: raises $27 to $33
+NagastiBagamba: folds
+EliorDahan: folds
+Uncalled bet ($27) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $18 from pot
+*** SUMMARY ***
+Total pot $18
+Seat 7: NagastiBagamba folded before Flop
+Seat 2: EliorDahan(small blind) folded before Flop
+Seat 3: ie11(big blind)won ($18)
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995862120: NLH No Limit ($3/$6) - 2025/07/17 00:49:08
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($3,835.42 in chips)
+Seat 2: EliorDahan ($478.02 in chips)
+Seat 3: ie11 ($864.36 in chips)
+Seat 4: Hero ($880.89 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [2h 4h]
+ie11: calls $6
+Hero: calls $6
+NagastiBagamba: calls $3
+EliorDahan: raises $41 to $47
+ie11: calls $41
+Hero: folds
+NagastiBagamba: folds
+*** FLOP *** [6d 6c 5h]
+EliorDahan: bets $431.02 and is all-in
+ie11: folds
+Uncalled bet ($431.02) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $106 from pot
+*** SUMMARY ***
+Total pot $106
+Board [6d 6c 5h]
+Seat 7: NagastiBagamba(small blind) folded before Flop
+Seat 2: EliorDahan(big blind)won ($106) with Pair of Eights and Pair of Sixes
+Seat 3: ie11 folded on the Flop
+Seat 4: Hero folded before Flop
+
+
+
+Poker Hand #ring_995859755: NLH No Limit ($3/$6) - 2025/07/17 00:47:53
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($3,394 in chips)
+Seat 2: EliorDahan ($496.02 in chips)
+Seat 3: ie11 ($1,284.78 in chips)
+Seat 4: Hero ($883.89 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [5s Jh]
+EliorDahan: raises $12 to $18
+ie11: calls $18
+Hero: folds
+NagastiBagamba: calls $12
+*** FLOP *** [9d 8s Qs]
+NagastiBagamba: checks
+EliorDahan: checks
+ie11: bets $57
+NagastiBagamba: calls $57
+EliorDahan: folds
+*** TURN *** [9d 8s Qs] [9h]
+NagastiBagamba: checks
+ie11: bets $171
+NagastiBagamba: raises $174.42 to $345.42
+ie11: calls $174.42
+*** RIVER *** [9d 8s Qs 9h] [Ad]
+NagastiBagamba: bets $861.84
+ie11: folds
+Uncalled bet ($861.84) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $861.84 from pot
+*** SUMMARY ***
+Total pot $861.84
+Board [9d 8s Qs 9h Ad]
+Seat 7: NagastiBagamba(big blind)won ($861.84) with Three Nines
+Seat 2: EliorDahan folded on the Flop
+Seat 3: ie11 folded on the River
+Seat 4: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_995858692: NLH No Limit ($3/$6) - 2025/07/17 00:47:20
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($3,319 in chips)
+Seat 2: EliorDahan ($496.02 in chips)
+Seat 3: ie11 ($1,353.78 in chips)
+Seat 4: Hero ($889.89 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [4d Qs]
+NagastiBagamba: calls $6
+EliorDahan: folds
+ie11: raises $21 to $27
+Hero: folds
+NagastiBagamba: calls $21
+*** FLOP *** [Jc 9s Kh]
+ie11: checks
+NagastiBagamba: bets $42
+ie11: calls $42
+*** TURN *** [Jc 9s Kh] [5s]
+ie11: checks
+NagastiBagamba: bets $100.8
+ie11: folds
+Uncalled bet ($100.8) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $144 from pot
+*** SUMMARY ***
+Total pot $144
+Board [Jc 9s Kh 5s]
+Seat 7: NagastiBagambawon ($144) with Pair of Kings
+Seat 2: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11(small blind) folded on the Turn
+Seat 4: Hero(big blind) folded before Flop
+
+
+
+Poker Hand #ring_995857939: NLH No Limit ($3/$6) - 2025/07/17 00:46:57
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($3,325 in chips)
+Seat 2: EliorDahan ($478.02 in chips)
+Seat 3: ie11 ($1,359.78 in chips)
+Seat 4: Hero ($895.89 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ts Jh]
+Hero: calls $6
+NagastiBagamba: calls $6
+EliorDahan: calls $3
+ie11: checks
+*** FLOP *** [7h 7d 5s]
+EliorDahan: bets $18
+ie11: folds
+Hero: folds
+NagastiBagamba: folds
+Uncalled bet ($18) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $24 from pot
+*** SUMMARY ***
+Total pot $24
+Board [7h 7d 5s]
+Seat 7: NagastiBagamba folded on the Flop
+Seat 2: EliorDahan(small blind)won ($24) with Pair of Sevens
+Seat 3: ie11(big blind) folded on the Flop
+Seat 4: Hero folded on the Flop
+
+
+
+Poker Hand #ring_995856732: NLH No Limit ($3/$6) - 2025/07/17 00:46:19
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($3,344.5 in chips)
+Seat 2: EliorDahan ($452.52 in chips)
+Seat 3: ie11 ($1,365.78 in chips)
+Seat 4: Hero ($895.89 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [3s Jc]
+ie11: calls $6
+Hero: folds
+NagastiBagamba: calls $3
+EliorDahan: checks
+*** FLOP *** [2d Kd Ac]
+NagastiBagamba: checks
+EliorDahan: checks
+ie11: checks
+*** TURN *** [2d Kd Ac] [7h]
+NagastiBagamba: checks
+EliorDahan: bets $13.5
+ie11: folds
+NagastiBagamba: calls $13.5
+*** RIVER *** [2d Kd Ac 7h] [8s]
+NagastiBagamba: checks
+EliorDahan: bets $14.85
+NagastiBagamba: folds
+Uncalled bet ($14.85) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $45 from pot
+*** SUMMARY ***
+Total pot $45
+Board [2d Kd Ac 7h 8s]
+Seat 7: NagastiBagamba(small blind) folded on the River
+Seat 2: EliorDahan(big blind)won ($45) with Pair of Kings
+Seat 3: ie11 folded on the Turn
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995855325: NLH No Limit ($3/$6) - 2025/07/17 00:45:36
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($3,362.5 in chips)
+Seat 2: EliorDahan ($452.52 in chips)
+Seat 3: ie11 ($1,313.58 in chips)
+Seat 4: Hero ($930.09 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Kc Js]
+EliorDahan: folds
+ie11: calls $6
+Hero: raises $12 to $18
+NagastiBagamba: calls $12
+ie11: calls $12
+*** FLOP *** [2h 9c 9h]
+Hero: checks
+NagastiBagamba: checks
+ie11: checks
+*** TURN *** [2h 9c 9h] [8h]
+Hero: bets $16.2
+NagastiBagamba: folds
+ie11: calls $16.2
+*** RIVER *** [2h 9c 9h 8h] [9s]
+Hero: checks
+ie11: bets $86.4
+Hero: folds
+Uncalled bet ($86.4) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $86.4 from pot
+*** SUMMARY ***
+Total pot $86.4
+Board [2h 9c 9h 8h 9s]
+Seat 7: NagastiBagamba(big blind) folded on the Turn
+Seat 2: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11won ($86.4) with Three Nines
+Seat 4: Hero(small blind) folded on the River
+
+
+
+Poker Hand #ring_995853908: NLH No Limit ($3/$6) - 2025/07/17 00:44:52
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($3,208.3 in chips)
+Seat 2: EliorDahan ($452.52 in chips)
+Seat 3: ie11 ($1,461.78 in chips)
+Seat 4: Hero ($936.09 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [4s 5h]
+NagastiBagamba: calls $6
+EliorDahan: folds
+ie11: raises $21 to $27
+Hero: folds
+NagastiBagamba: calls $21
+*** FLOP *** [7s 9d Ad]
+ie11: checks
+NagastiBagamba: checks
+*** TURN *** [7s 9d Ad] [Qs]
+ie11: bets $60
+NagastiBagamba: calls $60
+*** RIVER *** [7s 9d Ad Qs] [6s]
+ie11: checks
+NagastiBagamba: bets $61.2
+ie11: calls $61.2
+ie11: shows [Td Qh]
+NagastiBagamba: shows [2c Ah]
+*** SHOWDOWN ***
+NagastiBagamba collected $302.4 from pot
+*** SUMMARY ***
+Total pot $302.4
+Board [7s 9d Ad Qs 6s]
+Seat 7: NagastiBagamba showed [2c Ah] and won ($302.4) with Pair of Aces
+Seat 2: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11(small blind) showed [Td Qh] and lost with Pair of Queens
+Seat 4: Hero(big blind) folded before Flop
+
+
+
+Poker Hand #ring_995850397: NLH No Limit ($3/$6) - 2025/07/17 00:43:06
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,694.29 in chips)
+Seat 2: EliorDahan ($942.53 in chips)
+Seat 3: ie11 ($1,485.78 in chips)
+Seat 4: Hero ($936.09 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Qh 2s]
+Hero: folds
+NagastiBagamba: calls $6
+EliorDahan: raises $18 to $24
+ie11: calls $18
+NagastiBagamba: calls $18
+*** FLOP *** [9c 9d 7s]
+EliorDahan: bets $72
+ie11: folds
+NagastiBagamba: calls $72
+*** TURN *** [9c 9d 7s] [Kd]
+EliorDahan: bets $108
+NagastiBagamba: calls $108
+*** RIVER *** [9c 9d 7s Kd] [2d]
+EliorDahan: bets $35
+NagastiBagamba: raises $251.01 to $286.01
+EliorDahan: calls $251.01
+EliorDahan: shows [5h 5c]
+NagastiBagamba: shows [Ks 9h]
+*** SHOWDOWN ***
+NagastiBagamba collected $1,004.02 from pot
+*** SUMMARY ***
+Total pot $1,004.02
+Board [9c 9d 7s Kd 2d]
+Seat 7: NagastiBagamba showed [Ks 9h] and won ($1,004.02) with Nines Full over Kings
+Seat 2: EliorDahan(small blind) showed [5h 5c] and lost with Pair of Nines and Pair of Fives
+Seat 3: ie11(big blind) folded on the Flop
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995849244: NLH No Limit ($3/$6) - 2025/07/17 00:42:30
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($2,721.29 in chips)
+Seat 2: EliorDahan ($794.57 in chips)
+Seat 3: ie11 ($1,606.74 in chips)
+Seat 4: Hero ($936.09 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Jd 9c]
+ie11: raises $21 to $27
+Hero: folds
+NagastiBagamba: calls $24
+EliorDahan: calls $21
+*** FLOP *** [Ad Th Qd]
+NagastiBagamba: checks
+EliorDahan: bets $40.5
+ie11: calls $40.5
+NagastiBagamba: folds
+*** TURN *** [Ad Th Qd] [5c]
+EliorDahan: bets $53.46
+ie11: calls $53.46
+*** RIVER *** [Ad Th Qd 5c] [5h]
+EliorDahan: checks
+ie11: checks
+EliorDahan: shows [3s Ac]
+ie11: shows [Kh Td]
+*** SHOWDOWN ***
+EliorDahan collected $268.92 from pot
+*** SUMMARY ***
+Total pot $268.92
+Board [Ad Th Qd 5c 5h]
+Seat 7: NagastiBagamba(small blind) folded on the Flop
+Seat 2: EliorDahan(big blind) showed [3s Ac] and won ($268.92) with Pair of Aces and Pair of Fives
+Seat 3: ie11 showed [Kh Td] and lost with Pair of Tens and Pair of Fives
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995848439: NLH No Limit ($3/$6) - 2025/07/17 00:42:05
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,727.29 in chips)
+Seat 2: EliorDahan ($776.57 in chips)
+Seat 3: ie11 ($1,612.74 in chips)
+Seat 4: Hero ($942.09 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [5d 4s]
+EliorDahan: calls $6
+ie11: calls $6
+Hero: calls $3
+NagastiBagamba: checks
+*** FLOP *** [9d Kh 6h]
+Hero: checks
+NagastiBagamba: checks
+EliorDahan: bets $12
+ie11: folds
+Hero: folds
+NagastiBagamba: folds
+Uncalled bet ($12) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $24 from pot
+*** SUMMARY ***
+Total pot $24
+Board [9d Kh 6h]
+Seat 7: NagastiBagamba(big blind) folded on the Flop
+Seat 2: EliorDahanwon ($24) with Pair of Sixes
+Seat 3: ie11 folded on the Flop
+Seat 4: Hero(small blind) folded on the Flop
+
+
+
+Poker Hand #ring_995847386: NLH No Limit ($3/$6) - 2025/07/17 00:41:32
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($2,694.29 in chips)
+Seat 2: EliorDahan ($776.57 in chips)
+Seat 3: ie11 ($1,639.74 in chips)
+Seat 4: Hero ($948.09 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [4d Jh]
+NagastiBagamba: calls $6
+EliorDahan: folds
+ie11: raises $21 to $27
+Hero: folds
+NagastiBagamba: calls $21
+*** FLOP *** [2c Jd 9c]
+ie11: checks
+NagastiBagamba: checks
+*** TURN *** [2c Jd 9c] [5h]
+ie11: checks
+NagastiBagamba: checks
+*** RIVER *** [2c Jd 9c 5h] [Ac]
+ie11: checks
+NagastiBagamba: bets $30
+ie11: folds
+Uncalled bet ($30) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $60 from pot
+*** SUMMARY ***
+Total pot $60
+Board [2c Jd 9c 5h Ac]
+Seat 7: NagastiBagambawon ($60) with Ace-High
+Seat 2: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11(small blind) folded on the River
+Seat 4: Hero(big blind) folded before Flop
+
+
+
+Poker Hand #ring_995846919: NLH No Limit ($3/$6) - 2025/07/17 00:41:19
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,694.29 in chips)
+Seat 2: EliorDahan ($779.57 in chips)
+Seat 3: ie11 ($1,636.74 in chips)
+Seat 4: Hero ($948.09 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [6s 5d]
+Hero: folds
+NagastiBagamba: folds
+EliorDahan: folds
+*** SHOWDOWN ***
+ie11 collected $9 from pot
+*** SUMMARY ***
+Total pot $9
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan(small blind) folded before Flop
+Seat 3: ie11(big blind)won ($9)
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995845781: NLH No Limit ($3/$6) - 2025/07/17 00:40:43
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($2,766.29 in chips)
+Seat 2: EliorDahan ($689.57 in chips)
+Seat 3: ie11 ($1,636.74 in chips)
+Seat 4: Hero ($966.09 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ah 9d]
+ie11: folds
+Hero: raises $12 to $18
+NagastiBagamba: calls $15
+EliorDahan: raises $54 to $72
+Hero: folds
+NagastiBagamba: calls $54
+*** FLOP *** [8d 9h Kc]
+NagastiBagamba: checks
+EliorDahan: bets $121.5
+NagastiBagamba: folds
+Uncalled bet ($121.5) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $162 from pot
+*** SUMMARY ***
+Total pot $162
+Board [8d 9h Kc]
+Seat 7: NagastiBagamba(small blind) folded on the Flop
+Seat 2: EliorDahan(big blind)won ($162) with Pair of Nines
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero folded before Flop
+
+
+
+Poker Hand #ring_995844698: NLH No Limit ($3/$6) - 2025/07/17 00:40:10
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,751.29 in chips)
+Seat 2: EliorDahan ($689.57 in chips)
+Seat 3: ie11 ($1,636.74 in chips)
+Seat 4: Hero ($981.09 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ad Js]
+EliorDahan: folds
+ie11: folds
+Hero: raises $9 to $15
+NagastiBagamba: calls $9
+*** FLOP *** [9d 7h Qc]
+Hero: checks
+NagastiBagamba: checks
+*** TURN *** [9d 7h Qc] [6s]
+Hero: checks
+NagastiBagamba: bets $21
+Hero: folds
+Uncalled bet ($21) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $30 from pot
+*** SUMMARY ***
+Total pot $30
+Board [9d 7h Qc 6s]
+Seat 7: NagastiBagamba(big blind)won ($30) with Pair of Eights
+Seat 2: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero(small blind) folded on the Turn
+
+
+
+Poker Hand #ring_995842548: NLH No Limit ($3/$6) - 2025/07/17 00:39:05
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($1,941.29 in chips)
+Seat 2: EliorDahan ($839.57 in chips)
+Seat 3: ie11 ($2,266.74 in chips)
+Seat 4: Hero ($1,011.09 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [5d 5s]
+NagastiBagamba: calls $6
+EliorDahan: calls $6
+ie11: raises $24 to $30
+Hero: calls $24
+NagastiBagamba: calls $24
+EliorDahan: calls $24
+*** FLOP *** [7c 4d Qh]
+ie11: bets $120
+Hero: folds
+NagastiBagamba: calls $120
+EliorDahan: calls $120
+*** TURN *** [7c 4d Qh] [4h]
+ie11: bets $480
+NagastiBagamba: raises $1,311.29 to $1,791.29 and is all-in
+EliorDahan: folds
+ie11: folds
+Uncalled bet ($1,311.29) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $1,440 from pot
+*** SUMMARY ***
+Total pot $1,440
+Board [7c 4d Qh 4h]
+Seat 7: NagastiBagambawon ($1,440) with Pair of Queens and Pair of Fours
+Seat 2: EliorDahan folded on the Turn
+Seat 3: ie11(small blind) folded on the Turn
+Seat 4: Hero(big blind) folded on the Flop
+
+
+
+Poker Hand #ring_995841873: NLH No Limit ($3/$6) - 2025/07/17 00:38:44
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($1,941.29 in chips)
+Seat 2: EliorDahan ($815.57 in chips)
+Seat 3: ie11 ($2,290.74 in chips)
+Seat 4: Hero ($1,011.09 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Th 5d]
+Hero: folds
+NagastiBagamba: folds
+EliorDahan: raises $18 to $24
+ie11: calls $18
+*** FLOP *** [Js 4d 4s]
+EliorDahan: bets $48
+ie11: folds
+Uncalled bet ($48) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $48 from pot
+*** SUMMARY ***
+Total pot $48
+Board [Js 4d 4s]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan(small blind)won ($48) with Pair of Jacks and Pair of Fours
+Seat 3: ie11(big blind) folded on the Flop
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995841001: NLH No Limit ($3/$6) - 2025/07/17 00:38:17
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($1,947.29 in chips)
+Seat 2: EliorDahan ($785.57 in chips)
+Seat 3: ie11 ($2,314.74 in chips)
+Seat 4: Hero ($1,011.09 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ks 2d]
+ie11: calls $6
+Hero: folds
+NagastiBagamba: calls $3
+EliorDahan: raises $18 to $24
+ie11: calls $18
+NagastiBagamba: folds
+*** FLOP *** [2s 3d 4d]
+EliorDahan: bets $54
+ie11: folds
+Uncalled bet ($54) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $54 from pot
+*** SUMMARY ***
+Total pot $54
+Board [2s 3d 4d]
+Seat 7: NagastiBagamba(small blind) folded before Flop
+Seat 2: EliorDahan(big blind)won ($54) with Ace-High
+Seat 3: ie11 folded on the Flop
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995839558: NLH No Limit ($3/$6) - 2025/07/17 00:37:32
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,019.29 in chips)
+Seat 2: EliorDahan ($785.57 in chips)
+Seat 3: ie11 ($2,314.74 in chips)
+Seat 4: Hero ($939.09 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [9s As]
+EliorDahan: folds
+ie11: folds
+Hero: raises $12 to $18
+NagastiBagamba: calls $12
+*** FLOP *** [Qh Ts 4c]
+Hero: checks
+NagastiBagamba: checks
+*** TURN *** [Qh Ts 4c] [7c]
+Hero: bets $18
+NagastiBagamba: calls $18
+*** RIVER *** [Qh Ts 4c 7c] [7h]
+Hero: checks
+NagastiBagamba: bets $36
+Hero: calls $36
+Hero: shows [9s As]
+NagastiBagamba: shows [9c Jc]
+*** SHOWDOWN ***
+Hero collected $144 from pot
+*** SUMMARY ***
+Total pot $144
+Board [Qh Ts 4c 7c 7h]
+Seat 7: NagastiBagamba(big blind) showed [9c Jc] and lost with Pair of Sevens
+Seat 2: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero(small blind) showed [9s As] and won ($144) with Pair of Sevens
+
+
+
+Poker Hand #ring_995838853: NLH No Limit ($3/$6) - 2025/07/17 00:37:10
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($2,019.29 in chips)
+Seat 2: EliorDahan ($785.57 in chips)
+Seat 3: ie11 ($2,332.74 in chips)
+Seat 4: Hero ($921.09 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ac As]
+NagastiBagamba: folds
+EliorDahan: folds
+ie11: calls $3
+Hero: raises $12 to $18
+ie11: calls $12
+*** FLOP *** [5d Qh Kd]
+ie11: checks
+Hero: bets $18
+ie11: folds
+Uncalled bet ($18) returned to Hero
+*** SHOWDOWN ***
+Hero collected $36 from pot
+*** SUMMARY ***
+Total pot $36
+Board [5d Qh Kd]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11(small blind) folded on the Flop
+Seat 4: Hero(big blind)won ($36) with Pair of Aces
+
+
+
+Poker Hand #ring_995837801: NLH No Limit ($3/$6) - 2025/07/17 00:36:38
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,019.29 in chips)
+Seat 2: EliorDahan ($965.57 in chips)
+Seat 3: ie11 ($2,152.74 in chips)
+Seat 4: Hero ($921.09 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [3c Kd]
+Hero: folds
+NagastiBagamba: folds
+EliorDahan: raises $18 to $24
+ie11: calls $18
+*** FLOP *** [9h Jh Ah]
+EliorDahan: bets $36
+ie11: calls $36
+*** TURN *** [9h Jh Ah] [Jd]
+EliorDahan: bets $120
+ie11: calls $120
+*** RIVER *** [9h Jh Ah Jd] [Ts]
+EliorDahan: checks
+ie11: checks
+EliorDahan: shows [Qh 9d]
+ie11: shows [5h Ad]
+*** SHOWDOWN ***
+ie11 collected $360 from pot
+*** SUMMARY ***
+Total pot $360
+Board [9h Jh Ah Jd Ts]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan(small blind) showed [Qh 9d] and lost with Pair of Jacks and Pair of Nines
+Seat 3: ie11(big blind) showed [5h Ad] and won ($360) with Pair of Aces and Pair of Jacks
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995836735: NLH No Limit ($3/$6) - 2025/07/17 00:36:05
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($1,989.29 in chips)
+Seat 2: EliorDahan ($971.57 in chips)
+Seat 3: ie11 ($2,176.74 in chips)
+Seat 4: Hero ($921.09 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Kc 5s]
+ie11: calls $6
+Hero: folds
+NagastiBagamba: calls $3
+EliorDahan: checks
+*** FLOP *** [As 5h Jh]
+NagastiBagamba: checks
+EliorDahan: checks
+ie11: bets $18
+NagastiBagamba: calls $18
+EliorDahan: folds
+*** TURN *** [As 5h Jh] [Qh]
+NagastiBagamba: checks
+ie11: checks
+*** RIVER *** [As 5h Jh Qh] [Tc]
+NagastiBagamba: checks
+ie11: checks
+ie11: shows [Td 8d]
+NagastiBagamba: shows [9h Jd]
+*** SHOWDOWN ***
+NagastiBagamba collected $54 from pot
+*** SUMMARY ***
+Total pot $54
+Board [As 5h Jh Qh Tc]
+Seat 7: NagastiBagamba(small blind) showed [9h Jd] and won ($54) with Pair of Jacks
+Seat 2: EliorDahan(big blind) folded on the Flop
+Seat 3: ie11 showed [Td 8d] and lost with Pair of Tens
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995836038: NLH No Limit ($3/$6) - 2025/07/17 00:35:44
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($1,995.29 in chips)
+Seat 2: EliorDahan ($944.57 in chips)
+Seat 3: ie11 ($2,194.74 in chips)
+Seat 4: Hero ($924.09 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [3c 5h]
+EliorDahan: raises $12 to $18
+ie11: calls $18
+Hero: folds
+NagastiBagamba: folds
+*** FLOP *** [Kh Ts Ah]
+EliorDahan: bets $33.75
+ie11: folds
+Uncalled bet ($33.75) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $45 from pot
+*** SUMMARY ***
+Total pot $45
+Board [Kh Ts Ah]
+Seat 7: NagastiBagamba(big blind) folded before Flop
+Seat 2: EliorDahanwon ($45) with Pair of Aces
+Seat 3: ie11 folded on the Flop
+Seat 4: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_995835178: NLH No Limit ($3/$6) - 2025/07/17 00:35:18
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($1,995.29 in chips)
+Seat 2: EliorDahan ($962.57 in chips)
+Seat 3: ie11 ($2,170.74 in chips)
+Seat 4: Hero ($930.09 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [4d 8s]
+NagastiBagamba: folds
+EliorDahan: raises $12 to $18
+ie11: calls $15
+Hero: folds
+*** FLOP *** [2d 9d Jc]
+ie11: checks
+EliorDahan: checks
+*** TURN *** [2d 9d Jc] [Tc]
+ie11: bets $42
+EliorDahan: folds
+Uncalled bet ($42) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $42 from pot
+*** SUMMARY ***
+Total pot $42
+Board [2d 9d Jc Tc]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan folded on the Turn
+Seat 3: ie11(small blind)won ($42) with Pair of Tens
+Seat 4: Hero(big blind) folded before Flop
+
+
+
+Poker Hand #ring_995834713: NLH No Limit ($3/$6) - 2025/07/17 00:35:04
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($1,995.29 in chips)
+Seat 2: EliorDahan ($956.57 in chips)
+Seat 3: ie11 ($2,176.74 in chips)
+Seat 4: Hero ($930.09 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [4d 6s]
+Hero: folds
+NagastiBagamba: folds
+EliorDahan: raises $18 to $24
+ie11: folds
+Uncalled bet ($18) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $12 from pot
+*** SUMMARY ***
+Total pot $12
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan(small blind)won ($12)
+Seat 3: ie11(big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995834248: NLH No Limit ($3/$6) - 2025/07/17 00:34:48
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($1,998.29 in chips)
+Seat 2: EliorDahan ($962.57 in chips)
+Seat 3: ie11 ($2,176.74 in chips)
+Seat 4: Hero ($921.09 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ac 5c]
+ie11: folds
+Hero: raises $12 to $18
+NagastiBagamba: folds
+EliorDahan: folds
+Uncalled bet ($12) returned to Hero
+*** SHOWDOWN ***
+Hero collected $15 from pot
+*** SUMMARY ***
+Total pot $15
+Seat 7: NagastiBagamba(small blind) folded before Flop
+Seat 2: EliorDahan(big blind) folded before Flop
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Herowon ($15)
+
+
+
+Poker Hand #ring_995833159: NLH No Limit ($3/$6) - 2025/07/17 00:34:15
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,004.29 in chips)
+Seat 2: EliorDahan ($962.57 in chips)
+Seat 3: ie11 ($2,228.58 in chips)
+Seat 4: Hero ($863.25 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ah Kc]
+EliorDahan: folds
+ie11: calls $6
+Hero: raises $18.42 to $24.42
+NagastiBagamba: folds
+ie11: calls $18.42
+*** FLOP *** [5h 4c 8d]
+Hero: bets $27.42
+ie11: calls $27.42
+*** TURN *** [5h 4c 8d] [Qs]
+Hero: checks
+ie11: checks
+*** RIVER *** [5h 4c 8d Qs] [Ks]
+Hero: checks
+ie11: checks
+ie11: shows [4s 6s]
+Hero: shows [Ah Kc]
+*** SHOWDOWN ***
+Hero collected $109.68 from pot
+*** SUMMARY ***
+Total pot $109.68
+Board [5h 4c 8d Qs Ks]
+Seat 7: NagastiBagamba(big blind) folded before Flop
+Seat 2: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11 showed [4s 6s] and lost with Pair of Fours
+Seat 4: Hero(small blind) showed [Ah Kc] and won ($109.68) with Pair of Kings
+
+
+
+Poker Hand #ring_995832125: NLH No Limit ($3/$6) - 2025/07/17 00:33:42
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($2,004.29 in chips)
+Seat 2: EliorDahan ($980.57 in chips)
+Seat 3: ie11 ($2,246.58 in chips)
+Seat 4: Hero ($827.25 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Jc Qc]
+NagastiBagamba: folds
+EliorDahan: calls $6
+ie11: calls $3
+Hero: raises $12 to $18
+EliorDahan: calls $12
+ie11: calls $12
+*** FLOP *** [9h Jd 3c]
+ie11: checks
+Hero: bets $27
+EliorDahan: folds
+ie11: folds
+Uncalled bet ($27) returned to Hero
+*** SHOWDOWN ***
+Hero collected $54 from pot
+*** SUMMARY ***
+Total pot $54
+Board [9h Jd 3c]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan folded on the Flop
+Seat 3: ie11(small blind) folded on the Flop
+Seat 4: Hero(big blind)won ($54) with Pair of Jacks
+
+
+
+Poker Hand #ring_995831331: NLH No Limit ($3/$6) - 2025/07/17 00:33:18
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,004.29 in chips)
+Seat 2: EliorDahan ($974.57 in chips)
+Seat 3: ie11 ($2,252.58 in chips)
+Seat 4: Hero ($827.25 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Kc 6d]
+Hero: folds
+NagastiBagamba: folds
+EliorDahan: calls $3
+ie11: checks
+*** FLOP *** [9d Ah 7s]
+EliorDahan: checks
+ie11: checks
+*** TURN *** [9d Ah 7s] [7c]
+EliorDahan: bets $6
+ie11: folds
+Uncalled bet ($6) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $12 from pot
+*** SUMMARY ***
+Total pot $12
+Board [9d Ah 7s 7c]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan(small blind)won ($12) with Pair of Sevens
+Seat 3: ie11(big blind) folded on the Turn
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995830596: NLH No Limit ($3/$6) - 2025/07/17 00:32:55
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($2,010.29 in chips)
+Seat 2: EliorDahan ($980.57 in chips)
+Seat 3: ie11 ($2,258.58 in chips)
+Seat 4: Hero ($809.25 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Qd Tc]
+ie11: calls $6
+Hero: calls $6
+NagastiBagamba: calls $3
+EliorDahan: checks
+*** FLOP *** [Qs 9s 5s]
+NagastiBagamba: checks
+EliorDahan: checks
+ie11: checks
+Hero: bets $12
+NagastiBagamba: folds
+EliorDahan: folds
+ie11: folds
+Uncalled bet ($12) returned to Hero
+*** SHOWDOWN ***
+Hero collected $24 from pot
+*** SUMMARY ***
+Total pot $24
+Board [Qs 9s 5s]
+Seat 7: NagastiBagamba(small blind) folded on the Flop
+Seat 2: EliorDahan(big blind) folded on the Flop
+Seat 3: ie11 folded on the Flop
+Seat 4: Herowon ($24) with Pair of Queens
+
+
+
+Poker Hand #ring_995829884: NLH No Limit ($3/$6) - 2025/07/17 00:32:33
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,034.29 in chips)
+Seat 2: EliorDahan ($1,004.57 in chips)
+Seat 3: ie11 ($2,207.58 in chips)
+Seat 4: Hero ($812.25 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [4c Ts]
+EliorDahan: raises $18 to $24
+ie11: calls $24
+Hero: folds
+NagastiBagamba: calls $18
+*** FLOP *** [2c 4h 5s]
+NagastiBagamba: checks
+EliorDahan: checks
+ie11: bets $75
+NagastiBagamba: folds
+EliorDahan: folds
+Uncalled bet ($75) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $75 from pot
+*** SUMMARY ***
+Total pot $75
+Board [2c 4h 5s]
+Seat 7: NagastiBagamba(big blind) folded on the Flop
+Seat 2: EliorDahan folded on the Flop
+Seat 3: ie11won ($75) with Ace-High
+Seat 4: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_995828879: NLH No Limit ($3/$6) - 2025/07/17 00:32:02
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($2,034.29 in chips)
+Seat 2: EliorDahan ($983.57 in chips)
+Seat 3: ie11 ($2,210.58 in chips)
+Seat 4: Hero ($830.25 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ah 4h]
+NagastiBagamba: folds
+EliorDahan: raises $12 to $18
+ie11: folds
+Hero: calls $12
+*** FLOP *** [3s 5d Qs]
+Hero: checks
+EliorDahan: checks
+*** TURN *** [3s 5d Qs] [7s]
+Hero: checks
+EliorDahan: bets $39
+Hero: folds
+Uncalled bet ($39) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $39 from pot
+*** SUMMARY ***
+Total pot $39
+Board [3s 5d Qs 7s]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahanwon ($39) with Queen-High
+Seat 3: ie11(small blind) folded before Flop
+Seat 4: Hero(big blind) folded on the Turn
+
+
+
+Poker Hand #ring_995828254: NLH No Limit ($3/$6) - 2025/07/17 00:31:42
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,034.29 in chips)
+Seat 2: EliorDahan ($977.57 in chips)
+Seat 3: ie11 ($2,216.58 in chips)
+Seat 4: Hero ($830.25 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [7c 9h]
+Hero: folds
+NagastiBagamba: folds
+EliorDahan: raises $18 to $24
+ie11: folds
+Uncalled bet ($18) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $12 from pot
+*** SUMMARY ***
+Total pot $12
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan(small blind)won ($12)
+Seat 3: ie11(big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995826783: NLH No Limit ($3/$6) - 2025/07/17 00:30:56
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($1,982.69 in chips)
+Seat 2: EliorDahan ($983.57 in chips)
+Seat 3: ie11 ($2,239.38 in chips)
+Seat 4: Hero ($853.05 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [4s 6s]
+ie11: calls $6
+Hero: calls $6
+NagastiBagamba: calls $3
+EliorDahan: checks
+*** FLOP *** [6h 7d Qh]
+NagastiBagamba: bets $16.8
+EliorDahan: folds
+ie11: calls $16.8
+Hero: calls $16.8
+*** TURN *** [6h 7d Qh] [Js]
+NagastiBagamba: bets $52.08
+ie11: folds
+Hero: folds
+Uncalled bet ($52.08) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $74.4 from pot
+*** SUMMARY ***
+Total pot $74.4
+Board [6h 7d Qh Js]
+Seat 7: NagastiBagamba(small blind)won ($74.4) with Pair of Queens
+Seat 2: EliorDahan(big blind) folded on the Flop
+Seat 3: ie11 folded on the Turn
+Seat 4: Hero folded on the Turn
+
+
+
+Poker Hand #ring_995825689: NLH No Limit ($3/$6) - 2025/07/17 00:30:22
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,006.69 in chips)
+Seat 2: EliorDahan ($1,045.07 in chips)
+Seat 3: ie11 ($2,150.88 in chips)
+Seat 4: Hero ($856.05 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [9d 2d]
+EliorDahan: raises $18 to $24
+ie11: calls $24
+Hero: folds
+NagastiBagamba: calls $18
+*** FLOP *** [3d Js 6d]
+NagastiBagamba: checks
+EliorDahan: bets $37.5
+ie11: raises $49.5 to $87
+NagastiBagamba: folds
+EliorDahan: folds
+Uncalled bet ($49.5) returned to ie11
+ie11: shows [Jh]
+*** SHOWDOWN ***
+ie11 collected $150 from pot
+*** SUMMARY ***
+Total pot $150
+Board [3d Js 6d]
+Seat 7: NagastiBagamba(big blind) folded on the Flop
+Seat 2: EliorDahan folded on the Flop
+Seat 3: ie11 showed [Jh] and won ($150) with Pair of Jacks
+Seat 4: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_995824801: NLH No Limit ($3/$6) - 2025/07/17 00:29:54
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($2,006.69 in chips)
+Seat 2: EliorDahan ($1,069.07 in chips)
+Seat 3: ie11 ($2,102.88 in chips)
+Seat 4: Hero ($880.05 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Kd Qd]
+NagastiBagamba: folds
+EliorDahan: calls $6
+ie11: calls $3
+Hero: raises $18 to $24
+EliorDahan: calls $18
+ie11: calls $18
+*** FLOP *** [5c Th 2d]
+ie11: bets $72
+Hero: folds
+EliorDahan: folds
+Uncalled bet ($72) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $72 from pot
+*** SUMMARY ***
+Total pot $72
+Board [5c Th 2d]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan folded on the Flop
+Seat 3: ie11(small blind)won ($72) with Pair of Tens
+Seat 4: Hero(big blind) folded on the Flop
+
+
+
+Poker Hand #ring_995823840: NLH No Limit ($3/$6) - 2025/07/17 00:29:26
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,030.69 in chips)
+Seat 2: EliorDahan ($1,039.07 in chips)
+Seat 3: ie11 ($2,108.88 in chips)
+Seat 4: Hero ($880.05 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ac 3h]
+Hero: folds
+NagastiBagamba: calls $6
+EliorDahan: raises $18 to $24
+ie11: folds
+NagastiBagamba: calls $18
+*** FLOP *** [9s As 8d]
+EliorDahan: bets $54
+NagastiBagamba: folds
+Uncalled bet ($54) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $54 from pot
+*** SUMMARY ***
+Total pot $54
+Board [9s As 8d]
+Seat 7: NagastiBagamba folded on the Flop
+Seat 2: EliorDahan(small blind)won ($54) with Ace-High
+Seat 3: ie11(big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995821114: NLH No Limit ($3/$6) - 2025/07/17 00:28:02
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($2,433.89 in chips)
+Seat 2: EliorDahan ($805.97 in chips)
+Seat 3: ie11 ($1,875.78 in chips)
+Seat 4: Hero ($943.05 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Th Ad]
+ie11: calls $6
+Hero: raises $12 to $18
+NagastiBagamba: calls $15
+EliorDahan: raises $45 to $63
+ie11: calls $57
+Hero: calls $45
+NagastiBagamba: calls $45
+*** FIRST FLOP *** [3h 6h 6c]
+NagastiBagamba: checks
+EliorDahan: bets $126
+ie11: calls $126
+Hero: folds
+NagastiBagamba: raises $214.2 to $340.2
+EliorDahan: raises $402.77 to $742.97 and is all-in
+ie11: raises $1,069.81 to $1,812.78 and is all-in
+NagastiBagamba: folds
+Uncalled bet ($1,069.81) returned to ie11
+EliorDahan: shows [Kc Kh] (Pair of Kings and Pair of Sixes)
+ie11: shows [3s 3d] (Treys Full over Sixes)
+*** FIRST TURN *** [3h 6h 6c] [Ks]
+*** SECOND TURN *** [3h 6h 6c] [7c]
+*** FIRST RIVER *** [3h 6h 6c Ks] [Qc]
+*** SECOND RIVER *** [3h 6h 6c 7c] [Ah]
+*** FIRST SHOWDOWN ***
+EliorDahan collected $1,039.07 from pot
+*** SECOND SHOWDOWN ***
+ie11 collected $1,039.07 from pot
+*** SUMMARY ***
+Total pot $2,078.14
+Hand was run two timesFIRST Board [3h 6h 6c Ks Qc]
+SECOND Board [7c Ah]
+Seat 7: NagastiBagamba(small blind) folded on the Flop
+Seat 2: EliorDahan(big blind) showed [Kc Kh] and won ($1,039.07) with Kings Full over Sixes / Pair of Kings and Pair of Sixes
+Seat 3: ie11 showed [3s 3d] and won ($1,039.07) with Treys Full over Sixes / Treys Full over Sixes
+Seat 4: Hero folded on the Flop
+
+
+
+Poker Hand #ring_995819310: NLH No Limit ($3/$6) - 2025/07/17 00:27:08
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,439.89 in chips)
+Seat 2: EliorDahan ($1,111.95 in chips)
+Seat 3: ie11 ($1,397.84 in chips)
+Seat 4: Hero ($1,109.01 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ad Qh]
+EliorDahan: raises $18 to $24
+ie11: calls $24
+Hero: raises $62.4 to $86.4
+NagastiBagamba: folds
+EliorDahan: calls $62.4
+ie11: calls $62.4
+*** FLOP *** [6c 4d 5d]
+Hero: bets $79.56
+EliorDahan: raises $140.02 to $219.58
+ie11: raises $1,091.86 to $1,311.44 and is all-in
+Hero: folds
+EliorDahan: folds
+Uncalled bet ($1,091.86) returned to ie11
+ie11: shows [9s 9d]
+*** SHOWDOWN ***
+ie11 collected $783.92 from pot
+*** SUMMARY ***
+Total pot $783.92
+Board [6c 4d 5d]
+Seat 7: NagastiBagamba(big blind) folded before Flop
+Seat 2: EliorDahan folded on the Flop
+Seat 3: ie11 showed [9s 9d] and won ($783.92) with Pair of Nines
+Seat 4: Hero(small blind) folded on the Flop
+
+
+
+Poker Hand #ring_995818221: NLH No Limit ($3/$6) - 2025/07/17 00:26:35
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($2,439.89 in chips)
+Seat 2: EliorDahan ($1,111.95 in chips)
+Seat 3: ie11 ($1,559.84 in chips)
+Seat 4: Hero ($947.01 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ts 6h]
+NagastiBagamba: folds
+EliorDahan: folds
+ie11: calls $3
+Hero: checks
+*** FLOP *** [Tc 6s 8h]
+ie11: bets $12
+Hero: calls $12
+*** TURN *** [Tc 6s 8h] [5d]
+ie11: bets $36
+Hero: calls $36
+*** RIVER *** [Tc 6s 8h 5d] [8d]
+ie11: bets $108
+Hero: calls $108
+ie11: shows [7h Kd]
+Hero: shows [Ts 6h]
+*** SHOWDOWN ***
+Hero collected $324 from pot
+*** SUMMARY ***
+Total pot $324
+Board [Tc 6s 8h 5d 8d]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11(small blind) showed [7h Kd] and lost with Pair of Eights
+Seat 4: Hero(big blind) showed [Ts 6h] and won ($324) with Pair of Tens and Pair of Eights
+
+
+
+Poker Hand #ring_995817094: NLH No Limit ($3/$6) - 2025/07/17 00:26:00
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,458.49 in chips)
+Seat 2: EliorDahan ($1,087.35 in chips)
+Seat 3: ie11 ($1,565.84 in chips)
+Seat 4: Hero ($947.01 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Th 3c]
+Hero: folds
+NagastiBagamba: calls $6
+EliorDahan: calls $3
+ie11: checks
+*** FLOP *** [4d 4h Kh]
+EliorDahan: checks
+ie11: checks
+NagastiBagamba: checks
+*** TURN *** [4d 4h Kh] [Ts]
+EliorDahan: checks
+ie11: checks
+NagastiBagamba: checks
+*** RIVER *** [4d 4h Kh Ts] [3d]
+EliorDahan: checks
+ie11: checks
+NagastiBagamba: bets $12.6
+EliorDahan: raises $14.25 to $26.85
+ie11: folds
+NagastiBagamba: folds
+Uncalled bet ($14.25) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $43.2 from pot
+*** SUMMARY ***
+Total pot $43.2
+Board [4d 4h Kh Ts 3d]
+Seat 7: NagastiBagamba folded on the River
+Seat 2: EliorDahan(small blind)won ($43.2) with Pair of Tens and Pair of Fours
+Seat 3: ie11(big blind) folded on the River
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995815984: NLH No Limit ($3/$6) - 2025/07/17 00:25:26
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($2,545.49 in chips)
+Seat 2: EliorDahan ($1,093.35 in chips)
+Seat 3: ie11 ($1,472.84 in chips)
+Seat 4: Hero ($947.01 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [6h 5d]
+ie11: raises $21 to $27
+Hero: folds
+NagastiBagamba: calls $24
+EliorDahan: folds
+*** FLOP *** [9s 2h Jh]
+NagastiBagamba: checks
+ie11: bets $60
+NagastiBagamba: calls $60
+*** TURN *** [9s 2h Jh] [7h]
+NagastiBagamba: checks
+ie11: bets $180
+NagastiBagamba: folds
+Uncalled bet ($180) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $180 from pot
+*** SUMMARY ***
+Total pot $180
+Board [9s 2h Jh 7h]
+Seat 7: NagastiBagamba(small blind) folded on the Turn
+Seat 2: EliorDahan(big blind) folded before Flop
+Seat 3: ie11won ($180) with King-High
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995814784: NLH No Limit ($3/$6) - 2025/07/17 00:24:49
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,458.49 in chips)
+Seat 2: EliorDahan ($1,093.35 in chips)
+Seat 3: ie11 ($1,556.84 in chips)
+Seat 4: Hero ($950.01 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Qd Ts]
+EliorDahan: folds
+ie11: raises $21 to $27
+Hero: folds
+NagastiBagamba: calls $21
+*** FLOP *** [7s Kh 7h]
+NagastiBagamba: checks
+ie11: checks
+*** TURN *** [7s Kh 7h] [9c]
+NagastiBagamba: checks
+ie11: bets $57
+NagastiBagamba: calls $57
+*** RIVER *** [7s Kh 7h 9c] [Kc]
+NagastiBagamba: checks
+ie11: checks
+ie11: shows [Th Jc]
+NagastiBagamba: shows [Ac Td]
+*** SHOWDOWN ***
+NagastiBagamba collected $171 from pot
+*** SUMMARY ***
+Total pot $171
+Board [7s Kh 7h 9c Kc]
+Seat 7: NagastiBagamba(big blind) showed [Ac Td] and won ($171) with Pair of Kings and Pair of Sevens
+Seat 2: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11 showed [Th Jc] and lost with Pair of Kings and Pair of Sevens
+Seat 4: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_995813609: NLH No Limit ($3/$6) - 2025/07/17 00:24:12
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($2,464.49 in chips)
+Seat 2: EliorDahan ($1,099.35 in chips)
+Seat 3: ie11 ($1,538.84 in chips)
+Seat 4: Hero ($956.01 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [6h Ks]
+NagastiBagamba: calls $6
+EliorDahan: calls $6
+ie11: calls $3
+Hero: checks
+*** FLOP *** [5s Ad 3d]
+ie11: checks
+Hero: checks
+NagastiBagamba: checks
+EliorDahan: checks
+*** TURN *** [5s Ad 3d] [3s]
+ie11: checks
+Hero: checks
+NagastiBagamba: checks
+EliorDahan: checks
+*** RIVER *** [5s Ad 3d 3s] [Jh]
+ie11: checks
+Hero: checks
+NagastiBagamba: checks
+EliorDahan: checks
+EliorDahan: shows [7h 8s]
+ie11: shows [4s 5h]
+Hero: shows [6h Ks]
+NagastiBagamba: shows [9h 2h]
+*** SHOWDOWN ***
+ie11 collected $24 from pot
+*** SUMMARY ***
+Total pot $24
+Board [5s Ad 3d 3s Jh]
+Seat 7: NagastiBagamba showed [9h 2h] and lost with Pair of Treys
+Seat 2: EliorDahan showed [7h 8s] and lost with Pair of Treys
+Seat 3: ie11(small blind) showed [4s 5h] and won ($24) with Pair of Fives and Pair of Treys
+Seat 4: Hero(big blind) showed [6h Ks] and lost with Pair of Treys
+
+
+
+Poker Hand #ring_995812154: NLH No Limit ($3/$6) - 2025/07/17 00:23:26
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,488.49 in chips)
+Seat 2: EliorDahan ($1,159.35 in chips)
+Seat 3: ie11 ($1,454.84 in chips)
+Seat 4: Hero ($956.01 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [5h 7s]
+Hero: folds
+NagastiBagamba: calls $6
+EliorDahan: raises $18 to $24
+ie11: calls $18
+NagastiBagamba: calls $18
+*** FLOP *** [8c Qh 9d]
+EliorDahan: checks
+ie11: checks
+NagastiBagamba: checks
+*** TURN *** [8c Qh 9d] [6h]
+EliorDahan: bets $36
+ie11: calls $36
+NagastiBagamba: folds
+*** RIVER *** [8c Qh 9d 6h] [8d]
+EliorDahan: checks
+ie11: bets $144
+EliorDahan: folds
+Uncalled bet ($144) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $144 from pot
+*** SUMMARY ***
+Total pot $144
+Board [8c Qh 9d 6h 8d]
+Seat 7: NagastiBagamba folded on the Turn
+Seat 2: EliorDahan(small blind) folded on the River
+Seat 3: ie11(big blind)won ($144) with Three Eights
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995811168: NLH No Limit ($3/$6) - 2025/07/17 00:22:55
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($2,420.69 in chips)
+Seat 2: EliorDahan ($1,165.35 in chips)
+Seat 3: ie11 ($1,516.64 in chips)
+Seat 4: Hero ($956.01 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [9d 5c]
+ie11: calls $6
+Hero: folds
+NagastiBagamba: raises $18 to $24
+EliorDahan: folds
+ie11: calls $18
+*** FLOP *** [8d 5h Tc]
+NagastiBagamba: bets $37.8
+ie11: calls $37.8
+*** TURN *** [8d 5h Tc] [Ad]
+NagastiBagamba: bets $64.8
+ie11: folds
+Uncalled bet ($64.8) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $129.6 from pot
+*** SUMMARY ***
+Total pot $129.6
+Board [8d 5h Tc Ad]
+Seat 7: NagastiBagamba(small blind)won ($129.6) with Pair of Kings
+Seat 2: EliorDahan(big blind) folded before Flop
+Seat 3: ie11 folded on the Turn
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995809406: NLH No Limit ($3/$6) - 2025/07/17 00:22:01
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,438.69 in chips)
+Seat 2: EliorDahan ($1,156.35 in chips)
+Seat 3: ie11 ($1,516.64 in chips)
+Seat 4: Hero ($947.01 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Kc Qd]
+EliorDahan: raises $12 to $18
+ie11: folds
+Hero: calls $15
+NagastiBagamba: calls $12
+*** FLOP *** [Qc 2s 9c]
+Hero: bets $27
+NagastiBagamba: folds
+EliorDahan: raises $54 to $81
+Hero: calls $54
+*** TURN *** [Qc 2s 9c] [4c]
+Hero: checks
+EliorDahan: bets $216
+Hero: calls $216
+*** RIVER *** [Qc 2s 9c 4c] [8d]
+Hero: checks
+EliorDahan: checks
+EliorDahan: shows [Kh Qh]
+Hero: shows [Kc Qd]
+*** SHOWDOWN ***
+EliorDahan collected $324 from pot
+Hero collected $324 from pot
+*** SUMMARY ***
+Total pot $648
+Board [Qc 2s 9c 4c 8d]
+Seat 7: NagastiBagamba(big blind) folded on the Flop
+Seat 2: EliorDahan showed [Kh Qh] and won ($324) with Pair of Queens
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero(small blind) showed [Kc Qd] and won ($324) with Pair of Queens
+
+
+
+Poker Hand #ring_995808233: NLH No Limit ($3/$6) - 2025/07/17 00:21:26
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($2,444.69 in chips)
+Seat 2: EliorDahan ($1,126.35 in chips)
+Seat 3: ie11 ($1,534.64 in chips)
+Seat 4: Hero ($953.01 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [6h Qd]
+NagastiBagamba: calls $6
+EliorDahan: calls $6
+ie11: calls $3
+Hero: checks
+*** FLOP *** [Kh Jc Ac]
+ie11: checks
+Hero: checks
+NagastiBagamba: checks
+EliorDahan: bets $12
+ie11: calls $12
+Hero: folds
+NagastiBagamba: folds
+*** TURN *** [Kh Jc Ac] [5s]
+ie11: checks
+EliorDahan: bets $36
+ie11: folds
+Uncalled bet ($36) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $48 from pot
+*** SUMMARY ***
+Total pot $48
+Board [Kh Jc Ac 5s]
+Seat 7: NagastiBagamba folded on the Flop
+Seat 2: EliorDahanwon ($48) with Pair of Kings
+Seat 3: ie11(small blind) folded on the Turn
+Seat 4: Hero(big blind) folded on the Flop
+
+
+
+Poker Hand #ring_995807138: NLH No Limit ($3/$6) - 2025/07/17 00:20:52
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,444.69 in chips)
+Seat 2: EliorDahan ($1,096.35 in chips)
+Seat 3: ie11 ($1,564.64 in chips)
+Seat 4: Hero ($953.01 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [8d 7h]
+Hero: folds
+NagastiBagamba: folds
+EliorDahan: calls $3
+ie11: checks
+*** FLOP *** [Qd 9h Ks]
+EliorDahan: bets $9
+ie11: calls $9
+*** TURN *** [Qd 9h Ks] [Ts]
+EliorDahan: bets $15
+ie11: calls $15
+*** RIVER *** [Qd 9h Ks Ts] [Qh]
+EliorDahan: checks
+ie11: checks
+EliorDahan: shows [Ah Tc]
+ie11: shows [Td 7c]
+*** SHOWDOWN ***
+EliorDahan collected $60 from pot
+*** SUMMARY ***
+Total pot $60
+Board [Qd 9h Ks Ts Qh]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan(small blind) showed [Ah Tc] and won ($60) with Pair of Queens and Pair of Tens
+Seat 3: ie11(big blind) showed [Td 7c] and lost with Pair of Queens and Pair of Tens
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995805588: NLH No Limit ($3/$6) - 2025/07/17 00:20:04
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($2,447.69 in chips)
+Seat 2: EliorDahan ($1,270.35 in chips)
+Seat 3: ie11 ($1,387.64 in chips)
+Seat 4: Hero ($953.01 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [2c 4d]
+ie11: calls $6
+Hero: folds
+NagastiBagamba: folds
+EliorDahan: raises $12 to $18
+ie11: raises $39 to $57
+EliorDahan: calls $39
+*** FLOP *** [7s 8d 4h]
+EliorDahan: checks
+ie11: bets $117
+EliorDahan: calls $117
+*** TURN *** [7s 8d 4h] [Jd]
+EliorDahan: checks
+ie11: bets $1,213.64 and is all-in
+EliorDahan: folds
+Uncalled bet ($1,213.64) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $351 from pot
+*** SUMMARY ***
+Total pot $351
+Board [7s 8d 4h Jd]
+Seat 7: NagastiBagamba(small blind) folded before Flop
+Seat 2: EliorDahan(big blind) folded on the Turn
+Seat 3: ie11won ($351) with Pair of Kings
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995804310: NLH No Limit ($3/$6) - 2025/07/17 00:19:25
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,477.69 in chips)
+Seat 2: EliorDahan ($1,270.35 in chips)
+Seat 3: ie11 ($1,387.64 in chips)
+Seat 4: Hero ($923.01 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Td 8c]
+EliorDahan: folds
+ie11: folds
+Hero: raises $9 to $15
+NagastiBagamba: calls $9
+*** FLOP *** [9h 5c 7c]
+Hero: bets $15
+NagastiBagamba: calls $15
+*** TURN *** [9h 5c 7c] [Tc]
+Hero: bets $30
+NagastiBagamba: folds
+Uncalled bet ($30) returned to Hero
+*** SHOWDOWN ***
+Hero collected $60 from pot
+*** SUMMARY ***
+Total pot $60
+Board [9h 5c 7c Tc]
+Seat 7: NagastiBagamba(big blind) folded on the Turn
+Seat 2: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero(small blind)won ($60) with Pair of Tens
+
+
+
+Poker Hand #ring_995803111: NLH No Limit ($3/$6) - 2025/07/17 00:18:49
+Table 'poker' 9-max Seat #2 is the button
+Seat 7: NagastiBagamba ($2,477.69 in chips)
+Seat 2: EliorDahan ($1,288.35 in chips)
+Seat 3: ie11 ($1,351.64 in chips)
+Seat 4: Hero ($941.01 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [4s 3c]
+NagastiBagamba: folds
+EliorDahan: raises $12 to $18
+ie11: calls $15
+Hero: calls $12
+*** FLOP *** [Qc Td Js]
+ie11: checks
+Hero: checks
+EliorDahan: checks
+*** TURN *** [Qc Td Js] [Ts]
+ie11: bets $54
+Hero: folds
+EliorDahan: folds
+Uncalled bet ($54) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $54 from pot
+*** SUMMARY ***
+Total pot $54
+Board [Qc Td Js Ts]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan folded on the Turn
+Seat 3: ie11(small blind)won ($54) with Pair of Jacks and Pair of Tens
+Seat 4: Hero(big blind) folded on the Turn
+
+
+
+Poker Hand #ring_995802523: NLH No Limit ($3/$6) - 2025/07/17 00:18:30
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,477.69 in chips)
+Seat 2: EliorDahan ($1,291.35 in chips)
+Seat 3: ie11 ($1,348.64 in chips)
+Seat 4: Hero ($941.01 in chips)
+EliorDahan: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [2h 6s]
+Hero: folds
+NagastiBagamba: folds
+EliorDahan: folds
+*** SHOWDOWN ***
+ie11 collected $9 from pot
+*** SUMMARY ***
+Total pot $9
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 2: EliorDahan(small blind) folded before Flop
+Seat 3: ie11(big blind)won ($9)
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995801252: NLH No Limit ($3/$6) - 2025/07/17 00:17:51
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($2,447.69 in chips)
+Seat 2: EliorDahan ($1,002 in chips)
+Seat 3: ie11 ($1,372.64 in chips)
+Seat 4: Hero ($941.01 in chips)
+NagastiBagamba: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [3h 7d]
+ie11: calls $6
+Hero: folds
+NagastiBagamba: calls $3
+EliorDahan: checks
+*** FLOP *** [4c 7s 5d]
+NagastiBagamba: checks
+EliorDahan: checks
+ie11: bets $18
+NagastiBagamba: calls $18
+EliorDahan: folds
+*** TURN *** [4c 7s 5d] [6d]
+NagastiBagamba: checks
+ie11: checks
+*** RIVER *** [4c 7s 5d 6d] [Jd]
+NagastiBagamba: bets $18.36
+ie11: folds
+Uncalled bet ($18.36) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $54 from pot
+*** SUMMARY ***
+Total pot $54
+Board [4c 7s 5d 6d Jd]
+Seat 7: NagastiBagamba(small blind)won ($54) with Sevens-High Straight
+Seat 2: EliorDahan(big blind) folded on the Flop
+Seat 3: ie11 folded on the River
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995800159: NLH No Limit ($3/$6) - 2025/07/17 00:17:18
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,427.53 in chips)
+Seat 3: ie11 ($1,372.64 in chips)
+Seat 4: Hero ($961.17 in chips)
+Hero: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to ie11 
+Dealt to Hero [2d 5d]
+ie11: folds
+Hero: calls $3
+NagastiBagamba: checks
+*** FLOP *** [9h 5h 7d]
+Hero: bets $6
+NagastiBagamba: raises $8.16 to $14.16
+Hero: calls $8.16
+*** TURN *** [9h 5h 7d] [Ks]
+Hero: checks
+NagastiBagamba: bets $28.23
+Hero: folds
+Uncalled bet ($28.23) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $40.32 from pot
+*** SUMMARY ***
+Total pot $40.32
+Board [9h 5h 7d Ks]
+Seat 7: NagastiBagamba(big blind)won ($40.32) with Nines-High Straight
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero(small blind) folded on the Turn
+
+
+
+Poker Hand #ring_995799548: NLH No Limit ($3/$6) - 2025/07/17 00:16:58
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,418.53 in chips)
+Seat 5: EliorDahan ($697.35 in chips)
+Seat 3: ie11 ($1,375.64 in chips)
+Seat 4: Hero ($967.17 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Jh Ts]
+EliorDahan: folds
+NagastiBagamba: raises $18 to $24
+ie11: folds
+Hero: folds
+Uncalled bet ($18) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $15 from pot
+*** SUMMARY ***
+Total pot $15
+Seat 7: NagastiBagambawon ($15)
+Seat 5: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11(small blind) folded before Flop
+Seat 4: Hero(big blind) folded before Flop
+
+
+
+Poker Hand #ring_995798697: NLH No Limit ($3/$6) - 2025/07/17 00:16:34
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($2,433.53 in chips)
+Seat 5: EliorDahan ($697.35 in chips)
+Seat 3: ie11 ($1,390.64 in chips)
+Seat 4: Hero ($937.17 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [9s Qc]
+Hero: raises $9 to $15
+EliorDahan: folds
+NagastiBagamba: calls $12
+ie11: calls $9
+*** FLOP *** [3h Ad 3d]
+NagastiBagamba: checks
+ie11: checks
+Hero: bets $22.5
+NagastiBagamba: folds
+ie11: folds
+Uncalled bet ($22.5) returned to Hero
+*** SHOWDOWN ***
+Hero collected $45 from pot
+*** SUMMARY ***
+Total pot $45
+Board [3h Ad 3d]
+Seat 7: NagastiBagamba(small blind) folded on the Flop
+Seat 5: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11(big blind) folded on the Flop
+Seat 4: Herowon ($45) with Pair of Treys
+
+
+
+Poker Hand #ring_995796923: NLH No Limit ($3/$6) - 2025/07/17 00:15:39
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($2,495.33 in chips)
+Seat 5: EliorDahan ($759.15 in chips)
+Seat 3: ie11 ($1,205.24 in chips)
+Seat 4: Hero ($998.97 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ts Tc]
+ie11: raises $15 to $21
+Hero: raises $40.8 to $61.8
+EliorDahan: calls $58.8
+NagastiBagamba: calls $55.8
+ie11: calls $40.8
+*** FLOP *** [6d Qh 3h]
+EliorDahan: checks
+NagastiBagamba: checks
+ie11: bets $1,143.44 and is all-in
+Hero: folds
+EliorDahan: folds
+NagastiBagamba: folds
+Uncalled bet ($1,143.44) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $247.2 from pot
+*** SUMMARY ***
+Total pot $247.2
+Board [6d Qh 3h]
+Seat 7: NagastiBagamba(big blind) folded on the Flop
+Seat 5: EliorDahan(small blind) folded on the Flop
+Seat 3: ie11won ($247.2) with King-High
+Seat 4: Hero folded on the Flop
+
+
+
+Poker Hand #ring_995796044: NLH No Limit ($3/$6) - 2025/07/17 00:15:13
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,477.33 in chips)
+Seat 5: EliorDahan ($765.15 in chips)
+Seat 3: ie11 ($1,211.24 in chips)
+Seat 4: Hero ($1,004.97 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Jd 6s]
+NagastiBagamba: calls $6
+ie11: calls $6
+Hero: calls $3
+EliorDahan: checks
+*** FLOP *** [3c 7h 4c]
+Hero: checks
+EliorDahan: checks
+NagastiBagamba: bets $16.8
+ie11: folds
+Hero: folds
+EliorDahan: folds
+Uncalled bet ($16.8) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $24 from pot
+*** SUMMARY ***
+Total pot $24
+Board [3c 7h 4c]
+Seat 7: NagastiBagambawon ($24) with Ace-High
+Seat 5: EliorDahan(big blind) folded on the Flop
+Seat 3: ie11 folded on the Flop
+Seat 4: Hero(small blind) folded on the Flop
+
+
+
+Poker Hand #ring_995795022: NLH No Limit ($3/$6) - 2025/07/17 00:14:42
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,483.33 in chips)
+Seat 5: EliorDahan ($771.15 in chips)
+Seat 3: ie11 ($1,224.44 in chips)
+Seat 4: Hero ($979.77 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [2s 6d]
+EliorDahan: calls $6
+NagastiBagamba: calls $6
+ie11: calls $3
+Hero: checks
+*** FLOP *** [Tc 6h 3d]
+ie11: checks
+Hero: bets $7.2
+EliorDahan: folds
+NagastiBagamba: folds
+ie11: calls $7.2
+*** TURN *** [Tc 6h 3d] [Js]
+ie11: checks
+Hero: checks
+*** RIVER *** [Tc 6h 3d Js] [Qd]
+ie11: checks
+Hero: checks
+ie11: shows [Ac 2c]
+Hero: shows [2s 6d]
+*** SHOWDOWN ***
+Hero collected $38.4 from pot
+*** SUMMARY ***
+Total pot $38.4
+Board [Tc 6h 3d Js Qd]
+Seat 7: NagastiBagamba folded on the Flop
+Seat 5: EliorDahan folded on the Flop
+Seat 3: ie11(small blind) showed [Ac 2c] and lost with Ace-High
+Seat 4: Hero(big blind) showed [2s 6d] and won ($38.4) with Pair of Sixes
+
+
+
+Poker Hand #ring_995794257: NLH No Limit ($3/$6) - 2025/07/17 00:14:20
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($2,486.33 in chips)
+Seat 5: EliorDahan ($798.15 in chips)
+Seat 3: ie11 ($1,194.44 in chips)
+Seat 4: Hero ($979.77 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [6h Jh]
+Hero: folds
+EliorDahan: calls $6
+NagastiBagamba: folds
+ie11: raises $21 to $27
+EliorDahan: calls $21
+*** FLOP *** [2d 9s 4h]
+ie11: bets $57
+EliorDahan: folds
+Uncalled bet ($57) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $57 from pot
+*** SUMMARY ***
+Total pot $57
+Board [2d 9s 4h]
+Seat 7: NagastiBagamba(small blind) folded before Flop
+Seat 5: EliorDahan folded on the Flop
+Seat 3: ie11(big blind)won ($57) with Ace-High
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995792897: NLH No Limit ($3/$6) - 2025/07/17 00:13:40
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($2,513.33 in chips)
+Seat 5: EliorDahan ($919.11 in chips)
+Seat 3: ie11 ($1,046.48 in chips)
+Seat 4: Hero ($979.77 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [3s 5h]
+ie11: raises $21 to $27
+Hero: folds
+EliorDahan: calls $24
+NagastiBagamba: calls $21
+*** FLOP *** [Ad Tc 3c]
+EliorDahan: bets $26.73
+NagastiBagamba: folds
+ie11: calls $26.73
+*** TURN *** [Ad Tc 3c] [3h]
+EliorDahan: bets $67.23
+ie11: calls $67.23
+*** RIVER *** [Ad Tc 3c 3h] [Ac]
+EliorDahan: checks
+ie11: bets $925.52 and is all-in
+EliorDahan: folds
+Uncalled bet ($925.52) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $268.92 from pot
+*** SUMMARY ***
+Total pot $268.92
+Board [Ad Tc 3c 3h Ac]
+Seat 7: NagastiBagamba(big blind) folded on the Flop
+Seat 5: EliorDahan(small blind) folded on the River
+Seat 3: ie11won ($268.92) with Pair of Aces and Pair of Treys
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995791730: NLH No Limit ($3/$6) - 2025/07/17 00:13:05
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,513.33 in chips)
+Seat 5: EliorDahan ($898.11 in chips)
+Seat 3: ie11 ($1,052.48 in chips)
+Seat 4: Hero ($994.77 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [2d As]
+NagastiBagamba: folds
+ie11: calls $6
+Hero: calls $3
+EliorDahan: checks
+*** FLOP *** [Tc 8d Qs]
+Hero: checks
+EliorDahan: checks
+ie11: checks
+*** TURN *** [Tc 8d Qs] [2s]
+Hero: checks
+EliorDahan: bets $9
+ie11: folds
+Hero: calls $9
+*** RIVER *** [Tc 8d Qs 2s] [7s]
+Hero: checks
+EliorDahan: bets $11.88
+Hero: folds
+Uncalled bet ($11.88) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $36 from pot
+*** SUMMARY ***
+Total pot $36
+Board [Tc 8d Qs 2s 7s]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 5: EliorDahan(big blind)won ($36) with Queen-High
+Seat 3: ie11 folded on the Turn
+Seat 4: Hero(small blind) folded on the River
+
+
+
+Poker Hand #ring_995789974: NLH No Limit ($3/$6) - 2025/07/17 00:12:13
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,294.33 in chips)
+Seat 5: EliorDahan ($898.11 in chips)
+Seat 3: ie11 ($1,265.48 in chips)
+Seat 4: Hero ($1,000.77 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [2s 6c]
+EliorDahan: folds
+NagastiBagamba: raises $15 to $21
+ie11: calls $18
+Hero: folds
+*** FLOP *** [2d 5s Jc]
+ie11: bets $48
+NagastiBagamba: calls $48
+*** TURN *** [2d 5s Jc] [5c]
+ie11: bets $144
+NagastiBagamba: calls $144
+*** RIVER *** [2d 5s Jc 5c] [Ts]
+ie11: checks
+NagastiBagamba: checks
+ie11: shows [6h As]
+NagastiBagamba: shows [8h Jh]
+*** SHOWDOWN ***
+NagastiBagamba collected $432 from pot
+*** SUMMARY ***
+Total pot $432
+Board [2d 5s Jc 5c Ts]
+Seat 7: NagastiBagamba showed [8h Jh] and won ($432) with Pair of Jacks and Pair of Fives
+Seat 5: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11(small blind) showed [6h As] and lost with Pair of Fives
+Seat 4: Hero(big blind) folded before Flop
+
+
+
+Poker Hand #ring_995788900: NLH No Limit ($3/$6) - 2025/07/17 00:11:41
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($2,246.33 in chips)
+Seat 5: EliorDahan ($922.11 in chips)
+Seat 3: ie11 ($1,289.48 in chips)
+Seat 4: Hero ($1,000.77 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Qs 5d]
+Hero: folds
+EliorDahan: calls $6
+NagastiBagamba: raises $18 to $24
+ie11: calls $18
+EliorDahan: calls $18
+*** FLOP *** [2h 3s Ad]
+NagastiBagamba: bets $36
+ie11: folds
+EliorDahan: folds
+Uncalled bet ($36) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $72 from pot
+*** SUMMARY ***
+Total pot $72
+Board [2h 3s Ad]
+Seat 7: NagastiBagamba(small blind)won ($72) with Ace-High
+Seat 5: EliorDahan folded on the Flop
+Seat 3: ie11(big blind) folded on the Flop
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995788320: NLH No Limit ($3/$6) - 2025/07/17 00:11:24
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($2,252.33 in chips)
+Seat 5: EliorDahan ($925.11 in chips)
+Seat 3: ie11 ($1,289.48 in chips)
+Seat 4: Hero ($991.77 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Kc 9c]
+ie11: folds
+Hero: raises $12 to $18
+EliorDahan: folds
+NagastiBagamba: folds
+Uncalled bet ($12) returned to Hero
+*** SHOWDOWN ***
+Hero collected $15 from pot
+*** SUMMARY ***
+Total pot $15
+Seat 7: NagastiBagamba(big blind) folded before Flop
+Seat 5: EliorDahan(small blind) folded before Flop
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Herowon ($15)
+
+
+
+Poker Hand #ring_995786788: NLH No Limit ($3/$6) - 2025/07/17 00:10:39
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,194.91 in chips)
+Seat 5: EliorDahan ($973.53 in chips)
+Seat 3: ie11 ($1,295.48 in chips)
+Seat 4: Hero ($994.77 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [7s 2d]
+NagastiBagamba: calls $6
+ie11: calls $6
+Hero: folds
+EliorDahan: checks
+*** FLOP *** [4s 5d Qd]
+EliorDahan: checks
+NagastiBagamba: bets $21
+ie11: folds
+EliorDahan: calls $21
+*** TURN *** [4s 5d Qd] [4h]
+EliorDahan: checks
+NagastiBagamba: checks
+*** RIVER *** [4s 5d Qd 4h] [Kd]
+EliorDahan: checks
+NagastiBagamba: bets $21.42
+EliorDahan: calls $21.42
+EliorDahan: shows [As 5s]
+NagastiBagamba: shows [Ks 5c]
+*** SHOWDOWN ***
+NagastiBagamba collected $105.84 from pot
+*** SUMMARY ***
+Total pot $105.84
+Board [4s 5d Qd 4h Kd]
+Seat 7: NagastiBagamba showed [Ks 5c] and won ($105.84) with Pair of Kings and Pair of Fives
+Seat 5: EliorDahan(big blind) showed [As 5s] and lost with Pair of Fives and Pair of Fours
+Seat 3: ie11 folded on the Flop
+Seat 4: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_995785867: NLH No Limit ($3/$6) - 2025/07/17 00:10:11
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,215.91 in chips)
+Seat 5: EliorDahan ($973.53 in chips)
+Seat 3: ie11 ($1,253.48 in chips)
+Seat 4: Hero ($1,015.77 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [5c 3c]
+EliorDahan: folds
+NagastiBagamba: raises $15 to $21
+ie11: calls $18
+Hero: calls $15
+*** FLOP *** [3s 7s 8d]
+ie11: bets $63
+Hero: folds
+NagastiBagamba: folds
+Uncalled bet ($63) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $63 from pot
+*** SUMMARY ***
+Total pot $63
+Board [3s 7s 8d]
+Seat 7: NagastiBagamba folded on the Flop
+Seat 5: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11(small blind)won ($63) with Pair of Eights
+Seat 4: Hero(big blind) folded on the Flop
+
+
+
+Poker Hand #ring_995784747: NLH No Limit ($3/$6) - 2025/07/17 00:09:38
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($2,218.91 in chips)
+Seat 5: EliorDahan ($1,030.53 in chips)
+Seat 3: ie11 ($1,193.48 in chips)
+Seat 4: Hero ($1,015.77 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [5d Qs]
+Hero: folds
+EliorDahan: raises $12 to $18
+NagastiBagamba: folds
+ie11: calls $12
+*** FLOP *** [5h 3h 9h]
+ie11: checks
+EliorDahan: checks
+*** TURN *** [5h 3h 9h] [9s]
+ie11: bets $39
+EliorDahan: calls $39
+*** RIVER *** [5h 3h 9h 9s] [4h]
+ie11: bets $77.22
+EliorDahan: folds
+Uncalled bet ($77.22) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $117 from pot
+*** SUMMARY ***
+Total pot $117
+Board [5h 3h 9h 9s 4h]
+Seat 7: NagastiBagamba(small blind) folded before Flop
+Seat 5: EliorDahan folded on the River
+Seat 3: ie11(big blind)won ($117) with Ace High Flush
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995783840: NLH No Limit ($3/$6) - 2025/07/17 00:09:13
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($2,242.91 in chips)
+Seat 5: EliorDahan ($982.53 in chips)
+Seat 3: ie11 ($1,193.48 in chips)
+Seat 4: Hero ($1,039.77 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [6c 5h]
+ie11: folds
+Hero: calls $6
+EliorDahan: raises $18 to $24
+NagastiBagamba: calls $18
+Hero: calls $18
+*** FLOP *** [Jh Ac 4s]
+EliorDahan: bets $36
+NagastiBagamba: folds
+Hero: folds
+Uncalled bet ($36) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $72 from pot
+*** SUMMARY ***
+Total pot $72
+Board [Jh Ac 4s]
+Seat 7: NagastiBagamba(big blind) folded on the Flop
+Seat 5: EliorDahan(small blind)won ($72) with Pair of Aces
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero folded on the Flop
+
+
+
+Poker Hand #ring_995783294: NLH No Limit ($3/$6) - 2025/07/17 00:08:56
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,242.91 in chips)
+Seat 5: EliorDahan ($988.53 in chips)
+Seat 3: ie11 ($1,193.48 in chips)
+Seat 4: Hero ($1,033.77 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [6h Kd]
+NagastiBagamba: folds
+ie11: folds
+Hero: raises $9 to $15
+EliorDahan: folds
+Uncalled bet ($9) returned to Hero
+*** SHOWDOWN ***
+Hero collected $12 from pot
+*** SUMMARY ***
+Total pot $12
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 5: EliorDahan(big blind) folded before Flop
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero(small blind)won ($12)
+
+
+
+Poker Hand #ring_995782514: NLH No Limit ($3/$6) - 2025/07/17 00:08:33
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,242.91 in chips)
+Seat 5: EliorDahan ($1,015.53 in chips)
+Seat 3: ie11 ($1,160.48 in chips)
+Seat 4: Hero ($1,039.77 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [5d Kc]
+EliorDahan: calls $6
+NagastiBagamba: folds
+ie11: raises $21 to $27
+Hero: folds
+EliorDahan: calls $21
+*** FLOP *** [5h 5c 7c]
+ie11: bets $60
+EliorDahan: folds
+Uncalled bet ($60) returned to ie11
+ie11: shows [7s]
+Hero: shows [5d]
+*** SHOWDOWN ***
+ie11 collected $60 from pot
+*** SUMMARY ***
+Total pot $60
+Board [5h 5c 7c]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 5: EliorDahan folded on the Flop
+Seat 3: ie11(small blind) showed [7s] and won ($60) with Pair of Sevens and Pair of Fives
+Seat 4: Hero(big blind) folded before Flop
+
+
+
+Poker Hand #ring_995781466: NLH No Limit ($3/$6) - 2025/07/17 00:08:03
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($2,245.91 in chips)
+Seat 5: EliorDahan ($1,015.53 in chips)
+Seat 3: ie11 ($1,217.48 in chips)
+Seat 4: Hero ($979.77 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ah 7h]
+Hero: raises $12 to $18
+EliorDahan: folds
+NagastiBagamba: folds
+ie11: calls $12
+*** FLOP *** [2d 2c 5d]
+ie11: checks
+Hero: checks
+*** TURN *** [2d 2c 5d] [5c]
+ie11: bets $39
+Hero: calls $39
+*** RIVER *** [2d 2c 5d 5c] [4h]
+ie11: checks
+Hero: checks
+ie11: shows [9d Kh]
+Hero: shows [Ah 7h]
+*** SHOWDOWN ***
+Hero collected $117 from pot
+*** SUMMARY ***
+Total pot $117
+Board [2d 2c 5d 5c 4h]
+Seat 7: NagastiBagamba(small blind) folded before Flop
+Seat 5: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11(big blind) showed [9d Kh] and lost with Pair of Fives and Pair of Twos
+Seat 4: Hero showed [Ah 7h] and won ($117) with Pair of Fives and Pair of Twos
+
+
+
+Poker Hand #ring_995779546: NLH No Limit ($3/$6) - 2025/07/17 00:07:06
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($2,251.91 in chips)
+Seat 5: EliorDahan ($947.13 in chips)
+Seat 3: ie11 ($1,223.48 in chips)
+Seat 4: Hero ($1,036.17 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Kc 8c]
+ie11: calls $6
+Hero: calls $6
+EliorDahan: calls $3
+NagastiBagamba: checks
+*** FLOP *** [7c Th 7h]
+EliorDahan: checks
+NagastiBagamba: checks
+ie11: checks
+Hero: bets $12
+EliorDahan: calls $12
+NagastiBagamba: folds
+ie11: folds
+*** TURN *** [7c Th 7h] [Qs]
+EliorDahan: checks
+Hero: checks
+*** RIVER *** [7c Th 7h Qs] [5c]
+EliorDahan: checks
+Hero: bets $38.4
+EliorDahan: calls $38.4
+Hero: shows [Kc 8c]
+EliorDahan: shows [5h Kh]
+*** SHOWDOWN ***
+EliorDahan collected $124.8 from pot
+*** SUMMARY ***
+Total pot $124.8
+Board [7c Th 7h Qs 5c]
+Seat 7: NagastiBagamba(big blind) folded on the Flop
+Seat 5: EliorDahan(small blind) showed [5h Kh] and won ($124.8) with Pair of Sevens and Pair of Fives
+Seat 3: ie11 folded on the Flop
+Seat 4: Hero showed [Kc 8c] and lost with Pair of Sevens
+
+
+
+Poker Hand #ring_995778900: NLH No Limit ($3/$6) - 2025/07/17 00:06:49
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,251.91 in chips)
+Seat 5: EliorDahan ($953.13 in chips)
+Seat 3: ie11 ($1,214.48 in chips)
+Seat 4: Hero ($1,039.17 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [2h 5c]
+NagastiBagamba: folds
+ie11: raises $21 to $27
+Hero: folds
+EliorDahan: folds
+Uncalled bet ($21) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $15 from pot
+*** SUMMARY ***
+Total pot $15
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 5: EliorDahan(big blind) folded before Flop
+Seat 3: ie11won ($15)
+Seat 4: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_995777447: NLH No Limit ($3/$6) - 2025/07/17 00:06:05
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,230.91 in chips)
+Seat 5: EliorDahan ($953.13 in chips)
+Seat 3: ie11 ($1,220.48 in chips)
+Seat 4: Hero ($1,054.17 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [5c 4s]
+EliorDahan: folds
+NagastiBagamba: calls $6
+ie11: calls $3
+Hero: checks
+*** FLOP *** [6h 9c 7h]
+ie11: checks
+Hero: bets $9
+NagastiBagamba: calls $9
+ie11: folds
+*** TURN *** [6h 9c 7h] [6c]
+Hero: checks
+NagastiBagamba: checks
+*** RIVER *** [6h 9c 7h 6c] [Qs]
+Hero: checks
+NagastiBagamba: bets $18
+Hero: folds
+Uncalled bet ($18) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $36 from pot
+*** SUMMARY ***
+Total pot $36
+Board [6h 9c 7h 6c Qs]
+Seat 7: NagastiBagambawon ($36) with Pair of Sixes
+Seat 5: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11(small blind) folded on the Flop
+Seat 4: Hero(big blind) folded on the River
+
+
+
+Poker Hand #ring_995776438: NLH No Limit ($3/$6) - 2025/07/17 00:05:36
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($2,257.91 in chips)
+Seat 5: EliorDahan ($959.13 in chips)
+Seat 3: ie11 ($1,187.48 in chips)
+Seat 4: Hero ($1,054.17 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Jd 2d]
+Hero: folds
+EliorDahan: calls $6
+NagastiBagamba: calls $3
+ie11: raises $21 to $27
+EliorDahan: folds
+NagastiBagamba: calls $21
+*** FLOP *** [Kd Td Th]
+NagastiBagamba: checks
+ie11: checks
+*** TURN *** [Kd Td Th] [7h]
+NagastiBagamba: checks
+ie11: bets $60
+NagastiBagamba: folds
+Uncalled bet ($60) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $60 from pot
+*** SUMMARY ***
+Total pot $60
+Board [Kd Td Th 7h]
+Seat 7: NagastiBagamba(small blind) folded on the Turn
+Seat 5: EliorDahan folded before Flop
+Seat 3: ie11(big blind)won ($60) with Pair of Tens
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995774703: NLH No Limit ($3/$6) - 2025/07/17 00:04:46
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($2,407.39 in chips)
+Seat 5: EliorDahan ($977.13 in chips)
+Seat 3: ie11 ($1,014 in chips)
+Seat 4: Hero ($1,060.17 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [7d Ah]
+ie11: checks
+Hero: calls $6
+EliorDahan: calls $3
+NagastiBagamba: checks
+*** FLOP *** [2s Js Tc]
+EliorDahan: bets $12
+NagastiBagamba: calls $12
+ie11: raises $39.6 to $51.6
+Hero: folds
+EliorDahan: folds
+NagastiBagamba: calls $39.6
+*** TURN *** [2s Js Tc] [Jc]
+NagastiBagamba: checks
+ie11: bets $91.88
+NagastiBagamba: calls $91.88
+*** RIVER *** [2s Js Tc Jc] [5s]
+NagastiBagamba: checks
+ie11: checks
+ie11: shows [Ks Kd]
+NagastiBagamba: shows [8d 9h]
+*** SHOWDOWN ***
+ie11 collected $322.96 from pot
+*** SUMMARY ***
+Total pot $322.96
+Board [2s Js Tc Jc 5s]
+Seat 7: NagastiBagamba(big blind) showed [8d 9h] and lost with Pair of Jacks
+Seat 5: EliorDahan(small blind) folded on the Flop
+Seat 3: ie11 showed [Ks Kd] and won ($322.96) with Pair of Kings and Pair of Jacks
+Seat 4: Hero folded on the Flop
+
+
+
+Poker Hand #ring_995773487: NLH No Limit ($3/$6) - 2025/07/17 00:04:11
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,425.39 in chips)
+Seat 5: EliorDahan ($914.13 in chips)
+Seat 4: Hero ($1,105.17 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to Hero [5c 5d]
+NagastiBagamba: calls $6
+Hero: raises $12 to $18
+EliorDahan: calls $12
+NagastiBagamba: calls $12
+*** FLOP *** [Qd Tc Js]
+Hero: checks
+EliorDahan: checks
+NagastiBagamba: checks
+*** TURN *** [Qd Tc Js] [3c]
+Hero: bets $27
+EliorDahan: raises $35.64 to $62.64
+NagastiBagamba: folds
+Hero: folds
+Uncalled bet ($35.64) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $108 from pot
+*** SUMMARY ***
+Total pot $108
+Board [Qd Tc Js 3c]
+Seat 7: NagastiBagamba folded on the Turn
+Seat 5: EliorDahan(big blind)won ($108) with Pair of Queens
+Seat 4: Hero(small blind) folded on the Turn
+
+
+
+Poker Hand #ring_995772478: NLH No Limit ($3/$6) - 2025/07/17 00:03:42
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($2,428.39 in chips)
+Seat 5: EliorDahan ($951.63 in chips)
+Seat 4: Hero ($1,064.67 in chips)
+NagastiBagamba: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to Hero [2c Ah]
+EliorDahan: raises $12 to $18
+NagastiBagamba: folds
+Hero: calls $12
+*** FLOP *** [Ac Ts 7h]
+Hero: checks
+EliorDahan: checks
+*** TURN *** [Ac Ts 7h] [Qd]
+Hero: checks
+EliorDahan: checks
+*** RIVER *** [Ac Ts 7h Qd] [4s]
+Hero: bets $19.5
+EliorDahan: calls $19.5
+Hero: shows [2c Ah]
+EliorDahan: shows [7c 8s]
+*** SHOWDOWN ***
+Hero collected $78 from pot
+*** SUMMARY ***
+Total pot $78
+Board [Ac Ts 7h Qd 4s]
+Seat 7: NagastiBagamba(small blind) folded before Flop
+Seat 5: EliorDahan showed [7c 8s] and lost with Pair of Sevens
+Seat 4: Hero(big blind) showed [2c Ah] and won ($78) with Pair of Aces
+
+
+
+Poker Hand #ring_995771229: NLH No Limit ($3/$6) - 2025/07/17 00:03:06
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($2,434.39 in chips)
+Seat 5: EliorDahan ($954.63 in chips)
+Seat 3: ie11 ($137.32 in chips)
+Seat 4: Hero ($918.35 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Qh Qc]
+ie11: calls $6
+Hero: raises $12 to $18
+EliorDahan: folds
+NagastiBagamba: folds
+ie11: raises $119.32 to $137.32 and is all-in
+Hero: calls $119.32
+ie11: shows [6d Kd]
+Hero: shows [Qh Qc]
+*** FLOP *** [5s 5h 7c]
+*** TURN *** [5s 5h 7c] [4d]
+*** RIVER *** [5s 5h 7c 4d] [7s]
+*** SHOWDOWN ***
+Hero collected $283.64 from pot
+*** SUMMARY ***
+Total pot $283.64
+Board [5s 5h 7c 4d 7s]
+Seat 7: NagastiBagamba(big blind) folded before Flop
+Seat 5: EliorDahan(small blind) folded before Flop
+Seat 3: ie11 showed [6d Kd] and lost with Pair of Sevens and Pair of Fives
+Seat 4: Hero showed [Qh Qc] and won ($283.64) with Pair of Queens and Pair of Sevens
+
+
+
+Poker Hand #ring_995769337: NLH No Limit ($3/$6) - 2025/07/17 00:02:11
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,494.39 in chips)
+Seat 5: EliorDahan ($870.63 in chips)
+Seat 3: ie11 ($137.32 in chips)
+Seat 4: Hero ($942.35 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [9s 6s]
+NagastiBagamba: calls $6
+ie11: folds
+Hero: calls $3
+EliorDahan: raises $18 to $24
+NagastiBagamba: calls $18
+Hero: calls $18
+*** FLOP *** [Jc Qd 4h]
+Hero: checks
+EliorDahan: checks
+NagastiBagamba: bets $36
+Hero: folds
+EliorDahan: calls $36
+*** TURN *** [Jc Qd 4h] [Ts]
+EliorDahan: checks
+NagastiBagamba: checks
+*** RIVER *** [Jc Qd 4h Ts] [3s]
+EliorDahan: bets $144
+NagastiBagamba: folds
+Uncalled bet ($144) returned to EliorDahan
+EliorDahan: shows [7s 4d]
+*** SHOWDOWN ***
+EliorDahan collected $144 from pot
+*** SUMMARY ***
+Total pot $144
+Board [Jc Qd 4h Ts 3s]
+Seat 7: NagastiBagamba folded on the River
+Seat 5: EliorDahan(big blind) showed [7s 4d] and won ($144) with Pair of Fours
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero(small blind) folded on the Flop
+
+
+
+Poker Hand #ring_995768798: NLH No Limit ($3/$6) - 2025/07/17 00:01:56
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($2,494.39 in chips)
+Seat 5: EliorDahan ($888.63 in chips)
+Seat 3: ie11 ($113.32 in chips)
+Seat 4: Hero ($948.35 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [As 6c]
+EliorDahan: raises $12 to $18
+NagastiBagamba: folds
+ie11: raises $95.32 to $113.32 and is all-in
+Hero: folds
+EliorDahan: folds
+Uncalled bet ($95.32) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $42 from pot
+*** SUMMARY ***
+Total pot $42
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 5: EliorDahan folded before Flop
+Seat 3: ie11(small blind)won ($42)
+Seat 4: Hero(big blind) folded before Flop
+
+
+
+Poker Hand #ring_995766697: NLH No Limit ($3/$6) - 2025/07/17 00:00:54
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($2,322.64 in chips)
+Seat 5: EliorDahan ($1,054.38 in chips)
+Seat 3: ie11 ($119.32 in chips)
+Seat 4: Hero ($948.35 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ks 5c]
+Hero: folds
+EliorDahan: raises $18 to $24
+NagastiBagamba: calls $21
+ie11: folds
+*** FLOP *** [Kd 5s 2s]
+NagastiBagamba: checks
+EliorDahan: bets $40.5
+NagastiBagamba: calls $40.5
+*** TURN *** [Kd 5s 2s] [5d]
+NagastiBagamba: checks
+EliorDahan: bets $101.25
+NagastiBagamba: raises $102.75 to $204
+EliorDahan: folds
+Uncalled bet ($102.75) returned to NagastiBagamba
+Hero: shows [5c]
+*** SHOWDOWN ***
+NagastiBagamba collected $337.5 from pot
+*** SUMMARY ***
+Total pot $337.5
+Board [Kd 5s 2s 5d]
+Seat 7: NagastiBagamba(small blind)won ($337.5) with Pair of Sevens and Pair of Fives
+Seat 5: EliorDahan folded on the Turn
+Seat 3: ie11(big blind) folded before Flop
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995765291: NLH No Limit ($3/$6) - 2025/07/17 00:00:14
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($2,328.64 in chips)
+Seat 5: EliorDahan ($961.38 in chips)
+Seat 3: ie11 ($143.32 in chips)
+Seat 4: Hero ($1,011.35 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [7h Qc]
+ie11: calls $6
+Hero: calls $6
+EliorDahan: raises $18 to $24
+NagastiBagamba: folds
+ie11: calls $18
+Hero: calls $18
+*** FLOP *** [Tc 9s 4c]
+EliorDahan: checks
+ie11: checks
+Hero: bets $39
+EliorDahan: raises $78 to $117
+ie11: folds
+Hero: folds
+Uncalled bet ($78) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $156 from pot
+*** SUMMARY ***
+Total pot $156
+Board [Tc 9s 4c]
+Seat 7: NagastiBagamba(big blind) folded before Flop
+Seat 5: EliorDahan(small blind)won ($156) with Pair of Jacks
+Seat 3: ie11 folded on the Flop
+Seat 4: Hero folded on the Flop
+
+
+
+Poker Hand #ring_995764430: NLH No Limit ($3/$6) - 2025/07/16 23:59:49
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($2,298.64 in chips)
+Seat 5: EliorDahan ($985.38 in chips)
+Seat 3: ie11 ($143.32 in chips)
+Seat 4: Hero ($1,017.35 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [4c Jd]
+NagastiBagamba: calls $6
+ie11: folds
+Hero: calls $3
+EliorDahan: raises $18 to $24
+NagastiBagamba: calls $18
+Hero: folds
+*** FLOP *** [9c 8c 6s]
+EliorDahan: checks
+NagastiBagamba: bets $27
+EliorDahan: folds
+Uncalled bet ($27) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $54 from pot
+*** SUMMARY ***
+Total pot $54
+Board [9c 8c 6s]
+Seat 7: NagastiBagambawon ($54) with Pair of Eights
+Seat 5: EliorDahan(big blind) folded on the Flop
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_995762539: NLH No Limit ($3/$6) - 2025/07/16 23:58:53
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($1,892.25 in chips)
+Seat 5: EliorDahan ($985.38 in chips)
+Seat 3: ie11 ($543.71 in chips)
+Seat 4: Hero ($1,023.35 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [8h 7c]
+EliorDahan: folds
+NagastiBagamba: calls $6
+ie11: raises $18 to $24
+Hero: folds
+NagastiBagamba: calls $18
+*** FLOP *** [2s 4h 9c]
+ie11: bets $54
+NagastiBagamba: calls $54
+*** TURN *** [2s 4h 9c] [5s]
+ie11: bets $53.46
+NagastiBagamba: calls $53.46
+*** RIVER *** [2s 4h 9c 5s] [6c]
+ie11: bets $268.93
+NagastiBagamba: calls $268.93
+ie11: shows [Ac Td]
+NagastiBagamba: shows [9d Qs]
+Hero: shows [8h 7c]
+*** SHOWDOWN ***
+NagastiBagamba collected $806.78 from pot
+*** SUMMARY ***
+Total pot $806.78
+Board [2s 4h 9c 5s 6c]
+Seat 7: NagastiBagamba showed [9d Qs] and won ($806.78) with Pair of Nines
+Seat 5: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11(small blind) showed [Ac Td] and lost with Ace-High
+Seat 4: Hero(big blind) folded before Flop
+
+
+
+Poker Hand #ring_995761140: NLH No Limit ($3/$6) - 2025/07/16 23:58:13
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($1,919.13 in chips)
+Seat 5: EliorDahan ($952.5 in chips)
+Seat 3: ie11 ($549.71 in chips)
+Seat 4: Hero ($1,023.35 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Qh 3s]
+Hero: folds
+EliorDahan: calls $6
+NagastiBagamba: calls $3
+ie11: checks
+*** FLOP *** [4d 6s 8d]
+NagastiBagamba: checks
+ie11: checks
+EliorDahan: checks
+*** TURN *** [4d 6s 8d] [8h]
+NagastiBagamba: bets $9
+ie11: folds
+EliorDahan: raises $11.88 to $20.88
+NagastiBagamba: calls $11.88
+*** RIVER *** [4d 6s 8d 8h] [Ad]
+NagastiBagamba: checks
+EliorDahan: checks
+EliorDahan: shows [Jd 6c]
+NagastiBagamba: shows [2c 4h]
+*** SHOWDOWN ***
+EliorDahan collected $59.76 from pot
+*** SUMMARY ***
+Total pot $59.76
+Board [4d 6s 8d 8h Ad]
+Seat 7: NagastiBagamba(small blind) showed [2c 4h] and lost with Pair of Eights and Pair of Fours
+Seat 5: EliorDahan showed [Jd 6c] and won ($59.76) with Pair of Eights and Pair of Sixes
+Seat 3: ie11(big blind) folded on the Turn
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995760077: NLH No Limit ($3/$6) - 2025/07/16 23:57:43
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($1,925.13 in chips)
+Seat 5: EliorDahan ($1,012.5 in chips)
+Seat 3: ie11 ($483.71 in chips)
+Seat 4: Hero ($1,023.35 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Kh 6s]
+ie11: calls $6
+Hero: folds
+EliorDahan: raises $12 to $18
+NagastiBagamba: folds
+ie11: raises $42 to $60
+EliorDahan: calls $42
+*** FLOP *** [7s Qh Tc]
+EliorDahan: checks
+ie11: bets $423.71 and is all-in
+EliorDahan: folds
+Uncalled bet ($423.71) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $126 from pot
+*** SUMMARY ***
+Total pot $126
+Board [7s Qh Tc]
+Seat 7: NagastiBagamba(big blind) folded before Flop
+Seat 5: EliorDahan(small blind) folded on the Flop
+Seat 3: ie11won ($126) with Ace-High
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995758907: NLH No Limit ($3/$6) - 2025/07/16 23:57:09
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($1,931.13 in chips)
+Seat 5: EliorDahan ($1,018.5 in chips)
+Seat 3: ie11 ($458.51 in chips)
+Seat 4: Hero ($1,036.55 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Th 3h]
+NagastiBagamba: calls $6
+ie11: calls $6
+Hero: calls $3
+EliorDahan: checks
+*** FLOP *** [Td 6d Jc]
+Hero: bets $7.2
+EliorDahan: folds
+NagastiBagamba: folds
+ie11: calls $7.2
+*** TURN *** [Td 6d Jc] [4d]
+Hero: checks
+ie11: bets $38.4
+Hero: folds
+Uncalled bet ($38.4) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $38.4 from pot
+*** SUMMARY ***
+Total pot $38.4
+Board [Td 6d Jc 4d]
+Seat 7: NagastiBagamba folded on the Flop
+Seat 5: EliorDahan(big blind) folded on the Flop
+Seat 3: ie11won ($38.4) with Jack-High
+Seat 4: Hero(small blind) folded on the Turn
+
+
+
+Poker Hand #ring_995757309: NLH No Limit ($3/$6) - 2025/07/16 23:56:22
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($1,931.13 in chips)
+Seat 5: EliorDahan ($985.62 in chips)
+Seat 3: ie11 ($464.51 in chips)
+Seat 4: Hero ($1,063.43 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Kc 8s]
+EliorDahan: calls $6
+NagastiBagamba: folds
+ie11: calls $3
+Hero: checks
+*** FLOP *** [Kd 4s Qc]
+ie11: checks
+Hero: bets $9
+EliorDahan: raises $11.88 to $20.88
+ie11: folds
+Hero: calls $11.88
+*** TURN *** [Kd 4s Qc] [Qd]
+Hero: checks
+EliorDahan: bets $44.82
+Hero: folds
+Uncalled bet ($44.82) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $59.76 from pot
+*** SUMMARY ***
+Total pot $59.76
+Board [Kd 4s Qc Qd]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 5: EliorDahanwon ($59.76) with Pair of Queens
+Seat 3: ie11(small blind) folded on the Flop
+Seat 4: Hero(big blind) folded on the Turn
+
+
+
+Poker Hand #ring_995754852: NLH No Limit ($3/$6) - 2025/07/16 23:55:11
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($1,553.12 in chips)
+Seat 5: EliorDahan ($1,012.62 in chips)
+Seat 3: ie11 ($815.52 in chips)
+Seat 4: Hero ($1,063.43 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [8c 9s]
+Hero: folds
+EliorDahan: calls $6
+NagastiBagamba: calls $3
+ie11: raises $21 to $27
+EliorDahan: calls $21
+NagastiBagamba: calls $21
+*** FLOP *** [3h Js Ts]
+NagastiBagamba: checks
+ie11: bets $81
+EliorDahan: folds
+NagastiBagamba: calls $81
+*** TURN *** [3h Js Ts] [Qd]
+NagastiBagamba: checks
+ie11: checks
+*** RIVER *** [3h Js Ts Qd] [7d]
+NagastiBagamba: checks
+ie11: bets $243.01
+NagastiBagamba: calls $243.01
+ie11: shows [Kh 7h]
+NagastiBagamba: shows [Qs 9c]
+*** SHOWDOWN ***
+NagastiBagamba collected $729.02 from pot
+*** SUMMARY ***
+Total pot $729.02
+Board [3h Js Ts Qd 7d]
+Seat 7: NagastiBagamba(small blind) showed [Qs 9c] and won ($729.02) with Pair of Queens
+Seat 5: EliorDahan folded on the Flop
+Seat 3: ie11(big blind) showed [Kh 7h] and lost with Pair of Sevens
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995754412: NLH No Limit ($3/$6) - 2025/07/16 23:54:59
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($1,550.12 in chips)
+Seat 5: EliorDahan ($1,015.62 in chips)
+Seat 3: ie11 ($815.52 in chips)
+Seat 4: Hero ($1,063.43 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [8s 3s]
+ie11: folds
+Hero: folds
+EliorDahan: folds
+*** SHOWDOWN ***
+NagastiBagamba collected $9 from pot
+*** SUMMARY ***
+Total pot $9
+Seat 7: NagastiBagamba(big blind)won ($9)
+Seat 5: EliorDahan(small blind) folded before Flop
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995753740: NLH No Limit ($3/$6) - 2025/07/16 23:54:38
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($1,550.12 in chips)
+Seat 5: EliorDahan ($1,012.62 in chips)
+Seat 3: ie11 ($815.52 in chips)
+Seat 4: Hero ($1,066.43 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [2s 8d]
+NagastiBagamba: folds
+ie11: folds
+Hero: folds
+*** SHOWDOWN ***
+EliorDahan collected $9 from pot
+*** SUMMARY ***
+Total pot $9
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 5: EliorDahan(big blind)won ($9)
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_995752167: NLH No Limit ($3/$6) - 2025/07/16 23:53:53
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($1,562.12 in chips)
+Seat 5: EliorDahan ($1,039.02 in chips)
+Seat 3: ie11 ($750.72 in chips)
+Seat 4: Hero ($1,092.83 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [4s As]
+EliorDahan: raises $6 to $12
+NagastiBagamba: calls $12
+ie11: calls $9
+Hero: calls $6
+*** FLOP *** [4h 7c 6s]
+ie11: checks
+Hero: bets $14.4
+EliorDahan: calls $14.4
+NagastiBagamba: folds
+ie11: calls $14.4
+*** TURN *** [4h 7c 6s] [6d]
+ie11: checks
+Hero: checks
+EliorDahan: checks
+*** RIVER *** [4h 7c 6s 6d] [8s]
+ie11: bets $91.2
+Hero: folds
+EliorDahan: folds
+Uncalled bet ($91.2) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $91.2 from pot
+*** SUMMARY ***
+Total pot $91.2
+Board [4h 7c 6s 6d 8s]
+Seat 7: NagastiBagamba folded on the Flop
+Seat 5: EliorDahan folded on the River
+Seat 3: ie11(small blind)won ($91.2) with Eights-High Straight
+Seat 4: Hero(big blind) folded on the River
+
+
+
+Poker Hand #ring_995748263: NLH No Limit ($3/$6) - 2025/07/16 23:51:58
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($1,610.12 in chips)
+Seat 5: EliorDahan ($862.56 in chips)
+Seat 3: ie11 ($879.18 in chips)
+Seat 4: Hero ($1,092.83 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Qd 4h]
+Hero: folds
+EliorDahan: raises $12 to $18
+NagastiBagamba: calls $15
+ie11: calls $12
+*** FLOP *** [3s Kh Ks]
+NagastiBagamba: checks
+ie11: checks
+EliorDahan: bets $27
+NagastiBagamba: folds
+ie11: folds
+Uncalled bet ($27) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $54 from pot
+*** SUMMARY ***
+Total pot $54
+Board [3s Kh Ks]
+Seat 7: NagastiBagamba(small blind) folded on the Flop
+Seat 5: EliorDahanwon ($54) with Pair of Kings
+Seat 3: ie11(big blind) folded on the Flop
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995747101: NLH No Limit ($3/$6) - 2025/07/16 23:51:25
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($1,586.12 in chips)
+Seat 5: EliorDahan ($886.56 in chips)
+Seat 3: ie11 ($879.18 in chips)
+Seat 4: Hero ($1,092.83 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [8d Qc]
+ie11: folds
+Hero: folds
+EliorDahan: calls $3
+NagastiBagamba: raises $18 to $24
+EliorDahan: calls $18
+*** FLOP *** [3s 4c 3h]
+EliorDahan: checks
+NagastiBagamba: bets $24
+EliorDahan: folds
+Uncalled bet ($24) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $48 from pot
+*** SUMMARY ***
+Total pot $48
+Board [3s 4c 3h]
+Seat 7: NagastiBagamba(big blind)won ($48) with Pair of Treys
+Seat 5: EliorDahan(small blind) folded on the Flop
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995746064: NLH No Limit ($3/$6) - 2025/07/16 23:50:54
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($1,562.12 in chips)
+Seat 5: EliorDahan ($892.56 in chips)
+Seat 3: ie11 ($879.18 in chips)
+Seat 4: Hero ($1,110.83 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [7c Ah]
+NagastiBagamba: calls $6
+ie11: folds
+Hero: raises $12 to $18
+EliorDahan: folds
+NagastiBagamba: calls $12
+*** FLOP *** [4c 6c Kh]
+Hero: checks
+NagastiBagamba: bets $14.28
+Hero: folds
+Uncalled bet ($14.28) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $42 from pot
+*** SUMMARY ***
+Total pot $42
+Board [4c 6c Kh]
+Seat 7: NagastiBagambawon ($42) with Pair of Fours
+Seat 5: EliorDahan(big blind) folded before Flop
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero(small blind) folded on the Flop
+
+
+
+Poker Hand #ring_995745004: NLH No Limit ($3/$6) - 2025/07/16 23:50:22
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($1,562.12 in chips)
+Seat 5: EliorDahan ($865.56 in chips)
+Seat 3: ie11 ($882.18 in chips)
+Seat 4: Hero ($1,134.83 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [7d Ad]
+EliorDahan: raises $18 to $24
+NagastiBagamba: folds
+ie11: folds
+Hero: calls $18
+*** FLOP *** [9c 4d 9h]
+Hero: checks
+EliorDahan: bets $51
+Hero: folds
+Uncalled bet ($51) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $51 from pot
+*** SUMMARY ***
+Total pot $51
+Board [9c 4d 9h]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 5: EliorDahanwon ($51) with Pair of Nines
+Seat 3: ie11(small blind) folded before Flop
+Seat 4: Hero(big blind) folded on the Flop
+
+
+
+Poker Hand #ring_995743740: NLH No Limit ($3/$6) - 2025/07/16 23:49:46
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($1,596.92 in chips)
+Seat 5: EliorDahan ($824.76 in chips)
+Seat 3: ie11 ($888.18 in chips)
+Seat 4: Hero ($1,134.83 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [7c Jd]
+Hero: folds
+EliorDahan: calls $6
+NagastiBagamba: calls $3
+ie11: checks
+*** FLOP *** [3h 3s 6s]
+NagastiBagamba: checks
+ie11: checks
+EliorDahan: bets $13.5
+NagastiBagamba: raises $15.3 to $28.8
+ie11: folds
+EliorDahan: raises $37.8 to $66.6
+NagastiBagamba: folds
+Uncalled bet ($37.8) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $75.6 from pot
+*** SUMMARY ***
+Total pot $75.6
+Board [3h 3s 6s]
+Seat 7: NagastiBagamba(small blind) folded on the Flop
+Seat 5: EliorDahanwon ($75.6) with Pair of Sixes and Pair of Treys
+Seat 3: ie11(big blind) folded on the Flop
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995743221: NLH No Limit ($3/$6) - 2025/07/16 23:49:30
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($1,593.92 in chips)
+Seat 5: EliorDahan ($827.76 in chips)
+Seat 3: ie11 ($888.18 in chips)
+Seat 4: Hero ($1,134.83 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Qc 7h]
+ie11: folds
+Hero: folds
+EliorDahan: folds
+*** SHOWDOWN ***
+NagastiBagamba collected $9 from pot
+*** SUMMARY ***
+Total pot $9
+Seat 7: NagastiBagamba(big blind)won ($9)
+Seat 5: EliorDahan(small blind) folded before Flop
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995742342: NLH No Limit ($3/$6) - 2025/07/16 23:49:06
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($1,593.92 in chips)
+Seat 5: EliorDahan ($840.96 in chips)
+Seat 3: ie11 ($888.18 in chips)
+Seat 4: Hero ($1,121.63 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Kc 5c]
+NagastiBagamba: folds
+ie11: folds
+Hero: raises $7.2 to $13.2
+EliorDahan: calls $7.2
+*** FLOP *** [6s 6c 7c]
+Hero: bets $13.2
+EliorDahan: folds
+Uncalled bet ($13.2) returned to Hero
+*** SHOWDOWN ***
+Hero collected $26.4 from pot
+*** SUMMARY ***
+Total pot $26.4
+Board [6s 6c 7c]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 5: EliorDahan(big blind) folded on the Flop
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero(small blind)won ($26.4) with Pair of Sixes
+
+
+
+Poker Hand #ring_995741070: NLH No Limit ($3/$6) - 2025/07/16 23:48:28
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($1,593.92 in chips)
+Seat 5: EliorDahan ($840.96 in chips)
+Seat 3: ie11 ($1,068.44 in chips)
+Seat 4: Hero ($941.37 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [8h Qc]
+EliorDahan: folds
+NagastiBagamba: folds
+ie11: raises $12 to $18
+Hero: calls $12
+*** FLOP *** [2c 5c Ac]
+ie11: checks
+Hero: checks
+*** TURN *** [2c 5c Ac] [Kc]
+ie11: bets $11.88
+Hero: calls $11.88
+*** RIVER *** [2c 5c Ac Kc] [9c]
+ie11: bets $39.45
+Hero: raises $110.93 to $150.38
+ie11: calls $110.93
+ie11: shows [Jc 7c]
+Hero: shows [8h Qc]
+*** SHOWDOWN ***
+Hero collected $360.52 from pot
+*** SUMMARY ***
+Total pot $360.52
+Board [2c 5c Ac Kc 9c]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 5: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11(small blind) showed [Jc 7c] and lost with Ace High Flush
+Seat 4: Hero(big blind) showed [8h Qc] and won ($360.52) with Ace High Flush
+
+
+
+Poker Hand #ring_995738513: NLH No Limit ($3/$6) - 2025/07/16 23:47:13
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($1,295.05 in chips)
+Seat 5: EliorDahan ($905.46 in chips)
+Seat 3: ie11 ($1,302.81 in chips)
+Seat 4: Hero ($941.37 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Jh 7d]
+Hero: folds
+EliorDahan: calls $6
+NagastiBagamba: raises $18 to $24
+ie11: raises $40.5 to $64.5
+EliorDahan: calls $58.5
+NagastiBagamba: calls $40.5
+*** FLOP *** [3c Jd 7s]
+NagastiBagamba: checks
+ie11: bets $63.86
+EliorDahan: folds
+NagastiBagamba: calls $63.86
+*** TURN *** [3c Jd 7s] [Tc]
+NagastiBagamba: checks
+ie11: bets $106.01
+NagastiBagamba: calls $106.01
+*** RIVER *** [3c Jd 7s Tc] [7c]
+NagastiBagamba: bets $266.62
+ie11: folds
+Uncalled bet ($266.62) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $533.24 from pot
+*** SUMMARY ***
+Total pot $533.24
+Board [3c Jd 7s Tc 7c]
+Seat 7: NagastiBagamba(small blind)won ($533.24) with Three Sevens
+Seat 5: EliorDahan folded on the Flop
+Seat 3: ie11(big blind) folded on the River
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995737094: NLH No Limit ($3/$6) - 2025/07/16 23:46:31
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($1,301.05 in chips)
+Seat 5: EliorDahan ($1,023.96 in chips)
+Seat 3: ie11 ($1,172.31 in chips)
+Seat 4: Hero ($947.37 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ad 2h]
+ie11: calls $6
+Hero: calls $6
+EliorDahan: raises $18 to $24
+NagastiBagamba: folds
+ie11: calls $18
+Hero: folds
+*** FLOP *** [3d 5h 8s]
+EliorDahan: bets $45
+ie11: calls $45
+*** TURN *** [3d 5h 8s] [4h]
+EliorDahan: checks
+ie11: checks
+*** RIVER *** [3d 5h 8s 4h] [4d]
+EliorDahan: checks
+ie11: bets $49.5
+EliorDahan: calls $49.5
+ie11: shows [As 3c]
+EliorDahan: shows [Qc Ac]
+*** SHOWDOWN ***
+ie11 collected $249 from pot
+*** SUMMARY ***
+Total pot $249
+Board [3d 5h 8s 4h 4d]
+Seat 7: NagastiBagamba(big blind) folded before Flop
+Seat 5: EliorDahan(small blind) showed [Qc Ac] and lost with Pair of Fours
+Seat 3: ie11 showed [As 3c] and won ($249) with Pair of Fours and Pair of Treys
+Seat 4: Hero folded before Flop
+
+
+
+Poker Hand #ring_995736042: NLH No Limit ($3/$6) - 2025/07/16 23:46:00
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($1,342.75 in chips)
+Seat 5: EliorDahan ($979.26 in chips)
+Seat 3: ie11 ($1,172.31 in chips)
+Seat 4: Hero ($950.37 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [4c 8h]
+NagastiBagamba: calls $6
+ie11: folds
+Hero: folds
+EliorDahan: checks
+*** FLOP *** [5h 7c 8s]
+EliorDahan: checks
+NagastiBagamba: bets $10.5
+EliorDahan: calls $10.5
+*** TURN *** [5h 7c 8s] [Ad]
+EliorDahan: checks
+NagastiBagamba: bets $25.2
+EliorDahan: calls $25.2
+*** RIVER *** [5h 7c 8s Ad] [3s]
+EliorDahan: checks
+NagastiBagamba: checks
+EliorDahan: shows [7h Jd]
+NagastiBagamba: shows [5s 6d]
+*** SHOWDOWN ***
+EliorDahan collected $86.4 from pot
+*** SUMMARY ***
+Total pot $86.4
+Board [5h 7c 8s Ad 3s]
+Seat 7: NagastiBagamba showed [5s 6d] and lost with Pair of Fives
+Seat 5: EliorDahan(big blind) showed [7h Jd] and won ($86.4) with Pair of Sevens
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_995734311: NLH No Limit ($3/$6) - 2025/07/16 23:45:11
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($1,342.75 in chips)
+Seat 5: EliorDahan ($1,024.26 in chips)
+Seat 3: ie11 ($1,190.31 in chips)
+Seat 4: Hero ($887.37 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ac As]
+EliorDahan: calls $6
+NagastiBagamba: folds
+ie11: calls $3
+Hero: raises $12 to $18
+EliorDahan: calls $12
+ie11: calls $12
+*** FLOP *** [8s Ks 6c]
+ie11: checks
+Hero: bets $27
+EliorDahan: calls $27
+ie11: folds
+*** TURN *** [8s Ks 6c] [Tc]
+Hero: bets $86.4
+EliorDahan: folds
+Uncalled bet ($86.4) returned to Hero
+*** SHOWDOWN ***
+Hero collected $108 from pot
+*** SUMMARY ***
+Total pot $108
+Board [8s Ks 6c Tc]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 5: EliorDahan folded on the Turn
+Seat 3: ie11(small blind) folded on the Flop
+Seat 4: Hero(big blind)won ($108) with Pair of Aces
+
+
+
+Poker Hand #ring_995731879: NLH No Limit ($3/$6) - 2025/07/16 23:44:00
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($1,576.94 in chips)
+Seat 5: EliorDahan ($1,087.26 in chips)
+Seat 3: ie11 ($887.12 in chips)
+Seat 4: Hero ($893.37 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [6d Kd]
+Hero: calls $6
+EliorDahan: calls $6
+NagastiBagamba: raises $18 to $24
+ie11: calls $18
+Hero: folds
+EliorDahan: calls $18
+*** FLOP *** [3d Kc 2h]
+NagastiBagamba: bets $39
+ie11: calls $39
+EliorDahan: calls $39
+*** TURN *** [3d Kc 2h] [8s]
+NagastiBagamba: checks
+ie11: bets $64.36
+EliorDahan: folds
+NagastiBagamba: calls $64.36
+*** RIVER *** [3d Kc 2h 8s] [5c]
+NagastiBagamba: checks
+ie11: bets $106.83
+NagastiBagamba: calls $106.83
+ie11: shows [Kh 8h]
+NagastiBagamba: shows [6h 6s]
+*** SHOWDOWN ***
+ie11 collected $537.38 from pot
+*** SUMMARY ***
+Total pot $537.38
+Board [3d Kc 2h 8s 5c]
+Seat 7: NagastiBagamba(small blind) showed [6h 6s] and lost with Pair of Sixes
+Seat 5: EliorDahan folded on the Turn
+Seat 3: ie11(big blind) showed [Kh 8h] and won ($537.38) with Pair of Kings and Pair of Eights
+Seat 4: Hero folded before Flop
+
+
+
+Poker Hand #ring_995729566: NLH No Limit ($3/$6) - 2025/07/16 23:42:53
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($1,594.94 in chips)
+Seat 5: EliorDahan ($1,218.66 in chips)
+Seat 3: ie11 ($905.12 in chips)
+Seat 4: Hero ($725.97 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [7c 7s]
+ie11: calls $6
+Hero: raises $12 to $18
+EliorDahan: calls $15
+NagastiBagamba: calls $12
+ie11: calls $12
+*** FLOP *** [7d 4h 7h]
+EliorDahan: bets $23.76
+NagastiBagamba: folds
+ie11: folds
+Hero: calls $23.76
+*** TURN *** [7d 4h 7h] [Kh]
+EliorDahan: bets $89.64
+Hero: calls $89.64
+*** RIVER *** [7d 4h 7h Kh] [Th]
+EliorDahan: checks
+Hero: bets $239.04
+EliorDahan: folds
+Uncalled bet ($239.04) returned to Hero
+*** SHOWDOWN ***
+Hero collected $298.8 from pot
+*** SUMMARY ***
+Total pot $298.8
+Board [7d 4h 7h Kh Th]
+Seat 7: NagastiBagamba(big blind) folded on the Flop
+Seat 5: EliorDahan(small blind) folded on the River
+Seat 3: ie11 folded on the Flop
+Seat 4: Herowon ($298.8) with Four Sevens
+
+
+
+Poker Hand #ring_995729148: NLH No Limit ($3/$6) - 2025/07/16 23:42:41
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($1,594.94 in chips)
+Seat 5: EliorDahan ($1,215.66 in chips)
+Seat 3: ie11 ($905.12 in chips)
+Seat 4: Hero ($728.97 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [5h Jc]
+NagastiBagamba: folds
+ie11: folds
+Hero: folds
+*** SHOWDOWN ***
+EliorDahan collected $9 from pot
+*** SUMMARY ***
+Total pot $9
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 5: EliorDahan(big blind)won ($9)
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_995728351: NLH No Limit ($3/$6) - 2025/07/16 23:42:18
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($1,612.94 in chips)
+Seat 5: EliorDahan ($1,233.66 in chips)
+Seat 3: ie11 ($863.12 in chips)
+Seat 4: Hero ($734.97 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [2s Js]
+EliorDahan: raises $12 to $18
+NagastiBagamba: calls $18
+ie11: calls $15
+Hero: folds
+*** FLOP *** [7c 9h 2d]
+ie11: bets $60
+EliorDahan: folds
+NagastiBagamba: folds
+Uncalled bet ($60) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $60 from pot
+*** SUMMARY ***
+Total pot $60
+Board [7c 9h 2d]
+Seat 7: NagastiBagamba folded on the Flop
+Seat 5: EliorDahan folded on the Flop
+Seat 3: ie11(small blind)won ($60) with Pair of Nines
+Seat 4: Hero(big blind) folded before Flop
+
+
+
+Poker Hand #ring_995726581: NLH No Limit ($3/$6) - 2025/07/16 23:41:27
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($1,549.94 in chips)
+Seat 5: EliorDahan ($1,233.66 in chips)
+Seat 3: ie11 ($881.12 in chips)
+Seat 4: Hero ($779.97 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Kc Qh]
+Hero: raises $12 to $18
+EliorDahan: folds
+NagastiBagamba: calls $15
+ie11: calls $12
+*** FLOP *** [2s Jc 5s]
+NagastiBagamba: checks
+ie11: checks
+Hero: bets $27
+NagastiBagamba: calls $27
+ie11: folds
+*** TURN *** [2s Jc 5s] [Jh]
+NagastiBagamba: checks
+Hero: checks
+*** RIVER *** [2s Jc 5s Jh] [8s]
+NagastiBagamba: checks
+Hero: checks
+Hero: shows [Kc Qh]
+NagastiBagamba: shows [3s 3c]
+*** SHOWDOWN ***
+NagastiBagamba collected $108 from pot
+*** SUMMARY ***
+Total pot $108
+Board [2s Jc 5s Jh 8s]
+Seat 7: NagastiBagamba(small blind) showed [3s 3c] and won ($108) with Pair of Jacks and Pair of Treys
+Seat 5: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11(big blind) folded on the Flop
+Seat 4: Hero showed [Kc Qh] and lost with Pair of Jacks
+
+
+
+Poker Hand #ring_995725666: NLH No Limit ($3/$6) - 2025/07/16 23:41:00
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($1,555.94 in chips)
+Seat 5: EliorDahan ($1,239.66 in chips)
+Seat 3: ie11 ($869.12 in chips)
+Seat 4: Hero ($779.97 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [8s Jd]
+ie11: calls $6
+Hero: folds
+EliorDahan: calls $3
+NagastiBagamba: checks
+*** FLOP *** [7c 9c 9h]
+EliorDahan: checks
+NagastiBagamba: checks
+ie11: bets $18
+EliorDahan: folds
+NagastiBagamba: folds
+Uncalled bet ($18) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $18 from pot
+*** SUMMARY ***
+Total pot $18
+Board [7c 9c 9h]
+Seat 7: NagastiBagamba(big blind) folded on the Flop
+Seat 5: EliorDahan(small blind) folded on the Flop
+Seat 3: ie11won ($18) with Pair of Nines and Pair of Sevens
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995725000: NLH No Limit ($3/$6) - 2025/07/16 23:40:40
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($1,555.94 in chips)
+Seat 5: EliorDahan ($1,245.66 in chips)
+Seat 3: ie11 ($869.12 in chips)
+Seat 4: Hero ($773.97 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Qc 7c]
+NagastiBagamba: folds
+ie11: folds
+Hero: raises $9 to $15
+EliorDahan: folds
+Uncalled bet ($9) returned to Hero
+*** SHOWDOWN ***
+Hero collected $12 from pot
+*** SUMMARY ***
+Total pot $12
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 5: EliorDahan(big blind) folded before Flop
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero(small blind)won ($12)
+
+
+
+Poker Hand #ring_995722091: NLH No Limit ($3/$6) - 2025/07/16 23:39:15
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($916.3 in chips)
+Seat 5: EliorDahan ($1,269.66 in chips)
+Seat 3: ie11 ($1,460.76 in chips)
+Seat 4: Hero ($797.97 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [2d 2s]
+EliorDahan: calls $6
+NagastiBagamba: raises $18 to $24
+ie11: calls $21
+Hero: calls $18
+EliorDahan: calls $18
+*** FLOP *** [3s Tc 7c]
+ie11: checks
+Hero: checks
+EliorDahan: checks
+NagastiBagamba: bets $67.2
+ie11: calls $67.2
+Hero: folds
+EliorDahan: folds
+*** TURN *** [3s Tc 7c] [9s]
+ie11: checks
+NagastiBagamba: bets $192.62
+ie11: calls $192.62
+*** RIVER *** [3s Tc 7c 9s] [7d]
+ie11: checks
+NagastiBagamba: bets $307.82
+ie11: calls $307.82
+ie11: shows [Td 6d]
+NagastiBagamba: shows [Jc Jh]
+*** SHOWDOWN ***
+NagastiBagamba collected $1,231.28 from pot
+*** SUMMARY ***
+Total pot $1,231.28
+Board [3s Tc 7c 9s 7d]
+Seat 7: NagastiBagamba showed [Jc Jh] and won ($1,231.28) with Pair of Jacks and Pair of Sevens
+Seat 5: EliorDahan folded on the Flop
+Seat 3: ie11(small blind) showed [Td 6d] and lost with Pair of Tens and Pair of Sevens
+Seat 4: Hero(big blind) folded on the Flop
+
+
+
+Poker Hand #ring_995721068: NLH No Limit ($3/$6) - 2025/07/16 23:38:45
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($904.3 in chips)
+Seat 5: EliorDahan ($1,275.66 in chips)
+Seat 3: ie11 ($1,466.76 in chips)
+Seat 4: Hero ($797.97 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Qs 6h]
+Hero: folds
+EliorDahan: calls $6
+NagastiBagamba: calls $3
+ie11: checks
+*** FLOP *** [Qd 4c 3c]
+NagastiBagamba: checks
+ie11: checks
+EliorDahan: checks
+*** TURN *** [Qd 4c 3c] [2h]
+NagastiBagamba: bets $12.6
+ie11: folds
+EliorDahan: folds
+Uncalled bet ($12.6) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $18 from pot
+*** SUMMARY ***
+Total pot $18
+Board [Qd 4c 3c 2h]
+Seat 7: NagastiBagamba(small blind)won ($18) with Queen-High
+Seat 5: EliorDahan folded on the Turn
+Seat 3: ie11(big blind) folded on the Turn
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995719987: NLH No Limit ($3/$6) - 2025/07/16 23:38:14
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($922.3 in chips)
+Seat 5: EliorDahan ($1,293.66 in chips)
+Seat 3: ie11 ($1,412.76 in chips)
+Seat 4: Hero ($815.97 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ts 8s]
+ie11: calls $6
+Hero: raises $12 to $18
+EliorDahan: calls $15
+NagastiBagamba: calls $12
+ie11: raises $72 to $90
+Hero: folds
+EliorDahan: folds
+NagastiBagamba: folds
+Uncalled bet ($72) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $72 from pot
+*** SUMMARY ***
+Total pot $72
+Seat 7: NagastiBagamba(big blind) folded before Flop
+Seat 5: EliorDahan(small blind) folded before Flop
+Seat 3: ie11won ($72)
+Seat 4: Hero folded before Flop
+
+
+
+Poker Hand #ring_995718879: NLH No Limit ($3/$6) - 2025/07/16 23:37:42
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($928.3 in chips)
+Seat 5: EliorDahan ($1,263.66 in chips)
+Seat 3: ie11 ($1,430.76 in chips)
+Seat 4: Hero ($821.97 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [As 7h]
+NagastiBagamba: calls $6
+ie11: calls $6
+Hero: calls $3
+EliorDahan: checks
+*** FLOP *** [Kh Qd Js]
+Hero: checks
+EliorDahan: bets $12
+NagastiBagamba: folds
+ie11: calls $12
+Hero: folds
+*** TURN *** [Kh Qd Js] [6d]
+EliorDahan: bets $36
+ie11: folds
+Uncalled bet ($36) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $48 from pot
+*** SUMMARY ***
+Total pot $48
+Board [Kh Qd Js 6d]
+Seat 7: NagastiBagamba folded on the Flop
+Seat 5: EliorDahan(big blind)won ($48) with Pair of Kings
+Seat 3: ie11 folded on the Turn
+Seat 4: Hero(small blind) folded on the Flop
+
+
+
+Poker Hand #ring_995717808: NLH No Limit ($3/$6) - 2025/07/16 23:37:11
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($940.3 in chips)
+Seat 5: EliorDahan ($1,275.66 in chips)
+Seat 3: ie11 ($1,442.76 in chips)
+Seat 4: Hero ($785.97 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ts As]
+EliorDahan: raises $6 to $12
+NagastiBagamba: calls $12
+ie11: calls $9
+Hero: calls $6
+*** FLOP *** [Ad 3c 4h]
+ie11: checks
+Hero: bets $24
+EliorDahan: folds
+NagastiBagamba: folds
+ie11: folds
+Uncalled bet ($24) returned to Hero
+*** SHOWDOWN ***
+Hero collected $48 from pot
+*** SUMMARY ***
+Total pot $48
+Board [Ad 3c 4h]
+Seat 7: NagastiBagamba folded on the Flop
+Seat 5: EliorDahan folded on the Flop
+Seat 3: ie11(small blind) folded on the Flop
+Seat 4: Hero(big blind)won ($48) with Pair of Aces
+
+
+
+Poker Hand #ring_995716792: NLH No Limit ($3/$6) - 2025/07/16 23:36:42
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($928.3 in chips)
+Seat 5: EliorDahan ($1,281.66 in chips)
+Seat 3: ie11 ($1,448.76 in chips)
+Seat 4: Hero ($785.97 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [8h Tc]
+Hero: folds
+EliorDahan: calls $6
+NagastiBagamba: calls $3
+ie11: checks
+*** FLOP *** [4h Qd Ts]
+NagastiBagamba: checks
+ie11: checks
+EliorDahan: checks
+*** TURN *** [4h Qd Ts] [2s]
+NagastiBagamba: bets $12.6
+ie11: folds
+EliorDahan: folds
+Uncalled bet ($12.6) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $18 from pot
+*** SUMMARY ***
+Total pot $18
+Board [4h Qd Ts 2s]
+Seat 7: NagastiBagamba(small blind)won ($18) with Pair of Fours and Pair of Twos
+Seat 5: EliorDahan folded on the Turn
+Seat 3: ie11(big blind) folded on the Turn
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995715485: NLH No Limit ($3/$6) - 2025/07/16 23:36:03
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($952.3 in chips)
+Seat 5: EliorDahan ($1,287.66 in chips)
+Seat 3: ie11 ($1,448.76 in chips)
+Seat 4: Hero ($755.97 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Ah Js]
+ie11: folds
+Hero: calls $6
+EliorDahan: calls $3
+NagastiBagamba: raises $18 to $24
+Hero: calls $18
+EliorDahan: folds
+*** FLOP *** [Jd 2s Jc]
+NagastiBagamba: checks
+Hero: bets $16.2
+NagastiBagamba: folds
+Uncalled bet ($16.2) returned to Hero
+Hero: shows [Js]
+*** SHOWDOWN ***
+Hero collected $54 from pot
+*** SUMMARY ***
+Total pot $54
+Board [Jd 2s Jc]
+Seat 7: NagastiBagamba(big blind) folded on the Flop
+Seat 5: EliorDahan(small blind) folded before Flop
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero showed [Js] and won ($54) with Three Jacks
+
+
+
+Poker Hand #ring_995713848: NLH No Limit ($3/$6) - 2025/07/16 23:35:17
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($1,058.8 in chips)
+Seat 5: EliorDahan ($1,178.16 in chips)
+Seat 3: ie11 ($1,448.76 in chips)
+Seat 4: Hero ($758.97 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [7c 9d]
+NagastiBagamba: raises $15 to $21
+ie11: folds
+Hero: folds
+EliorDahan: calls $15
+*** FLOP *** [2d Ac 3c]
+EliorDahan: checks
+NagastiBagamba: bets $22.5
+EliorDahan: calls $22.5
+*** TURN *** [2d Ac 3c] [6d]
+EliorDahan: checks
+NagastiBagamba: bets $63
+EliorDahan: calls $63
+*** RIVER *** [2d Ac 3c 6d] [5c]
+EliorDahan: checks
+NagastiBagamba: checks
+EliorDahan: shows [Ad 7s]
+NagastiBagamba: shows [Jd 8d]
+*** SHOWDOWN ***
+EliorDahan collected $216 from pot
+*** SUMMARY ***
+Total pot $216
+Board [2d Ac 3c 6d 5c]
+Seat 7: NagastiBagamba showed [Jd 8d] and lost with Ace-High
+Seat 5: EliorDahan(big blind) showed [Ad 7s] and won ($216) with Pair of Aces
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_995711943: NLH No Limit ($3/$6) - 2025/07/16 23:34:23
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($1,058.8 in chips)
+Seat 5: EliorDahan ($1,076.76 in chips)
+Seat 3: ie11 ($1,466.76 in chips)
+Seat 4: Hero ($842.37 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [Tc Qs]
+EliorDahan: raises $12 to $18
+NagastiBagamba: folds
+ie11: calls $15
+Hero: calls $12
+*** FLOP *** [2d 9c 4h]
+ie11: checks
+Hero: bets $16.2
+EliorDahan: calls $16.2
+ie11: folds
+*** TURN *** [2d 9c 4h] [7s]
+Hero: checks
+EliorDahan: checks
+*** RIVER *** [2d 9c 4h 7s] [Jh]
+Hero: bets $49.2
+EliorDahan: calls $49.2
+Hero: shows [Tc Qs]
+EliorDahan: shows [Js Th]
+*** SHOWDOWN ***
+EliorDahan collected $184.8 from pot
+*** SUMMARY ***
+Total pot $184.8
+Board [2d 9c 4h 7s Jh]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 5: EliorDahan showed [Js Th] and won ($184.8) with Pair of Jacks
+Seat 3: ie11(small blind) folded on the Flop
+Seat 4: Hero(big blind) showed [Tc Qs] and lost with Queen-High
+
+
+
+Poker Hand #ring_995710678: NLH No Limit ($3/$6) - 2025/07/16 23:33:47
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($1,077.4 in chips)
+Seat 5: EliorDahan ($1,095.36 in chips)
+Seat 3: ie11 ($1,429.56 in chips)
+Seat 4: Hero ($842.37 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [9c Kd]
+Hero: folds
+EliorDahan: calls $6
+NagastiBagamba: calls $3
+ie11: checks
+*** FLOP *** [6h 4s Jc]
+NagastiBagamba: bets $12.6
+ie11: calls $12.6
+EliorDahan: calls $12.6
+*** TURN *** [6h 4s Jc] [5c]
+NagastiBagamba: checks
+ie11: checks
+EliorDahan: checks
+*** RIVER *** [6h 4s Jc 5c] [Kh]
+NagastiBagamba: checks
+ie11: bets $55.8
+EliorDahan: folds
+NagastiBagamba: folds
+Uncalled bet ($55.8) returned to ie11
+*** SHOWDOWN ***
+ie11 collected $55.8 from pot
+*** SUMMARY ***
+Total pot $55.8
+Board [6h 4s Jc 5c Kh]
+Seat 7: NagastiBagamba(small blind) folded on the River
+Seat 5: EliorDahan folded on the River
+Seat 3: ie11(big blind)won ($55.8) with Pair of Fours
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995709460: NLH No Limit ($3/$6) - 2025/07/16 23:33:13
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($1,059.28 in chips)
+Seat 5: EliorDahan ($1,107.48 in chips)
+Seat 3: ie11 ($1,435.56 in chips)
+Seat 4: Hero ($842.37 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [4s Js]
+ie11: calls $6
+Hero: folds
+EliorDahan: calls $3
+NagastiBagamba: checks
+*** FLOP *** [7d Kd 5s]
+EliorDahan: checks
+NagastiBagamba: checks
+ie11: checks
+*** TURN *** [7d Kd 5s] [4h]
+EliorDahan: checks
+NagastiBagamba: checks
+ie11: checks
+*** RIVER *** [7d Kd 5s 4h] [3s]
+EliorDahan: checks
+NagastiBagamba: bets $6.12
+ie11: folds
+EliorDahan: calls $6.12
+EliorDahan: shows [As 3c]
+NagastiBagamba: shows [Th 4d]
+*** SHOWDOWN ***
+NagastiBagamba collected $30.24 from pot
+*** SUMMARY ***
+Total pot $30.24
+Board [7d Kd 5s 4h 3s]
+Seat 7: NagastiBagamba(big blind) showed [Th 4d] and won ($30.24) with Pair of Fours
+Seat 5: EliorDahan(small blind) showed [As 3c] and lost with Pair of Treys
+Seat 3: ie11 folded on the River
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995707743: NLH No Limit ($3/$6) - 2025/07/16 23:32:25
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($1,125.9 in chips)
+Seat 5: EliorDahan ($1,113.48 in chips)
+Seat 3: ie11 ($1,359.94 in chips)
+Seat 4: Hero ($845.37 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [9c Qs]
+NagastiBagamba: raises $15 to $21
+ie11: calls $21
+Hero: folds
+EliorDahan: folds
+*** FLOP *** [8c Ts 5c]
+NagastiBagamba: checks
+ie11: checks
+*** TURN *** [8c Ts 5c] [8s]
+NagastiBagamba: bets $17.34
+ie11: raises $28.28 to $45.62
+NagastiBagamba: calls $28.28
+*** RIVER *** [8c Ts 5c 8s] [6c]
+NagastiBagamba: checks
+ie11: bets $142.24
+NagastiBagamba: folds
+Uncalled bet ($142.24) returned to ie11
+ie11: shows [4h 4c]
+*** SHOWDOWN ***
+ie11 collected $142.24 from pot
+*** SUMMARY ***
+Total pot $142.24
+Board [8c Ts 5c 8s 6c]
+Seat 7: NagastiBagamba folded on the River
+Seat 5: EliorDahan(big blind) folded before Flop
+Seat 3: ie11 showed [4h 4c] and won ($142.24) with Pair of Eights and Pair of Fours
+Seat 4: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_995706531: NLH No Limit ($3/$6) - 2025/07/16 23:31:50
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($1,125.9 in chips)
+Seat 5: EliorDahan ($1,101.48 in chips)
+Seat 3: ie11 ($1,365.94 in chips)
+Seat 4: Hero ($851.37 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [9d 8c]
+EliorDahan: calls $6
+NagastiBagamba: folds
+ie11: calls $3
+Hero: checks
+*** FLOP *** [Jd Kh 3h]
+ie11: checks
+Hero: checks
+EliorDahan: checks
+*** TURN *** [Jd Kh 3h] [2h]
+ie11: checks
+Hero: checks
+EliorDahan: bets $9
+ie11: folds
+Hero: folds
+Uncalled bet ($9) returned to EliorDahan
+*** SHOWDOWN ***
+EliorDahan collected $18 from pot
+*** SUMMARY ***
+Total pot $18
+Board [Jd Kh 3h 2h]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 5: EliorDahanwon ($18) with Ace High Flush
+Seat 3: ie11(small blind) folded on the Turn
+Seat 4: Hero(big blind) folded on the Turn
+
+
+
+Poker Hand #ring_995705061: NLH No Limit ($3/$6) - 2025/07/16 23:31:09
+Table 'poker' 9-max Seat #5 is the button
+Seat 7: NagastiBagamba ($1,176.9 in chips)
+Seat 5: EliorDahan ($1,107.48 in chips)
+Seat 3: ie11 ($1,308.94 in chips)
+Seat 4: Hero ($851.37 in chips)
+NagastiBagamba: posts small blind $3
+ie11: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [9h 5c]
+Hero: folds
+EliorDahan: calls $6
+NagastiBagamba: calls $3
+ie11: checks
+*** FLOP *** [Js 2c Kd]
+NagastiBagamba: checks
+ie11: checks
+EliorDahan: checks
+*** TURN *** [Js 2c Kd] [Ac]
+NagastiBagamba: bets $9
+ie11: calls $9
+EliorDahan: folds
+*** RIVER *** [Js 2c Kd Ac] [2d]
+NagastiBagamba: checks
+ie11: bets $36
+NagastiBagamba: calls $36
+ie11: shows [Th 2s]
+NagastiBagamba: shows [Ts Jh]
+*** SHOWDOWN ***
+ie11 collected $108 from pot
+*** SUMMARY ***
+Total pot $108
+Board [Js 2c Kd Ac 2d]
+Seat 7: NagastiBagamba(small blind) showed [Ts Jh] and lost with Pair of Jacks and Pair of Twos
+Seat 5: EliorDahan folded on the Turn
+Seat 3: ie11(big blind) showed [Th 2s] and won ($108) with Three Twos
+Seat 4: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_995704233: NLH No Limit ($3/$6) - 2025/07/16 23:30:44
+Table 'poker' 9-max Seat #4 is the button
+Seat 7: NagastiBagamba ($1,167.9 in chips)
+Seat 5: EliorDahan ($1,110.48 in chips)
+Seat 3: ie11 ($1,308.94 in chips)
+Seat 4: Hero ($857.37 in chips)
+EliorDahan: posts small blind $3
+NagastiBagamba: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [As Tc]
+ie11: folds
+Hero: calls $6
+EliorDahan: folds
+NagastiBagamba: checks
+*** FLOP *** [6d 3c 9s]
+NagastiBagamba: checks
+Hero: checks
+*** TURN *** [6d 3c 9s] [8d]
+NagastiBagamba: bets $7.5
+Hero: folds
+Uncalled bet ($7.5) returned to NagastiBagamba
+Hero: shows [As]
+*** SHOWDOWN ***
+NagastiBagamba collected $15 from pot
+*** SUMMARY ***
+Total pot $15
+Board [6d 3c 9s 8d]
+Seat 7: NagastiBagamba(big blind)won ($15) with King-High
+Seat 5: EliorDahan(small blind) folded before Flop
+Seat 3: ie11 folded before Flop (didn't bet)
+Seat 4: Hero folded on the Turn
+
+
+
+Poker Hand #ring_995702639: NLH No Limit ($3/$6) - 2025/07/16 23:29:59
+Table 'poker' 9-max Seat #3 is the button
+Seat 7: NagastiBagamba ($1,030.5 in chips)
+Seat 5: EliorDahan ($1,177.68 in chips)
+Seat 3: ie11 ($1,376.14 in chips)
+Seat 4: Hero ($860.37 in chips)
+Hero: posts small blind $3
+EliorDahan: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [3h 5c]
+NagastiBagamba: raises $15 to $21
+ie11: calls $21
+Hero: folds
+EliorDahan: calls $15
+*** FLOP *** [Qs 7d 6c]
+EliorDahan: checks
+NagastiBagamba: bets $46.2
+ie11: calls $46.2
+EliorDahan: calls $46.2
+*** TURN *** [Qs 7d 6c] [As]
+EliorDahan: checks
+NagastiBagamba: checks
+ie11: checks
+*** RIVER *** [Qs 7d 6c As] [Tc]
+EliorDahan: checks
+NagastiBagamba: bets $69.57
+ie11: folds
+EliorDahan: folds
+Uncalled bet ($69.57) returned to NagastiBagamba
+*** SHOWDOWN ***
+NagastiBagamba collected $204.6 from pot
+*** SUMMARY ***
+Total pot $204.6
+Board [Qs 7d 6c As Tc]
+Seat 7: NagastiBagambawon ($204.6) with Pair of Queens
+Seat 5: EliorDahan(big blind) folded on the River
+Seat 3: ie11 folded on the River
+Seat 4: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_995701360: NLH No Limit ($3/$6) - 2025/07/16 23:29:23
+Table 'poker' 9-max Seat #7 is the button
+Seat 7: NagastiBagamba ($1,030.5 in chips)
+Seat 5: EliorDahan ($1,177.68 in chips)
+Seat 3: ie11 ($1,286.5 in chips)
+Seat 4: Hero ($950.01 in chips)
+ie11: posts small blind $3
+Hero: posts big blind $6
+*** HOLE CARDS ***
+Dealt to NagastiBagamba 
+Dealt to EliorDahan 
+Dealt to ie11 
+Dealt to Hero [As Kc]
+EliorDahan: folds
+NagastiBagamba: folds
+ie11: calls $3
+Hero: raises $12 to $18
+ie11: calls $12
+*** FLOP *** [Th Qc 8d]
+ie11: checks
+Hero: checks
+*** TURN *** [Th Qc 8d] [8s]
+ie11: bets $11.88
+Hero: calls $11.88
+*** RIVER *** [Th Qc 8d 8s] [6h]
+ie11: bets $59.76
+Hero: calls $59.76
+ie11: shows [Td 8c]
+Hero: shows [As Kc]
+*** SHOWDOWN ***
+ie11 collected $179.28 from pot
+*** SUMMARY ***
+Total pot $179.28
+Board [Th Qc 8d 8s 6h]
+Seat 7: NagastiBagamba folded before Flop (didn't bet)
+Seat 5: EliorDahan folded before Flop (didn't bet)
+Seat 3: ie11(small blind) showed [Td 8c] and won ($179.28) with Eights Full over Tens
+Seat 4: Hero(big blind) showed [As Kc] and lost with Pair of Eights
+
+
+

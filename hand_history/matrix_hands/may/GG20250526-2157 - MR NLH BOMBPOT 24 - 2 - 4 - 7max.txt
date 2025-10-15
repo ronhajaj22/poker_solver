@@ -1,0 +1,143 @@
+Poker Hand #ring_900613702: NLH No Limit ($2/$4) - 2025/05/27 00:59:35
+Table 'MR NLH BOMBPOT 2/4' 7-max Seat #3 is the button
+Seat 5: bf19110 ($1,013.09 in chips)
+Seat 4: f804d4fa ($802 in chips)
+Seat 3: 99211b69 ($1,034.39 in chips)
+Seat 6: Hero ($106.4 in chips)
+f804d4fa: posts small blind $2
+bf19110: posts big blind $4
+*** HOLE CARDS ***
+Dealt to bf19110 
+Dealt to f804d4fa 
+Dealt to 99211b69 
+Dealt to Hero [2s 4s]
+Hero: calls $4
+99211b69: folds
+f804d4fa: calls $2
+bf19110: raises $16 to $20
+Hero: folds
+f804d4fa: folds
+Uncalled bet ($16) returned to bf19110
+*** SHOWDOWN ***
+bf19110 collected $12 from pot
+*** SUMMARY ***
+Total pot $12
+Seat 5: bf19110(big blind)won ($12)
+Seat 4: f804d4fa(small blind) folded before Flop
+Seat 3: 99211b69 folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop
+
+
+
+Poker Hand #ring_900613320: NLH No Limit ($2/$4) - 2025/05/27 00:59:23
+Table 'MR NLH BOMBPOT 2/4' 7-max Seat #6 is the button
+Seat 5: bf19110 ($1,013.09 in chips)
+Seat 4: f804d4fa ($800 in chips)
+Seat 3: 99211b69 ($1,036.39 in chips)
+Seat 6: Hero ($106.4 in chips)
+99211b69: posts small blind $2
+f804d4fa: posts big blind $4
+*** HOLE CARDS ***
+Dealt to bf19110 
+Dealt to f804d4fa 
+Dealt to 99211b69 
+Dealt to Hero [7s Qd]
+bf19110: folds
+Hero: folds
+99211b69: folds
+*** SHOWDOWN ***
+f804d4fa collected $6 from pot
+*** SUMMARY ***
+Total pot $6
+Seat 5: bf19110 folded before Flop (didn't bet)
+Seat 4: f804d4fa(big blind)won ($6)
+Seat 3: 99211b69(small blind) folded before Flop
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_900611360: NLH No Limit ($2/$4) - 2025/05/27 00:58:20
+Table 'MR NLH BOMBPOT 2/4' 7-max Seat #5 is the button
+Seat 5: bf19110 ($1,013.09 in chips)
+Seat 4: f804d4fa ($800 in chips)
+Seat 3: 99211b69 ($997.35 in chips)
+Seat 6: Hero ($150.4 in chips)
+Hero: posts small blind $2
+99211b69: posts big blind $4
+*** HOLE CARDS ***
+Dealt to bf19110 
+Dealt to f804d4fa 
+Dealt to 99211b69 
+Dealt to Hero [8h 9c]
+f804d4fa: folds
+bf19110: folds
+Hero: raises $6 to $10
+99211b69: calls $6
+*** FLOP *** [9d Jh 3h]
+Hero: bets $6
+99211b69: raises $14 to $20
+Hero: calls $14
+*** TURN *** [9d Jh 3h] [2d]
+Hero: checks
+99211b69: checks
+*** RIVER *** [9d Jh 3h 2d] [Ad]
+Hero: checks
+99211b69: bets $14
+Hero: calls $14
+99211b69: shows [Js Td]
+Hero: shows [8h 9c]
+*** SHOWDOWN ***
+99211b69 collected $88 from pot
+*** SUMMARY ***
+Total pot $88
+Board [9d Jh 3h 2d Ad]
+Seat 5: bf19110 folded before Flop (didn't bet)
+Seat 4: f804d4fa folded before Flop (didn't bet)
+Seat 3: 99211b69(big blind) showed [Js Td] and won ($88) with Pair of Jacks
+Seat 6: Hero(small blind) showed [8h 9c] and lost with Pair of Nines
+
+
+
+Poker Hand #ring_900609555: NLH No Limit ($2/$4) - 2025/05/27 00:57:22
+Table 'MR NLH BOMBPOT 2/4' 7-max Seat #4 is the button
+Seat 5: bf19110 ($786.95 in chips)
+Seat 4: f804d4fa ($800 in chips)
+Seat 3: 99211b69 ($997.35 in chips)
+Seat 6: Hero ($400 in chips)
+bf19110: posts small blind $2
+Hero: posts big blind $4
+*** HOLE CARDS ***
+Dealt to bf19110 
+Dealt to f804d4fa 
+Dealt to 99211b69 
+Dealt to Hero [5h 6h]
+99211b69: folds
+f804d4fa: folds
+bf19110: raises $8 to $12
+Hero: calls $8
+*** FLOP *** [7h 5s 5c]
+bf19110: bets $12
+Hero: raises $24 to $36
+bf19110: calls $24
+*** TURN *** [7h 5s 5c] [Kh]
+bf19110: checks
+Hero: bets $48
+bf19110: calls $48
+*** RIVER *** [7h 5s 5c Kh] [3c]
+bf19110: checks
+Hero: bets $153.6
+bf19110: calls $153.6
+bf19110: shows [5d Td]
+Hero: shows [5h 6h]
+*** SHOWDOWN ***
+bf19110 collected $499.2 from pot
+*** SUMMARY ***
+Total pot $499.2
+Board [7h 5s 5c Kh 3c]
+Seat 5: bf19110(small blind) showed [5d Td] and won ($499.2) with Three Fives
+Seat 4: f804d4fa folded before Flop (didn't bet)
+Seat 3: 99211b69 folded before Flop (didn't bet)
+Seat 6: Hero(big blind) showed [5h 6h] and lost with Three Fives
+
+
+

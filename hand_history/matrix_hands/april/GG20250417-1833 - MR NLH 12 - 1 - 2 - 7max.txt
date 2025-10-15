@@ -1,0 +1,28 @@
+Poker Hand #ring_828575014: NLH No Limit ($1/$2) - 2025/04/17 21:33:50
+Table 'MR NLH 1/2' 7-max Seat #4 is the button
+Seat 4: e28fdd9 ($202 in chips)
+Seat 3: Hero ($100 in chips)
+e28fdd9: posts small blind $1
+Hero: posts big blind $2
+*** HOLE CARDS ***
+Dealt to e28fdd9 
+Dealt to Hero [Ad 6h]
+e28fdd9: raises $2 to $4
+Hero: calls $2
+*** FLOP *** [Jh Ah Tc]
+Hero: bets $4
+e28fdd9: calls $4
+*** TURN *** [Jh Ah Tc] [2s]
+Hero: bets $8
+e28fdd9: folds
+Uncalled bet ($8) returned to Hero
+*** SHOWDOWN ***
+Hero collected $16 from pot
+*** SUMMARY ***
+Total pot $16
+Board [Jh Ah Tc 2s]
+Seat 4: e28fdd9(small blind) folded on the Turn
+Seat 3: Hero(big blind)won ($16) with Pair of Aces
+
+
+

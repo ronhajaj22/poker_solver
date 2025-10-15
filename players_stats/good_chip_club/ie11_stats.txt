@@ -1,0 +1,115 @@
+PLAYER: ie11
+============================================================
+
+GENERAL STATS:
+  Total Hands: 1090
+  VPIP: 86.97%
+  WTSD: 0
+  WSD: 0
+
+PREFLOP STATS:
+  PFR: 23.94%
+  When checked to him:
+  UTG: Raise: 3 (6.52%), Call: 29 (63.04%), 
+  HJ: Raise: 9 (10.98%), Call: 47 (57.32%), 
+  CO: Raise: 17 (17.71%), Call: 54 (56.25%), 
+  BTN: Raise: 51 (25.89%), Call: 78 (39.59%), 
+  SB: Raise: 100 (34.97%), Call: 183 (63.99%), 
+  BB: Raise: 51 (33.55%), Check: 101 (66.45%), 
+  
+VS aggression:
+  3Bet: 3.49%
+  UTG:  Raise: 0 (0.0%),  Call: 18 (90.0%), 
+  HJ:  Raise: 1 (3.57%),  Call: 20 (71.43%), 
+  CO:  Raise: 7 (18.92%),  Call: 26 (70.27%), 
+  BTN:  Raise: 3 (5.56%),  Call: 38 (70.37%), 
+  SB:  Raise: 4 (3.6%),  Call: 90 (81.08%), 
+  BB:  Raise: 15 (11.11%),  Call: 104 (77.04%), 
+  
+VS 3Bet:
+  IP:  Raise: 5 (18.52%),  Call: 17 (62.96%),  Fold: 4 (14.81%), 
+  OOP:  Raise: 3 (21.43%),  Call: 9 (64.29%),  Fold: 1 (7.14%), 
+  
+VS 4Bet:
+  IP:  Raise: 2 (20.0%),  Call: 5 (50.0%),  Fold: 2 (20.0%), 
+  OOP:  Raise: 0 (0.0%),  Call: 3 (75.0%),  Fold: 0 (0.0%), 
+  
+VS 5Bbet
+  IP:  Raise: 2 (50.0%),  Call: 0 (0.0%),  Fold: 2 (50.0%), 
+  OOP:  Raise: 1 (50.0%),  Call: 0 (0.0%),  Fold: 1 (50.0%), 
+
+PREFLOP RANGES:
+  UTG Open Range: {'QTo': 1}
+  HJ Open Range: {'A3s': 1, 'QJo': 1, 'QTo': 2}
+  CO Open Range: {'AA': 1, 'A2s': 1, 'T9s': 1, 'T7s': 1, '64s': 1, 'AKo': 1, 'KJo': 1, 'KTo': 1}
+  BTN Open Range: {'TT': 1, '99': 1, 'AQs': 1, 'KJs': 1, 'K9s': 1, 'K8s': 1, 'QTs': 1, 'Q3s': 1, 'JTs': 1, 'T9s': 1, '98s': 1, '87s': 1, 'AKo': 1, 'KQo': 2, 'QTo': 1, 'JTo': 3}
+  SB Open Range: {'AA': 2, 'QQ': 1, 'TT': 2, '99': 1, '88': 1, '66': 1, '44': 1, 'AKs': 1, 'A4s': 1, 'KJs': 1, 'Q9s': 1, 'J7s': 2, '95s': 1, '42s': 1, 'AKo': 1, 'AQo': 1, 'ATo': 1, 'A9o': 1, 'A5o': 1, 'A4o': 1, 'KQo': 3, 'KJo': 1, 'QJo': 1, 'QTo': 1, 'JTo': 1}
+  BB Open Range: {'QQ': 2, '66': 2, 'A6s': 1, 'K7s': 1, 'AKo': 1, 'J9o': 1, 'T9o': 1, 'T7o': 1}
+  BB 3-bet Range: {'66': 2, 'ATs': 1, 'ATo': 1}
+  General 3-bet Range: {'AKs': 1, 'A7s': 1, 'K8s': 1, 'K6s': 1, '87s': 1, 'AKo': 2}
+  Call 3bet Range: {'QQ': 1, 'TT': 2, '99': 1, '33': 1, 'A3s': 1, 'K9s': 1, '98s': 1, '87s': 1, 'ATo': 1, 'QTo': 1}
+  4bet Range: {'AA': 1, 'QQ': 1, 'ATs': 1, 'K8s': 1, 'AKo': 1, 'ATo': 1, 'T9o': 1}
+  Call 4bet Range: {'33': 1, 'AKs': 1, '87s': 1, 'AKo': 1, 'ATo': 1}
+  5bet Range: {'AA': 1, 'A3s': 1}
+  Call 5bet Range: {}
+
+FLOP STATS:
+  Hands in Flop: 795
+  Flop Raises: 208
+  Flop open Avg Sizes: 0.4996634615384616
+  Flop Open Avg Strength: 60.34318181818182
+  Open Range: {'Three of a Kind': 1, 'Two Pair': 1, 'Pair': 9, 'High Card': 11}
+  Flop Checks: 458
+  Flop Folds: 187
+  Flop Calls: 106
+  Flop Re-raises: 12
+  Flop Check-raise: 8
+  Flop Re-re-raise: 1
+  When was the aggressor-pre-flop:
+  C-bet: 0.54 ,  checked: 0.46
+  When faced aggression: fold: 0.41
+  Flop Re-raise Avg Strength: 70.21153846153847
+  Flop Call Re-raise: 2
+  Flop Call Re-raise Avg Strength: 79.235
+  Flop Re-re-raise Avg Strength: 89.36
+  Call Re-raise Range: {'Two Pair': 1, 'Pair': 1}
+  Re-re-raise Range: {'Pair': 1}
+
+RIVER STATS:
+  River Check When Act First: 109
+  River Check Back: 58
+  River Calls: 8
+  River Check Call: 6
+  River Call Re-raise: 6
+  River Folds: 26
+  River Check Fold: 26
+  River Fold to Re-raise: 3
+  River Raise When Act First: 74
+  River Raise Bluff When Act First: 72
+  River Raise Value When Act First: 41
+  River Raise When Last: 39
+  River Check Raise: 1
+  River Re-raise: 11
+
+RIVER BET SIZES:
+
+RIVER RANGES:
+  Check When Act First Range: {'other': 83}
+  Check Back Range: {'other': 58}
+  Call Range: {'other': 14}
+  Call Re-raise Range: {'other': 6}
+  Raise When Act First Range: {'other': 51}
+  Raise When Last Range: {'other': 27}
+  Check Raise Range: {'other': 1}
+  Re-raise Range: {'other': 5}
+
+RIVER RANGE STRENGTHS:
+  Check When Act First Avg Strength: 41.404216867469884
+  Check Back Avg Strength: 51.75913793103448
+  Call Avg Strength: 74.71142857142857
+  Call Re-raise Avg Strength: 93.04666666666667
+  Raise When Last Avg Strength: 39.59282051282051
+  Check Raise Avg Strength: 34.34
+  Re-raise Avg Strength: 25.17
+
+============================================================

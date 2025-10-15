@@ -1,0 +1,16 @@
+all the charts are according to 100bb deep
+
+UTG: positions - 
+HJ: positions: 6-5
+
+real gto charts:
+utg(open: 10.3%), utg+1(12.1%), utg+2(13.8%), LJ (17.6%), HJ (21.2%), co(28.2), btn (42%), sb (raise: 37.5, call: 11.1),
+open size: utg-btn: 2.5bb, sb: 3bb
+
+open_charts.js:
+utg(positions: utg, utg+1, utg+2): 12.1%
+HJ  (positions: LJ, HJ): 21.2%
+CO: 28.2 %
+BTN: 42%
+SB: Raise - 37.5%, Limp - 11.1%
+

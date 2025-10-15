@@ -1,0 +1,249 @@
+Poker Hand #ring_970598783: NLH No Limit ($2/$4) - 2025/07/03 21:33:53
+Table 'MR NLH 2/4' 7-max Seat #3 is the button
+Seat 5: 1d96907f ($491.38 in chips)
+Seat 1: 794b1764 ($575.55 in chips)
+Seat 3: 80f7bd1d ($33.43 in chips)
+Seat 2: d9d2f4d5 ($188.93 in chips)
+Seat 4: 46ef4bb7 ($1,352.84 in chips)
+Seat 6: Hero ($392 in chips)
+46ef4bb7: posts small blind $2
+1d96907f: posts big blind $4
+*** HOLE CARDS ***
+Dealt to 1d96907f 
+Dealt to 794b1764 
+Dealt to 80f7bd1d 
+Dealt to d9d2f4d5 
+Dealt to 46ef4bb7 
+Dealt to Hero [Ts 7c]
+Hero: folds
+794b1764: folds
+d9d2f4d5: calls $4
+80f7bd1d: folds
+46ef4bb7: calls $2
+1d96907f: raises $12 to $16
+d9d2f4d5: folds
+46ef4bb7: calls $12
+*** FLOP *** [Ks 5h Tc]
+46ef4bb7: checks
+1d96907f: bets $28.8
+46ef4bb7: calls $28.8
+*** TURN *** [Ks 5h Tc] [5d]
+46ef4bb7: checks
+1d96907f: checks
+*** RIVER *** [Ks 5h Tc 5d] [Qd]
+46ef4bb7: checks
+1d96907f: bets $446.58 and is all-in
+46ef4bb7: folds
+Uncalled bet ($446.58) returned to 1d96907f
+*** SHOWDOWN ***
+1d96907f collected $93.6 from pot
+*** SUMMARY ***
+Total pot $93.6
+Board [Ks 5h Tc 5d Qd]
+Seat 5: 1d96907f(big blind)won ($93.6) with Pair of Queens and Pair of Tens
+Seat 1: 794b1764 folded before Flop (didn't bet)
+Seat 3: 80f7bd1d folded before Flop (didn't bet)
+Seat 2: d9d2f4d5 folded before Flop
+Seat 4: 46ef4bb7(small blind) folded on the River
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_970597272: NLH No Limit ($2/$4) - 2025/07/03 21:32:58
+Table 'MR NLH 2/4' 7-max Seat #2 is the button
+Seat 5: 1d96907f ($491.38 in chips)
+Seat 1: 794b1764 ($575.55 in chips)
+Seat 3: 80f7bd1d ($35.43 in chips)
+Seat 2: d9d2f4d5 ($183.38 in chips)
+Seat 4: 46ef4bb7 ($1,356.84 in chips)
+Seat 6: Hero ($392 in chips)
+80f7bd1d: posts small blind $2
+46ef4bb7: posts big blind $4
+*** HOLE CARDS ***
+Dealt to 1d96907f 
+Dealt to 794b1764 
+Dealt to 80f7bd1d 
+Dealt to d9d2f4d5 
+Dealt to 46ef4bb7 
+Dealt to Hero [6h 2h]
+1d96907f: folds
+Hero: folds
+794b1764: folds
+d9d2f4d5: calls $4
+80f7bd1d: folds
+46ef4bb7: checks
+*** FLOP *** [2c Qd 4c]
+46ef4bb7: checks
+d9d2f4d5: checks
+*** TURN *** [2c Qd 4c] [9s]
+46ef4bb7: checks
+d9d2f4d5: bets $6.6
+46ef4bb7: folds
+Uncalled bet ($6.6) returned to d9d2f4d5
+*** SHOWDOWN ***
+d9d2f4d5 collected $10 from pot
+*** SUMMARY ***
+Total pot $10
+Board [2c Qd 4c 9s]
+Seat 5: 1d96907f folded before Flop (didn't bet)
+Seat 1: 794b1764 folded before Flop (didn't bet)
+Seat 3: 80f7bd1d(small blind) folded before Flop
+Seat 2: d9d2f4d5won ($10) with Pair of Nines
+Seat 4: 46ef4bb7(big blind) folded on the Turn
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_970594816: NLH No Limit ($2/$4) - 2025/07/03 21:31:33
+Table 'MR NLH 2/4' 7-max Seat #1 is the button
+Seat 5: 1d96907f ($491.38 in chips)
+Seat 1: 794b1764 ($613.39 in chips)
+Seat 3: 80f7bd1d ($39.43 in chips)
+Seat 2: d9d2f4d5 ($146.12 in chips)
+Seat 4: 46ef4bb7 ($1,356.84 in chips)
+Seat 6: Hero ($392 in chips)
+d9d2f4d5: posts small blind $2
+80f7bd1d: posts big blind $4
+*** HOLE CARDS ***
+Dealt to 1d96907f 
+Dealt to 794b1764 
+Dealt to 80f7bd1d 
+Dealt to d9d2f4d5 
+Dealt to 46ef4bb7 
+Dealt to Hero [As 7h]
+46ef4bb7: folds
+1d96907f: folds
+Hero: folds
+794b1764: raises $6 to $10
+d9d2f4d5: calls $8
+80f7bd1d: folds
+*** FLOP *** [3s Qh Ac]
+d9d2f4d5: checks
+794b1764: bets $7.92
+d9d2f4d5: calls $7.92
+*** TURN *** [3s Qh Ac] [Kc]
+d9d2f4d5: checks
+794b1764: checks
+*** RIVER *** [3s Qh Ac Kc] [3d]
+d9d2f4d5: bets $19.92
+794b1764: calls $19.92
+794b1764: shows [Ks Jd]
+d9d2f4d5: shows [Qs Kd]
+*** SHOWDOWN ***
+d9d2f4d5 collected $79.68 from pot
+*** SUMMARY ***
+Total pot $79.68
+Board [3s Qh Ac Kc 3d]
+Seat 5: 1d96907f folded before Flop (didn't bet)
+Seat 1: 794b1764 showed [Ks Jd] and lost with Pair of Kings and Pair of Treys
+Seat 3: 80f7bd1d(big blind) folded before Flop
+Seat 2: d9d2f4d5(small blind) showed [Qs Kd] and won ($79.68) with Pair of Kings and Pair of Queens
+Seat 4: 46ef4bb7 folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_970594178: NLH No Limit ($2/$4) - 2025/07/03 21:31:10
+Table 'MR NLH 2/4' 7-max Seat #6 is the button
+Seat 5: 1d96907f ($491.38 in chips)
+Seat 1: 794b1764 ($615.39 in chips)
+Seat 3: 80f7bd1d ($39.43 in chips)
+Seat 2: d9d2f4d5 ($144.12 in chips)
+Seat 4: 46ef4bb7 ($1,356.84 in chips)
+Seat 6: Hero ($392 in chips)
+794b1764: posts small blind $2
+d9d2f4d5: posts big blind $4
+*** HOLE CARDS ***
+Dealt to 1d96907f 
+Dealt to 794b1764 
+Dealt to 80f7bd1d 
+Dealt to d9d2f4d5 
+Dealt to 46ef4bb7 
+Dealt to Hero [6s 2s]
+80f7bd1d: folds
+46ef4bb7: folds
+1d96907f: folds
+Hero: folds
+794b1764: folds
+*** SHOWDOWN ***
+d9d2f4d5 collected $6 from pot
+*** SUMMARY ***
+Total pot $6
+Seat 5: 1d96907f folded before Flop (didn't bet)
+Seat 1: 794b1764(small blind) folded before Flop
+Seat 3: 80f7bd1d folded before Flop (didn't bet)
+Seat 2: d9d2f4d5(big blind)won ($6)
+Seat 4: 46ef4bb7 folded before Flop (didn't bet)
+Seat 6: Hero folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_970592922: NLH No Limit ($2/$4) - 2025/07/03 21:30:27
+Table 'MR NLH 2/4' 7-max Seat #5 is the button
+Seat 5: 1d96907f ($491.38 in chips)
+Seat 1: 794b1764 ($605.39 in chips)
+Seat 3: 80f7bd1d ($39.43 in chips)
+Seat 2: d9d2f4d5 ($144.12 in chips)
+Seat 4: 46ef4bb7 ($1,356.84 in chips)
+Seat 6: Hero ($402 in chips)
+Hero: posts small blind $2
+794b1764: posts big blind $4
+*** HOLE CARDS ***
+Dealt to 1d96907f 
+Dealt to 794b1764 
+Dealt to 80f7bd1d 
+Dealt to d9d2f4d5 
+Dealt to 46ef4bb7 
+Dealt to Hero [Ac 9h]
+d9d2f4d5: folds
+80f7bd1d: folds
+46ef4bb7: folds
+1d96907f: folds
+Hero: raises $6 to $10
+794b1764: raises $26 to $36
+Hero: folds
+Uncalled bet ($26) returned to 794b1764
+*** SHOWDOWN ***
+794b1764 collected $20 from pot
+*** SUMMARY ***
+Total pot $20
+Seat 5: 1d96907f folded before Flop (didn't bet)
+Seat 1: 794b1764(big blind)won ($20)
+Seat 3: 80f7bd1d folded before Flop (didn't bet)
+Seat 2: d9d2f4d5 folded before Flop (didn't bet)
+Seat 4: 46ef4bb7 folded before Flop (didn't bet)
+Seat 6: Hero(small blind) folded before Flop
+
+
+
+Poker Hand #ring_970592151: NLH No Limit ($2/$4) - 2025/07/03 21:30:00
+Table 'MR NLH 2/4' 7-max Seat #4 is the button
+Seat 5: 1d96907f ($493.38 in chips)
+Seat 3: 80f7bd1d ($39.43 in chips)
+Seat 2: d9d2f4d5 ($144.12 in chips)
+Seat 4: 46ef4bb7 ($1,356.84 in chips)
+Seat 6: Hero ($400 in chips)
+1d96907f: posts small blind $2
+Hero: posts big blind $4
+*** HOLE CARDS ***
+Dealt to 1d96907f 
+Dealt to 80f7bd1d 
+Dealt to d9d2f4d5 
+Dealt to 46ef4bb7 
+Dealt to Hero [8d Ks]
+d9d2f4d5: folds
+80f7bd1d: folds
+46ef4bb7: folds
+1d96907f: folds
+*** SHOWDOWN ***
+Hero collected $6 from pot
+*** SUMMARY ***
+Total pot $6
+Seat 5: 1d96907f(small blind) folded before Flop
+Seat 3: 80f7bd1d folded before Flop (didn't bet)
+Seat 2: d9d2f4d5 folded before Flop (didn't bet)
+Seat 4: 46ef4bb7 folded before Flop (didn't bet)
+Seat 6: Hero(big blind)won ($6)
+
+
+

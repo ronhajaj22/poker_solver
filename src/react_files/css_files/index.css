@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #1a1a1a;
+  color: white;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.poker-table {
+  background: linear-gradient(135deg, #2d5a27 0%, #1e3a1a 100%);
+  border-radius: 200px;
+  padding: 0px;
+  margin: 0px;
+  border: 2px solid #8b4513;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.card {
+  display: inline-block;
+  background: white;
+  color: black;
+  border: 2px solid #333;
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin: 2px;
+  font-weight: bold;
+  font-size: 16px;
+  min-width: 40px;
+  text-align: center;
+}
+
+.card.red {
+  color: #d32f2f;
+}
+
+.player {
+  background: rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  padding: 15px;
+  margin: 10px;
+  border: 2px solid #4a4a4a;
+}
+
+.pot {
+  background: rgba(255, 215, 0, 0.2);
+  border: 2px solid #ffd700;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px auto;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.controls {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.button {
+  background: #4CAF50;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  margin: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.button:hover {
+  background: #45a049;
+}
+
+.button:disabled {
+  background: #666;
+  cursor: not-allowed;
+} 

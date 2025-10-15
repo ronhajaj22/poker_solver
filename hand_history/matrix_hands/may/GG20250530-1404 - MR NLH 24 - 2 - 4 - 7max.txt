@@ -1,0 +1,89 @@
+Poker Hand #ring_907586405: NLH No Limit ($2/$4) - 2025/05/30 17:05:11
+Table 'MR NLH 2/4' 7-max Seat #2 is the button
+Seat 4: 653111be ($823.46 in chips)
+Seat 2: Hero ($403.46 in chips)
+Seat 3: 7c762cac ($1,272.59 in chips)
+7c762cac: posts small blind $2
+653111be: posts big blind $4
+*** HOLE CARDS ***
+Dealt to 653111be 
+Dealt to Hero [3h 4c]
+Dealt to 7c762cac 
+Hero: folds
+7c762cac: folds
+*** SHOWDOWN ***
+653111be collected $6 from pot
+*** SUMMARY ***
+Total pot $6
+Seat 4: 653111be(big blind)won ($6)
+Seat 2: Hero folded before Flop (didn't bet)
+Seat 3: 7c762cac(small blind) folded before Flop
+
+
+
+Poker Hand #ring_907585750: NLH No Limit ($2/$4) - 2025/05/30 17:04:41
+Table 'MR NLH 2/4' 7-max Seat #4 is the button
+Seat 4: 653111be ($827.46 in chips)
+Seat 2: Hero ($396 in chips)
+Seat 3: 7c762cac ($1,276.59 in chips)
+Hero: posts small blind $2
+7c762cac: posts big blind $4
+*** HOLE CARDS ***
+Dealt to 653111be 
+Dealt to Hero [Qd 2h]
+Dealt to 7c762cac 
+653111be: calls $4
+Hero: calls $2
+7c762cac: checks
+*** FLOP *** [4s 7d Kd]
+Hero: checks
+7c762cac: checks
+653111be: checks
+*** TURN *** [4s 7d Kd] [4c]
+Hero: checks
+7c762cac: checks
+653111be: checks
+*** RIVER *** [4s 7d Kd 4c] [8d]
+Hero: checks
+7c762cac: checks
+653111be: checks
+Hero: shows [Qd 2h]
+7c762cac: shows [6c 9s]
+653111be: shows [9h Jd]
+*** SHOWDOWN ***
+Hero collected $12 from pot
+*** SUMMARY ***
+Total pot $12
+Board [4s 7d Kd 4c 8d]
+Seat 4: 653111be showed [9h Jd] and lost with Pair of Fours
+Seat 2: Hero(small blind) showed [Qd 2h] and won ($12) with Pair of Fours
+Seat 3: 7c762cac(big blind) showed [6c 9s] and lost with Pair of Fours
+
+
+
+Poker Hand #ring_907585207: NLH No Limit ($2/$4) - 2025/05/30 17:04:17
+Table 'MR NLH 2/4' 7-max Seat #3 is the button
+Seat 4: 653111be ($811.46 in chips)
+Seat 2: Hero ($400 in chips)
+Seat 3: 7c762cac ($1,288.59 in chips)
+653111be: posts small blind $2
+Hero: posts big blind $4
+*** HOLE CARDS ***
+Dealt to 653111be 
+Dealt to Hero [8h Ts]
+Dealt to 7c762cac 
+7c762cac: raises $8 to $12
+653111be: raises $52 to $64
+Hero: folds
+7c762cac: folds
+Uncalled bet ($52) returned to 653111be
+*** SHOWDOWN ***
+653111be collected $28 from pot
+*** SUMMARY ***
+Total pot $28
+Seat 4: 653111be(small blind)won ($28)
+Seat 2: Hero(big blind) folded before Flop
+Seat 3: 7c762cac folded before Flop
+
+
+

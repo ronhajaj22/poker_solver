@@ -1,0 +1,164 @@
+Poker Hand #ring_897920531: NLH No Limit ($1/$2) - 2025/05/25 16:20:56
+Table 'MR NLH BOMBPOT 1/2' 7-max Seat #4 is the button
+Seat 1: 8f1fc487 ($361 in chips)
+Seat 4: 125f6af3 ($360.77 in chips)
+Seat 5: 8cca65d6 ($223.72 in chips)
+Seat 3: Hero ($183.55 in chips)
+8cca65d6: posts small blind $1
+8f1fc487: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 8f1fc487 
+Dealt to 125f6af3 
+Dealt to 8cca65d6 
+Dealt to Hero [Ks Qs]
+Hero: raises $4 to $6
+125f6af3: folds
+8cca65d6: raises $20 to $26
+8f1fc487: calls $24
+Hero: calls $20
+*** FLOP *** [7h 2s Jc]
+8cca65d6: checks
+8f1fc487: checks
+Hero: checks
+*** TURN *** [7h 2s Jc] [5h]
+8cca65d6: checks
+8f1fc487: checks
+Hero: bets $39
+8cca65d6: folds
+8f1fc487: calls $39
+*** RIVER *** [7h 2s Jc 5h] [Js]
+8f1fc487: checks
+Hero: bets $78
+8f1fc487: calls $78
+8f1fc487: shows [Ac Qd]
+Hero: shows [Ks Qs]
+*** SHOWDOWN ***
+8f1fc487 collected $312 from pot
+*** SUMMARY ***
+Total pot $312
+Board [7h 2s Jc 5h Js]
+Seat 1: 8f1fc487(big blind) showed [Ac Qd] and won ($312) with Pair of Jacks
+Seat 4: 125f6af3 folded before Flop (didn't bet)
+Seat 5: 8cca65d6(small blind) folded on the Turn
+Seat 3: Hero showed [Ks Qs] and lost with Pair of Jacks
+
+
+
+Poker Hand #ring_897919842: NLH No Limit ($1/$2) - 2025/05/25 16:20:18
+Table 'MR NLH BOMBPOT 1/2' 7-max Seat #3 is the button
+Seat 1: 8f1fc487 ($361 in chips)
+Seat 4: 125f6af3 ($349.35 in chips)
+Seat 5: 8cca65d6 ($225.72 in chips)
+Seat 3: Hero ($194.55 in chips)
+125f6af3: posts small blind $1
+8cca65d6: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 8f1fc487 
+Dealt to 125f6af3 
+Dealt to 8cca65d6 
+Dealt to Hero [8c Kc]
+8f1fc487: folds
+Hero: raises $3 to $5
+125f6af3: calls $4
+8cca65d6: folds
+*** FLOP *** [9h 4h 7d]
+125f6af3: checks
+Hero: checks
+*** TURN *** [9h 4h 7d] [Ac]
+125f6af3: checks
+Hero: checks
+*** RIVER *** [9h 4h 7d Ac] [Ah]
+125f6af3: bets $6
+Hero: calls $6
+Hero: shows [8c Kc]
+125f6af3: shows [2s Ad]
+*** SHOWDOWN ***
+125f6af3 collected $24 from pot
+*** SUMMARY ***
+Total pot $24
+Board [9h 4h 7d Ac Ah]
+Seat 1: 8f1fc487 folded before Flop (didn't bet)
+Seat 4: 125f6af3(small blind) showed [2s Ad] and won ($24) with Three Aces
+Seat 5: 8cca65d6(big blind) folded before Flop
+Seat 3: Hero showed [8c Kc] and lost with Pair of Aces
+
+
+
+Poker Hand #ring_897919306: NLH No Limit ($1/$2) - 2025/05/25 16:19:49
+Table 'MR NLH BOMBPOT 1/2' 7-max Seat #1 is the button
+Seat 1: 8f1fc487 ($361 in chips)
+Seat 4: 125f6af3 ($354.35 in chips)
+Seat 5: 8cca65d6 ($225.72 in chips)
+Seat 3: Hero ($190 in chips)
+Hero: posts small blind $1
+125f6af3: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 8f1fc487 
+Dealt to 125f6af3 
+Dealt to 8cca65d6 
+Dealt to Hero [6d Kd]
+8cca65d6: folds
+8f1fc487: folds
+Hero: raises $3 to $5
+125f6af3: calls $3
+*** FLOP *** [9c As Ks]
+Hero: bets $5
+125f6af3: folds
+Uncalled bet ($5) returned to Hero
+*** SHOWDOWN ***
+Hero collected $10 from pot
+*** SUMMARY ***
+Total pot $10
+Board [9c As Ks]
+Seat 1: 8f1fc487 folded before Flop (didn't bet)
+Seat 4: 125f6af3(big blind) folded on the Flop
+Seat 5: 8cca65d6 folded before Flop (didn't bet)
+Seat 3: Hero(small blind)won ($10) with Pair of Kings
+
+
+
+Poker Hand #ring_897918197: NLH No Limit ($1/$2) - 2025/05/25 16:18:47
+Table 'MR NLH BOMBPOT 1/2' 7-max Seat #5 is the button
+Seat 1: 8f1fc487 ($371 in chips)
+Seat 4: 125f6af3 ($348.07 in chips)
+Seat 5: 8cca65d6 ($219.44 in chips)
+Seat 3: Hero ($200 in chips)
+8f1fc487: posts the ante $10
+Hero: posts the ante $10
+125f6af3: posts the ante $10
+8cca65d6: posts the ante $10
+*** HOLE CARDS ***
+Dealt to 8f1fc487 
+Dealt to 125f6af3 
+Dealt to 8cca65d6 
+Dealt to Hero [6c 3h]
+*** FLOP *** [Kc Ac 5c]
+8f1fc487: checks
+Hero: checks
+125f6af3: checks
+8cca65d6: bets $8
+8f1fc487: folds
+Hero: folds
+125f6af3: raises $18.48 to $26.48
+8cca65d6: calls $18.48
+*** TURN *** [Kc Ac 5c] [7h]
+125f6af3: bets $30.68
+8cca65d6: calls $30.68
+*** RIVER *** [Kc Ac 5c 7h] [5d]
+125f6af3: checks
+8cca65d6: checks
+125f6af3: shows [8h As]
+8cca65d6: shows [Qs Ad]
+*** SHOWDOWN ***
+125f6af3 collected $77.16 from pot
+8cca65d6 collected $77.16 from pot
+*** SUMMARY ***
+Total pot $154.32
+Board [Kc Ac 5c 7h 5d]
+Seat 1: 8f1fc487(small blind) folded on the Flop
+Seat 4: 125f6af3 showed [8h As] and won ($77.16) with Pair of Aces and Pair of Fives
+Seat 5: 8cca65d6 showed [Qs Ad] and won ($77.16) with Pair of Aces and Pair of Fives
+Seat 3: Hero(big blind) folded on the Flop
+
+
+

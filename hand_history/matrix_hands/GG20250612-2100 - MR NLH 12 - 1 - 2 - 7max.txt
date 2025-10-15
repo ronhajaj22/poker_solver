@@ -1,0 +1,47 @@
+Poker Hand #ring_932436406: NLH No Limit ($1/$2) - 2025/06/13 00:00:54
+Table 'MR NLH 1/2' 7-max Seat #4 is the button
+Seat 4: 8a7a4a14 ($251.86 in chips)
+Seat 5: cdd1d0d0 ($168.35 in chips)
+Seat 1: 4048e890 ($583.77 in chips)
+Seat 2: 24dfa5f2 ($405.46 in chips)
+Seat 6: Hero ($200 in chips)
+cdd1d0d0: posts small blind $1
+Hero: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 8a7a4a14 
+Dealt to cdd1d0d0 
+Dealt to 4048e890 
+Dealt to 24dfa5f2 
+Dealt to Hero [Kc Qc]
+4048e890: raises $3 to $5
+24dfa5f2: folds
+8a7a4a14: folds
+cdd1d0d0: raises $20 to $25
+Hero: calls $23
+4048e890: calls $20
+*** FLOP *** [Jh 4d Td]
+cdd1d0d0: bets $56.24
+Hero: calls $56.24
+4048e890: raises $502.53 to $558.77 and is all-in
+cdd1d0d0: calls $87.11 and is all-in
+Hero: calls $118.76 and is all-in
+Uncalled bet ($383.77) returned to 4048e890
+4048e890: shows [Jd 9d] (Pair of Jacks)
+cdd1d0d0: shows [Ad Ac] (Pair of Aces)
+Hero: shows [Kc Qc] (King-High)
+*** TURN *** [Jh 4d Td] [4c]
+*** RIVER *** [Jh 4d Td 4c] [5d]
+*** SHOWDOWN ***
+4048e890 collected $505.05 from pot
+4048e890 collected $63.3 from pot
+*** SUMMARY ***
+Total pot $568.35
+Board [Jh 4d Td 4c 5d]
+Seat 4: 8a7a4a14 folded before Flop (didn't bet)
+Seat 5: cdd1d0d0(small blind) showed [Ad Ac] and lost with Pair of Aces and Pair of Fours
+Seat 1: 4048e890 showed [Jd 9d] and won ($505.05) with Jack High Flush
+Seat 2: 24dfa5f2 folded before Flop (didn't bet)
+Seat 6: Hero(big blind) showed [Kc Qc] and lost with Pair of Fours
+
+
+

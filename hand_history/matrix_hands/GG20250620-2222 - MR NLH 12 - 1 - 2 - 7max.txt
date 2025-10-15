@@ -1,0 +1,160 @@
+Poker Hand #ring_947574137: NLH No Limit ($1/$2) - 2025/06/21 01:25:16
+Table 'MR NLH 1/2' 7-max Seat #4 is the button
+Seat 1: 73fe81b3 ($511.02 in chips)
+Seat 6: 9e87aa19 ($1,081.65 in chips)
+Seat 4: Hero ($412.37 in chips)
+Seat 5: 7547bdb3 ($387.3 in chips)
+Seat 2: ce238e26 ($273.86 in chips)
+Seat 3: 7e043954 ($286.63 in chips)
+Seat 7: ca7641a3 ($157.98 in chips)
+7547bdb3: posts small blind $1
+9e87aa19: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 73fe81b3 
+Dealt to 9e87aa19 
+Dealt to Hero [4s 6c]
+Dealt to 7547bdb3 
+Dealt to ce238e26 
+Dealt to 7e043954 
+Dealt to ca7641a3 
+ca7641a3: folds
+73fe81b3: raises $2 to $4
+ce238e26: folds
+7e043954: folds
+Hero: folds
+7547bdb3: folds
+9e87aa19: calls $2
+*** FLOP *** [As 9c 5c]
+9e87aa19: checks
+73fe81b3: checks
+*** TURN *** [As 9c 5c] [2d]
+9e87aa19: checks
+73fe81b3: bets $6.75
+9e87aa19: folds
+Uncalled bet ($6.75) returned to 73fe81b3
+73fe81b3: shows [2s]
+*** SHOWDOWN ***
+73fe81b3 collected $9 from pot
+*** SUMMARY ***
+Total pot $9
+Board [As 9c 5c 2d]
+Seat 1: 73fe81b3 showed [2s] and won ($9) with Pair of Twos
+Seat 6: 9e87aa19(big blind) folded on the Turn
+Seat 4: Hero folded before Flop (didn't bet)
+Seat 5: 7547bdb3(small blind) folded before Flop
+Seat 2: ce238e26 folded before Flop (didn't bet)
+Seat 3: 7e043954 folded before Flop (didn't bet)
+Seat 7: ca7641a3 folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_947571778: NLH No Limit ($1/$2) - 2025/06/21 01:23:54
+Table 'MR NLH 1/2' 7-max Seat #3 is the button
+Seat 1: 73fe81b3 ($513.02 in chips)
+Seat 6: 9e87aa19 ($1,081.65 in chips)
+Seat 4: Hero ($413.37 in chips)
+Seat 5: 7547bdb3 ($389.3 in chips)
+Seat 2: ce238e26 ($141.14 in chips)
+Seat 3: 7e043954 ($427.77 in chips)
+Seat 7: ca7641a3 ($157.98 in chips)
+Hero: posts small blind $1
+7547bdb3: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 73fe81b3 
+Dealt to 9e87aa19 
+Dealt to Hero [4s 3h]
+Dealt to 7547bdb3 
+Dealt to ce238e26 
+Dealt to 7e043954 
+Dealt to ca7641a3 
+9e87aa19: folds
+ca7641a3: folds
+73fe81b3: calls $2
+ce238e26: raises $6 to $8
+7e043954: raises $26 to $34
+Hero: folds
+7547bdb3: folds
+73fe81b3: folds
+ce238e26: calls $26
+*** FIRST FLOP *** [7c Kc Js]
+ce238e26: checks
+7e043954: bets $36.5
+ce238e26: raises $70.64 to $107.14 and is all-in
+7e043954: calls $70.64
+ce238e26: shows [Ad Ks] (Pair of Kings)
+7e043954: shows [Ts Qs] (King-High)
+*** FIRST TURN *** [7c Kc Js] [7h]
+*** SECOND TURN *** [7c Kc Js] [Tc]
+*** FIRST RIVER *** [7c Kc Js 7h] [4h]
+*** SECOND RIVER *** [7c Kc Js Tc] [8h]
+*** FIRST SHOWDOWN ***
+ce238e26 collected $143.89 from pot
+*** SECOND SHOWDOWN ***
+ce238e26 collected $143.39 from pot
+*** SUMMARY ***
+Total pot $287.28
+Hand was run two timesFIRST Board [7c Kc Js 7h 4h]
+SECOND Board [Tc 8h]
+Seat 1: 73fe81b3 folded before Flop
+Seat 6: 9e87aa19 folded before Flop (didn't bet)
+Seat 4: Hero(small blind) folded before Flop
+Seat 5: 7547bdb3(big blind) folded before Flop
+Seat 2: ce238e26 showed [Ad Ks] and won ($287.28) with Pair of Kings and Pair of Sevens / Pair of Kings
+Seat 3: 7e043954 showed [Ts Qs] and lost with Pair of Sevens / Pair of Tens
+Seat 7: ca7641a3 folded before Flop (didn't bet)
+
+
+
+Poker Hand #ring_947569029: NLH No Limit ($1/$2) - 2025/06/21 01:22:17
+Table 'MR NLH 1/2' 7-max Seat #2 is the button
+Seat 1: 73fe81b3 ($490.36 in chips)
+Seat 6: 9e87aa19 ($1,081.65 in chips)
+Seat 4: Hero ($437.77 in chips)
+Seat 5: 7547bdb3 ($389.3 in chips)
+Seat 2: ce238e26 ($141.14 in chips)
+Seat 3: 7e043954 ($428.77 in chips)
+Seat 7: ca7641a3 ($157.98 in chips)
+7e043954: posts small blind $1
+Hero: posts big blind $2
+*** HOLE CARDS ***
+Dealt to 73fe81b3 
+Dealt to 9e87aa19 
+Dealt to Hero [Kd 8c]
+Dealt to 7547bdb3 
+Dealt to ce238e26 
+Dealt to 7e043954 
+Dealt to ca7641a3 
+7547bdb3: folds
+9e87aa19: folds
+ca7641a3: folds
+73fe81b3: raises $5 to $7
+ce238e26: folds
+7e043954: folds
+Hero: calls $5
+*** FLOP *** [3s 2s 8s]
+Hero: checks
+73fe81b3: checks
+*** TURN *** [3s 2s 8s] [3c]
+Hero: bets $7.5
+73fe81b3: raises $9.9 to $17.4
+Hero: calls $9.9
+*** RIVER *** [3s 2s 8s 3c] [Ad]
+Hero: checks
+73fe81b3: bets $37.35
+Hero: folds
+Uncalled bet ($37.35) returned to 73fe81b3
+*** SHOWDOWN ***
+73fe81b3 collected $49.8 from pot
+*** SUMMARY ***
+Total pot $49.8
+Board [3s 2s 8s 3c Ad]
+Seat 1: 73fe81b3won ($49.8) with Treys Full over Eights
+Seat 6: 9e87aa19 folded before Flop (didn't bet)
+Seat 4: Hero(big blind) folded on the River
+Seat 5: 7547bdb3 folded before Flop (didn't bet)
+Seat 2: ce238e26 folded before Flop (didn't bet)
+Seat 3: 7e043954(small blind) folded before Flop
+Seat 7: ca7641a3 folded before Flop (didn't bet)
+
+
+

@@ -61,4 +61,18 @@ coverage.xml
 .dmypy.json
 
 # Pyre type checker
-.pyre/ 
+.pyre/
+
+# Ignore everything in root except src and essential files
+/*
+!/.gitignore
+!/README.md
+!/requirements.txt
+!/package.json
+!/package-lock.json
+!/src/
+
+# Ignore specific files and directories in src
+src/agent/data_prep_new.py
+src/agent/poker_agent_new.py
+src/gg_hands_parser/ 

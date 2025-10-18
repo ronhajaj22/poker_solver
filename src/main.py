@@ -6,8 +6,7 @@ from agent.poker_agent_new import start_model
 
 def main():
     # Uncomment for additional functionality
-    #
-    # parse_sessions(collect_data=True)
+    parse_sessions(collect_data=True)
     
     #create_pre_flop_charts()
 

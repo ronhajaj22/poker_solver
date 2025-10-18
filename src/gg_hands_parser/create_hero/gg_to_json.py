@@ -21,12 +21,12 @@ players_map = PlayerStatsManager()
 # this functionn go through all the GG files and parse them
 # if collect_data is True, it will collect data from the hands and save it to the players_map
 # if collect_data is False, it will create an agent that mimic the hero's actions
-def parse_sessions(folder_path = 'matrix', collect_data = False):
+def parse_sessions(folder_path_str = 'new_matrix', collect_data = False):
     all_flop_data = []
     all_turn_data = []
     all_river_data = []
     
-    folder_path = find_hand_history_path('matrix')
+    folder_path = find_hand_history_path(folder_path_str)
     total_hands_count = 0
     
     for filename in os.listdir(folder_path):

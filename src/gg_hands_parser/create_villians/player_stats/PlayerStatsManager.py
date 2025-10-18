@@ -1,8 +1,18 @@
 from .PlayerStats import PlayerStats
 from AppUtils.files_utils import find_players_stats_path
 import pdb
-reg_player_names = ['Hero', 'Nagasti_Bagamba', 'Mazal_Ohayon', 'Titia', 'THE_JUDGE', 'RiverRoullette', 'Development',
-                    'kadimmaa', 'HadagNahash', 'Luckbox222', 'Tandorban1']
+reg_player_names = ['Hero', 'Nagasti_Bagamba', 'Mazal_Ohayon', 'Titia', 'RiverRoullette', 'Development',
+                    'kadimmaa', 'HadagNahash', 'Luckbox222', 'Tandorban1', 'SHMILO', 'Roninmas', 'Busted01', 'yayakuki', 'JordanLeerDy', 'Boaz_Panker', 'Larenettor', 'Miki_', 
+'Prime_Time89', 'alekuku', 'Alyrviol', 'DraveFox', 'one_street', 'safrid99', 'ceebo', 'Equiume', 
+'in2024', 'Barkoz', 'AsTate', 'Meir_noyman', 'adbom', 'Nir_B', 'yechiel200', 'petercasi', 
+'ReuvenOved', 'Ggolan', 'YossiAmsalem', 'golanja', 'Latifayo', 'LLexLutorRR', 'shambik', 
+'im_black_boy', 'ParleyP', 'mopsik569', 'PiDiDy', 'DollarAssasin', 'BigSh0w', 'max0312', 
+'Itay_Kipa', 'wow123', 'Valam5', 'mikky2004', 'IveyDono', 'Hagilayon', 'Rizzand', 'nirmalul12', 
+'gamewguess', 'Always_in_tilt', 'ArminVan', 'sariton', 'THE_JUDGE', 'slymove', 'alex_saraygesh', 
+'DavenFox', 'iceman55', 'CosmoBunny', 'Macfarlane', 'Garlic_Jr', 'BROziljero', 'Negroni', '10173', 
+'GoldYear25', 'Blackbeard7', 'Dinezan', 'kadimmaa', 'shehar', 'RiverRoullette', 'Mazal_Ohayon', 
+'HadagNahash', 'Titia', 'Luckbox222', 'Kid_Poker7', 'Tandorban1', 'Hypothesis888', 'DragonBallZZZ', 
+'DeMonga', 'Cloudy76', 'Arya_s', 'Waltrix', 'oziwine', 'Sitting_Ouch']
 
 class PlayerStatsManager:
     """

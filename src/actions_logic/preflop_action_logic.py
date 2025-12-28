@@ -36,54 +36,35 @@ class ActionLogic:
         
         if game.is_heads_up:
             situation = ('open' if position_general == 'SB' else 'vs_limp') if num_raises == 0 else 'vs_open' if num_raises == 1 else 'vs_3bet' if num_raises == 2 else 'vs_4bet' if num_raises == 3 else 'vs_5bet'
-            if (hand_str in self.hu_preflop_chart[situation]):
+            if hand_str in self.hu_preflop_chart[situation]:
                 action_freqs = self.hu_preflop_chart[situation][hand_str]
-            else:
-                print("hand_str", hand_str, "in position", player.position, "in stage", game.street, "not found")
-                action_freqs = {strings.RAISE.lower(): 0, strings.CALL.lower(): 0, strings.FOLD.lower(): 100}
-            possible_actions = self.create_action_preflop(action_freqs, raise_is_not_possible, game.last_bet_size, fold_is_not_possible)
-            print("possible_actions", possible_actions)
-
-        else: 
-            situation = ('open' if player.position != 'BB' else 'vs_limp') if num_raises == 0 else 'vs_open' if num_raises == 1 else 'vs_3bet' if num_raises == 2 else 'vs_4bet' if num_raises == 3 else 'vs_5bet'
-            if situation == 'open':
-                action_freqs = self.preflop_chart[situation][position_general][hand_str]
-            elif situation == 'vs_limp':
-                action_freqs = self.preflop_chart[situation][hand_str]
-            else: 
-                if situation == 'vs_open':
-                    is_ip = player.position != 'BB'
-                else:
-                   is_ip = player.is_ip(game.get_positions_by_order(), game.get_active_players_in_hand())
-                if hand_str not in self.preflop_chart[situation + ('_ip' if is_ip else '_oop')]:
-                    print("hand_str", hand_str, "in position", player.position, "in stage", game.street, "not found")
-                    action_freqs = {strings.RAISE.lower(): 0, strings.CALL.lower(): 0, strings.FOLD.lower(): 100}
-                else:
-                    action_freqs = self.preflop_chart[situation + ('_ip' if is_ip else '_oop')][hand_str]
-            
-            for action in action_freqs:
-                action_freqs[action] = round(action_freqs[action], 2)
-            possible_actions = self.create_action_preflop(action_freqs, raise_is_not_possible, game.last_bet_size, fold_is_not_possible)
+        else:
+            action_freqs = self.get_preflop_actions_freqs(hand_str, player.position, num_raises, player.is_ip(game.is_heads_up, game.get_active_players_in_hand()))
+    
+        if action_freqs == None or len(action_freqs) == 0:
+            print("hand_str", hand_str, "not found in " + situation)
+            action_freqs = {strings.RAISE.lower(): 0, strings.CALL.lower(): 0, strings.FOLD.lower(): 100}
         
-        # Choose and return the selected action
-        selected_action = self.choose_action(possible_actions, raise_is_not_possible, player.stack_size)
+        possible_actions = self.create_action_object(action_freqs, raise_is_not_possible, game.last_bet_size, fold_is_not_possible)
+        selected_action = self.choose_action_by_prob(possible_actions, raise_is_not_possible, player.stack_size)
 
         return selected_action
 
     #  Create action objects from frequency dictionary
-    def create_action_preflop(self, action_freqs, is_no_raise, last_bet_size, fold_is_not_possible):
+    def create_action_object(self, action_freqs, raise_is_not_possible, last_bet_size, fold_is_not_possible):
         raise_freq = action_freqs[strings.RAISE.lower()]
         if (strings.CALL.lower() in action_freqs):
             call_check_action = Action(strings.CALL, action_freqs[strings.CALL.lower()], last_bet_size)
         else:
             call_check_action = Action(strings.CHECK, action_freqs[strings.CHECK.lower()], 0)
+    
         if (strings.FOLD.lower() in action_freqs):
             fold_freq = action_freqs[strings.FOLD.lower()]
         else:
             fold_freq = 0
-        print("raise_freq", raise_freq, "call/check freq", call_check_action.freq, "fold_freq", fold_freq)
+        print(f"raise freq {raise_freq:.2f}, call/check freq {call_check_action.freq:.2f}, fold freq {fold_freq:.2f}")
         
-        if is_no_raise:
+        if raise_is_not_possible:
             call_check_action.freq += raise_freq
             raise_freq = 0
         
@@ -102,11 +83,10 @@ class ActionLogic:
 
         return possible_actions
 
-    def choose_action(self, possible_actions, no_raise=False, stack_size=100):
+    def choose_action_by_prob(self, possible_actions, no_raise=False, stack_size=100):
         if (no_raise):
             possible_actions = [a for a in possible_actions if a.action != strings.RAISE]
         
-        # Safety check: if no actions available, create a default fold action
         if not possible_actions:
             possible_actions = [Action(strings.CHECK, 100, 0)]
         
@@ -116,21 +96,17 @@ class ActionLogic:
         return selected_action
 
     #  Create a message for the main player to check his action
-    def check_preflop_action(self, num_of_players, num_raises, player):
+    def check_preflop_action(self, hand_str, player_position, num_of_players, num_raises, is_ip):
         is_heads_up = num_of_players == 2
-        hand_str = player.hand.to_string() 
-
         action_freqs = {}
     
         if is_heads_up:
-            situation = ('open' if player.position == 'SB' else 'vs_limp') if num_raises == 0 else 'vs_open' if num_raises == 1 else 'vs_3bet' if num_raises == 2 else 'vs_4bet' if num_raises == 3 else 'vs_5bet'
+            situation = ('open' if player_position == 'SB' else 'vs_limp') if num_raises == 0 else 'vs_open' if num_raises == 1 else 'vs_3bet' if num_raises == 2 else 'vs_4bet' if num_raises == 3 else 'vs_5bet'
             action_freqs = self.hu_preflop_chart[situation][hand_str]
-            is_there_valid_json = True;
         else:
-            action_freqs = self.get_preflop_actions_freqs(num_raises, player, hand_str)
-            is_there_valid_json = True;
+            action_freqs = self.get_preflop_actions_freqs(hand_str, player_position, num_raises, is_ip)
 
-        if is_there_valid_json:
+        if action_freqs != None and len(action_freqs) > 0:
             parts = [] # Build a readable string without a trailing comma
             for (key, value) in action_freqs.items():
                 if value == 0:
@@ -138,18 +114,21 @@ class ActionLogic:
                 parts.append(f"{key.capitalize().replace('_', ' ')}: {round(value, 2)}%")
             return "GTO solution: " + ", ".join(parts)
         else:
-            print("hand_str", hand_str, "in position", player.position, "not found")
+            print("hand_str", hand_str, "in position", player_position, "not found")
     
-    def get_preflop_actions_freqs(self, num_raises, player, hand_str):
-        situation = ('open' if player.position != 'BB' else 'vs_limp') if num_raises == 0 else 'vs_open' if num_raises == 1 else 'vs_3bet' if num_raises == 2 else 'vs_4bet' if num_raises == 3 else 'vs_5bet'
+    def get_preflop_actions_freqs(self, hand_str, player_position, num_raises, is_player_ip):
+        situation = ('open' if player_position != 'BB' else 'vs_limp') if num_raises == 0 else 'vs_open' if num_raises == 1 else 'vs_3bet' if num_raises == 2 else 'vs_4bet' if num_raises == 3 else 'vs_5bet'
         if situation == 'open':
-            position_general = get_general_position(player.position)
+            position_general = get_general_position(player_position)
             action_freqs = self.preflop_chart[situation][position_general][hand_str]
         elif situation == 'vs_limp':
             action_freqs = self.preflop_chart[situation][hand_str]
         else: 
-            # TODO - this is incorrect - need to check if the player is in position
-            is_ip = player.position != 'BB' and player.position != 'SB'
+            if situation == 'vs_open':
+                # NOTE: the real values are commented out - because of the way the chart is structured, these are better values
+                is_ip = player_position != 'BB' # is_ip = False if player_position == 'SB' else is_player_ip if player_position == 'BB' else True
+            else:
+                is_ip = is_player_ip
             if hand_str not in self.preflop_chart[situation + ('_ip' if is_ip else '_oop')]:
                 print("hand_str", hand_str,  "not found in " + situation)
                 action_freqs = {strings.RAISE.lower(): 0, strings.CALL.lower(): 0, strings.FOLD.lower(): 100}
@@ -160,7 +139,7 @@ class ActionLogic:
 
 # Export functions for backward compatibility
 def get_preflop_action(game, player):
-    return ActionLogic().get_preflop_action(game, player)
+    return ActionLogic().get_preflop_action(game, player);
 
-def check_preflop_action(num_of_players, num_raises, player):
-    return ActionLogic().check_preflop_action(num_of_players, num_raises, player)
+def check_preflop_action(player_hand_str, player_position, num_of_players, num_raises, is_ip):
+    return ActionLogic().check_preflop_action(player_hand_str, player_position, num_of_players, num_raises, is_ip);

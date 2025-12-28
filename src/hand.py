@@ -1,44 +1,28 @@
-from deck import RANKS, SUITS
+from typing import List, Optional
 from deck import Card
-from typing import List
-from deck import RANKS
+from AppUtils.cards_utils import RANKS
 
+#NOTE: this class is redundant - can be removed
 class Hand:
-    HAND_RANKS = {
-        "High Card": 0,
-        "Pair": 1,
-        "Two Pair": 2,
-        "Three of a Kind": 3,
-        "Straight": 4,
-        "Flush": 5,
-        "Full House": 6,
-        "Four of a Kind": 7,
-        "Straight Flush": 8,
-    }
-    
     def __init__(self, cards: List[Card]):
         self.cards = cards
             
     def __repr__(self):
         return ' '.join(str(card) for card in self.cards)
     
-    def to_string(self, cards = []):
-        if cards == []:
+    def to_string(self, cards: Optional[List[Card]] = None) -> str:
+        if cards is None:
             cards = self.cards
 
-        card1, card2 = cards[0], cards[1]
-        ranks = [card1.rank, card2.rank]
-        suits = [card1.suit, card2.suit]
-
         # Sort by rank strength (highest first)
-        rank_order = {r: i for i, r in enumerate(['A', 'K', 'Q', 'J', 'T', '9', '8', '7', '6', '5', '4', '3', '2'])}
-        if rank_order[ranks[1]] < rank_order[ranks[0]]:
-            ranks = [ranks[1], ranks[0]]
-            suits = [suits[1], suits[0]]
+        sorted_cards = sorted(cards, key=lambda card: RANKS.index(card.rank), reverse=True)
+        rank1, rank2 = sorted_cards[0].rank, sorted_cards[1].rank
+        suit1, suit2 = sorted_cards[0].suit, sorted_cards[1].suit
 
-        if ranks[0] == ranks[1]:
-            return ranks[0] + ranks[1]  # e.g., 'TT'
-        elif suits[0] == suits[1]:
-            return ranks[0] + ranks[1] + 's'  # e.g., 'ATs'
+        if rank1 == rank2:
+            return f"{rank1}{rank2}"  # e.g., 'TT'
+        elif suit1 == suit2:
+            return f"{rank1}{rank2}s"  # e.g., 'ATs'
         else:
-            return ranks[0] + ranks[1] + 'o'  # e.g., 'QTo'
+            return f"{rank1}{rank2}o"  # e.g., 'QTo'
+

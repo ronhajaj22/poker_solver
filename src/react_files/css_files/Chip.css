@@ -1,53 +1,56 @@
 .chip {
-  width: 24px;
-  height: 24px;
+  width: clamp(8px, 1.2vw + 2px, 18px);
+  height: clamp(8px, 1.2vw + 2px, 18px);
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
-  font-size: 0.6rem;
+  font-size: clamp(0.35rem, 0.4vw + 0.15rem, 0.5rem);
   font-weight: bold;
   color: white;
   text-shadow: 0 1px 2px rgba(0,0,0,0.8);
   box-shadow: 
-    0 2px 4px rgba(0,0,0,0.3),
-    0 0 0 2px rgba(255,255,255,0.3) inset,
-    0 0 0 1px rgba(0,0,0,0.8);
+    0 3px 6px rgba(0,0,0,0.4),
+    0 0 0 1px rgba(0,0,0,0.3) inset,
+    0 0 0 2px rgba(255,255,255,0.2) inset;
   position: relative;
-  margin: 0 1px;
+  margin: 0 clamp(0.5px, 0.5vw, 1px);
   animation: chipDrop 0.5s ease-out;
+  border: clamp(1px, 0.2vw + 0.5px, 2px) solid rgba(255,255,255,0.4);
+}
+
+/* White edge pattern (triangles/dashes around the rim) */
+.chip::before {
+  content: '';
+  position: absolute;
+  top: -2px;
+  left: -2px;
+  right: -2px;
+  bottom: -2px;
+  border-radius: 50%;
+  background: 
+    repeating-conic-gradient(
+      from 0deg at 50% 50%,
+      transparent 0deg 6deg,
+      rgba(255,255,255,0.8) 6deg 10deg,
+      transparent 10deg 18deg
+    );
+  border: 2px solid rgba(255,255,255,0.6);
+  pointer-events: none;
+  z-index: 0;
 }
 
 .chip-value {
-  font-size: 0.5rem;
+  font-size: clamp(0.3rem, 0.35vw + 0.15rem, 0.4rem);
   font-weight: 900;
   line-height: 1;
+  z-index: 1;
+  position: relative;
 }
 
-/* Chip colors based on value */
-.chip-red {
-  background: linear-gradient(135deg, #ff4444, #cc0000);
-}
-
-.chip-blue {
-  background: linear-gradient(135deg, #4444ff, #0000cc);
-}
-
-.chip-green {
-  background: linear-gradient(135deg, #44ff44, #00cc00);
-}
-
-.chip-black {
-  background: linear-gradient(135deg, #444444, #000000);
-}
-
-.chip-purple {
-  background: linear-gradient(135deg, #8844ff, #4400cc);
-}
-
-.chip-yellow {
-  background: linear-gradient(135deg, #ffff44, #cccc00);
-}
+/* Chip colors based on value - matching realistic poker chip colors */
+.chip { background: radial-gradient(circle at 30% 30%, var(--chip-color-1), var(--chip-color-2), var(--chip-color-3)); }
+.chip-white, .chip-silver { color: #333; text-shadow: 0 1px 2px rgba(255,255,255,0.8); }
 
 /* Chip drop animation */
 @keyframes chipDrop {
@@ -86,7 +89,7 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  gap: 2px;
+  gap: clamp(1px, 1vw, 2px);
 }
 
 .chip-stack-group {
@@ -94,9 +97,11 @@
   flex-direction: column;
   align-items: center;
   position: relative;
-  width: 24px;
-  height: 24px;
-  margin: 0 2px;
+  
+  width: clamp(8px, 1.2vw + 2px, 18px);
+  height: clamp(14px, 2vw + 4px, 32px);
+  margin: 0 clamp(1px, 1vw, 2px);
+  overflow: visible;
 }
 
 .chip-stack-group .chip {
@@ -113,10 +118,10 @@
 }
 
 .chip-stack-group .chip:nth-child(1) { z-index: 4; }
-.chip-stack-group .chip:nth-child(2) { z-index: 3; top: -2px; }
-.chip-stack-group .chip:nth-child(3) { z-index: 2; top: -4px; }
-.chip-stack-group .chip:nth-child(4) { z-index: 1; top: -6px; }
-.chip-stack-group .chip:nth-child(5) { z-index: 0; top: -8px; }
+.chip-stack-group .chip:nth-child(2) { z-index: 3; top: clamp(-0.8px, -0.08vw - 0.5px, -2px); }
+.chip-stack-group .chip:nth-child(3) { z-index: 2; top: clamp(-1.6px, -0.16vw - 1px, -4px); }
+.chip-stack-group .chip:nth-child(4) { z-index: 1; top: clamp(-2.4px, -0.24vw - 1.5px, -6px); }
+.chip-stack-group .chip:nth-child(5) { z-index: 0; top: clamp(-3.2px, -0.32vw - 2px, -8px); }
 
 .chip-stack .chip {
   margin: 0;

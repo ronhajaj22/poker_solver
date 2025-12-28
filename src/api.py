@@ -1,6 +1,6 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
-from AppUtils.constants import pretty_suit
+from AppUtils.cards_utils import pretty_suit
 from game import Game
 
 app = Flask(__name__)
@@ -14,10 +14,11 @@ def new_game():
     data = request.get_json()
     num_players = data.get('num_players', 2)
     stack_size = data.get('stack_size', 100)
+    club_mode = data.get('club_mode', False)
     if not 2 <= num_players <= 9:
         return jsonify({'error': 'Number of players must be between 2 and 9'}), 400
     main_player_seat = num_players #random.randint(1, num_players)
-    current_game = Game(num_players, main_player_seat, stack_size)
+    current_game = Game(num_players, main_player_seat, stack_size, club_mode=club_mode)
 
     players = [
         {
@@ -74,7 +75,7 @@ def get_state():
 def deal_next_cards():
     data = request.get_json()
     stage = data.get('stage')
-    current_game.get_ready_for_next_street(stage)
+    current_game.get_ready_for_next_street()
     players_to_act = [player.name for player in current_game.get_players_to_act_after_deal_cards()]
     print("players_to_act: ", players_to_act)
     
@@ -96,14 +97,20 @@ def send_player_action():
         'total_bet_size': round(total_bet_size, 2) if total_bet_size is not None else 0,
         'added_amount': round(added_amount, 2) if added_amount is not None else 0,
         'stack_size': round(stack_size, 2) if stack_size is not None else 0,
-        'players_to_act': [p.name for p in current_game.get_players_to_act_by_index(player_name, current_game.street > 0)]
+        'players_to_act': [p.name for p in current_game.get_players_to_act_by_index(player_name)]
     })
 
 @app.route('/api/game/send_main_player_action', methods=['POST'])
 def get_main_player_action():
     data = request.get_json()
-    check_action = current_game.check_action(data.get('action'), data.get('bet_size'))
-    
+    if current_game.street == 0:
+        check_action = current_game.check_action(data.get('action'), data.get('bet_size'))
+    else:
+        if False: # not current_game.club_mode
+            categories_range = current_game.get_action_category_range(data.get('action'), data.get('bet_size'))
+            check_action = categories_range
+        else:
+            check_action = None
     ans = current_game.act_after_human_choice(current_game.get_main_player(), data.get('action'), data.get('bet_size'))
 
     action, total_bet_size, added_amount, stack_size = ans
@@ -123,15 +130,20 @@ def show_down():
     data = request.get_json()
     winners, winning_hands = current_game.find_winners()
    
-    # Convert Card objects to dictionaries if winning_hand exists
+    # Convert Hand objects to dictionaries with card information
+    winning_hands_dict = []
     for winning_hand in winning_hands:
-        if winning_hand and 'hand' in winning_hand:
-            winning_hand['hand'] = [{'rank': card.rank, 'suit': pretty_suit(card.suit)} for card in winning_hand['hand']]
+        if winning_hand and hasattr(winning_hand, 'cards'):
+            winning_hands_dict.append({
+                'hand': [{'rank': card.rank, 'suit': pretty_suit(card.suit)} for card in winning_hand.cards]
+            })
+        else:
+            winning_hands_dict.append(None)
         
     return jsonify({
         'message': 'Hand finished',
         'winners': [winner.name for winner in winners],
-        'winning_hands': winning_hands
+        'winning_hands': winning_hands_dict
     })
 
 @app.route('/api/game/start_new_hand', methods=['POST'])
@@ -156,5 +168,12 @@ def start_new_hand():
         
     })
 def run_api():
-    print("run_api")
-    app.run(debug=True, port=5000) 
+    import sys
+    import os
+    # Disable reloader when running in debugger (VS Code sets this)
+    # Also check if we're in VS Code debug mode
+    is_debugging = sys.gettrace() is not None or os.environ.get('VSCODE_DEBUG', '') == '1'
+    use_reloader = not is_debugging
+    app.run(debug=True, use_reloader=use_reloader, port=5000, use_debugger=is_debugging) 
+
+     

@@ -3,7 +3,7 @@
   z-index: 50;
   display: flex;
   align-items: center;
-  gap: 4px;
+  gap: clamp(2px, 2vw, 4px);
 }
 
 /* Default horizontal alignment for center, top, bottom */
@@ -19,40 +19,65 @@
 
 .chip-position-center {
   left: 50%;
-  top: -20%;
+  top: clamp(-15%, calc(-18vh + 5%), -20%);
   transform: translate(-50%, -50%);
 }
 
 .chip-position-bottom {
-  bottom: -20px;
+  bottom: clamp(-25px, calc(-12vh - 35px), -70px);
   left: 50%;
   transform: translateX(-50%);
 }
 
 .chip-position-top {
-  top: -45px;
+  top: clamp(-55px, calc(-9vh - 20px), -70px);
   left: 50%;
   transform: translateX(-50%);
 }
 
 .chip-position-left {
-  left: -30px;
+  left: clamp(-45px, calc(-8vh - 20px), -75px);
   top: 50%;
   transform: translateY(-50%);
 }
 
 .chip-position-right {
-  right: -30px;
+  right: clamp(-45px, calc(-9vh - 20px), -75px);
   top: 50%;
   transform: translateY(-50%);
+}
+
+/* Diagonal positions */
+.chip-position-top-left {
+  top: clamp(-45px, calc(-6vh - 15px), -50px);
+  left: clamp(-20px, calc(-4vh - 10px), -30px);
+  transform: translate(-50%, -50%);
+}
+
+.chip-position-top-right {
+  top: clamp(-45px, calc(-6vh - 15px), -50px);
+  right: clamp(-20px, calc(-4vh - 10px), -30px);
+  transform: translate(50%, -50%);
+}
+
+.chip-position-bottom-left {
+  bottom: clamp(-30px, calc(-6vh - 15px), -50px);
+  left: clamp(-20px, calc(-4vh - 10px), -30px);
+  transform: translate(-50%, 50%);
+}
+
+.chip-position-bottom-right {
+  bottom: clamp(-30px, calc(-6vh - 15px), -50px);
+  right: clamp(-20px, calc(-4vh - 10px), -30px);
+  transform: translate(50%, 50%);
 }
 
 .chip-amount {
   background: rgba(0, 0, 0, 0.8);
   color: white;
-  padding: 2px 6px;
-  border-radius: 8px;
-  font-size: 0.7rem;
+  padding: clamp(1px, 1vw, 2px) clamp(3px, 3vw, 6px);
+  border-radius: clamp(6px, 0.5vw + 4px, 8px);
+  font-size: clamp(0.55rem, 0.6vw + 0.3rem, 0.7rem);
   font-weight: bold;
   text-shadow: 0 1px 2px rgba(0, 0, 0, 0.8);
   white-space: nowrap;

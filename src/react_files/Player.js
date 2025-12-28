@@ -48,19 +48,27 @@ function Player({ player, isMain, isCardsHidden, isPlayerTurn, isNeedToAct, posi
   const playerCards = (player.cards || []).filter(card => card && typeof card === 'object' && card.rank && card.suit);
 
   // Calculate chip position based on player angle
+  // Returns where chips should be positioned relative to the player
+  // Chips should appear "on the table" - between player and table center
   const getChipPosition = (angle) => {
-    let degrees = Math.abs(angle * 180) / Math.PI;
-
-    // Determine position based on angle ranges
-    if (degrees > 60 && degrees < 120) {
-      return 'bottom';
-    } else if (degrees <= 60 || degrees >= 300) {
-      return 'left'; // 
-    } else if (degrees >= 215 && degrees < 300) {
-      return 'top'; 
-    } else {
-      return 'right';
-    }
+    // Convert angle to degrees (0-360)
+    let degrees = (angle * 180) / Math.PI;
+    
+    while (degrees < 0) degrees += 360;
+    angle = degrees % 360 
+    console.log("angle: ", angle);
+    const ranges = [
+      { from: 247.5, to: 292.5, pos: 'top' },
+      {from: 292.5, to: 337.5, pos: 'top-left' },
+      {from: 337.5, to: 360, pos: 'left' },
+      {from: 0, to: 22.5, pos: 'left' },
+      { from: 22.5, to: 67.5, pos: 'bottom-left' },
+      { from: 67.5, to: 112.5, pos: 'bottom' },
+      { from: 112.5, to: 157.5, pos: 'bottom-right' },
+      { from: 157.5, to: 202.5, pos: 'right' },
+      { from: 202.5, to: 247.5, pos: 'top-right' },
+    ];
+    return ranges.find(r => angle >= r.from && angle < r.to)?.pos;
   };
 
   // Render player UI
@@ -106,8 +114,8 @@ function Player({ player, isMain, isCardsHidden, isPlayerTurn, isNeedToAct, posi
         <span className="player-name">{player.name}</span>
         <span className="player-stack">{formatNumber(player.stack_size)}BB</span>
       </div>
-      {/* Show cards - main player sees actual cards, others see card backs */}
-      {!player.is_folded && (
+
+      {(!player.is_folded || player.lastAction === 'FOLD') && ( // TODO - change it later
           <div 
             className="player-cards" 
             onClick={() => setLocalCardsHidden(!localCardsHidden)}
@@ -118,7 +126,7 @@ function Player({ player, isMain, isCardsHidden, isPlayerTurn, isNeedToAct, posi
               <Card 
                 key={i} 
                 card={card} 
-                hidden={localCardsHidden} 
+                hidden={highlightedCards.length == 0 && localCardsHidden} 
                 // actually it is - isGrayedOut
                 isGrayedOut={highlightedCards.length > 0 && !highlightedCards.some(hc => hc.rank === card.rank && hc.suit === card.suit)}
               />

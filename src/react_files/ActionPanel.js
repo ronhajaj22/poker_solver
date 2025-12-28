@@ -8,7 +8,7 @@ function ActionPanel({
   playerStack, 
   playerChipsInPot, 
   mainPlayerActionHandler, 
-  stage = 0, 
+  street = 0, 
   pot = 0 
 }) {
   // State for raise amount
@@ -30,7 +30,7 @@ function ActionPanel({
 
   // Update raise amount when slider changes
   useEffect(() => {
-    const calculatedValue = stage === 0 
+    const calculatedValue = street === 0 
       ? Math.min((lastBetSize * 2.5), playerStack) 
       : Math.min(playerStack, (pot * 0.5));
     
@@ -40,13 +40,14 @@ function ActionPanel({
     ));
     setSliderValue(initialSliderValue);
     setRaiseAmount(calculatedValue);
-  }, [lastBetSize, stage, pot, playerStack, minRaiseSlider, maxRaiseSlider]);
+  }, [lastBetSize, street, pot, playerStack, minRaiseSlider, maxRaiseSlider]);
 
   useEffect(() => {
     setAutoAction(false);
-  }, [stage, playerChipsInPot]);
+  }, [street, playerChipsInPot]);
 
   // Handle slider change
+  {/*
   const handleSliderChange = (e) => {
     const sliderPercent = parseInt(e.target.value);
     setSliderValue(sliderPercent);
@@ -60,6 +61,13 @@ function ActionPanel({
   const handleRaise = () => {
     if (raiseAmount >= minRaise && raiseAmount <= maxRaise) {
       mainPlayerActionHandler('RAISE', raiseAmount);
+    }
+  };*/}
+
+  // Handle quick raise button click (with pot multiplier)
+  const handleQuickRaise = (size) => {
+    if (size >= minRaise && size <= maxRaise) {
+      mainPlayerActionHandler('RAISE', size);
     }
   };
 
@@ -105,34 +113,62 @@ function ActionPanel({
     <div className="action-panel">
       {/* Action Buttons - only show when player is active */}
       {isMainPlayerActive && !autoActionRef.current && (
-        <div className="action-buttons">
-          <button 
-            className="action-btn fold-check-btn" 
-            onClick={handleFoldOrCheck} 
-          >
-            {lastBetSize <= playerChipsInPot ? 'Check' : 'Fold'}
-          </button>
-          
-          {lastBetSize > 0 && lastBetSize > playerChipsInPot && (
+        <>
+          <div className="action-buttons">
             <button 
-              className="action-btn call-btn" 
-              onClick={handleCall} 
+              className="action-btn fold-check-btn" 
+              onClick={handleFoldOrCheck} 
             >
-              Call {formatNumber(lastBetSize-playerChipsInPot)}BB
+              {lastBetSize <= playerChipsInPot ? 'Check' : 'Fold'}
             </button>
-          )}
+            
+            {lastBetSize > 0 && lastBetSize > playerChipsInPot && (
+              <button 
+                className="action-btn call-btn" 
+                onClick={handleCall} 
+              >
+                Call {formatNumber(lastBetSize-playerChipsInPot)}BB
+              </button>
+            )}
+            {/* Quick Raise Buttons Row */}
+          <div className="quick-raise-buttons">
+            {(street === 0 && lastBetSize === 1 ? [2.2, 2.5, 3] 
+            : street === 0 ? [2.5, 3, 4]
+            : [0.33, 0.5, 0.75, 1.25, 2.25]
+            ).map((multiplier) => {
+              let normalBet = (lastBetSize === 1 && street === 0) || lastBetSize === 0;
+              let potBasedRaise = 0;
+              
+              if (street === 0) {
+                potBasedRaise = lastBetSize * multiplier;
+              } else {
+                potBasedRaise = normalBet ? (lastBetSize + (pot * multiplier)) : ((pot + pot  + lastBetSize - playerChipsInPot) * multiplier) + lastBetSize  - playerChipsInPot;
+              }
+              
+              const calculatedRaise = Math.max(minRaise, Math.min(potBasedRaise, maxRaise));
+              const isDisabled = calculatedRaise < minRaise || calculatedRaise > maxRaise;
+              
+              return (
+                <button
+                  key={multiplier}
+                  className="action-btn quick-raise-btn"
+                  onClick={() => handleQuickRaise(calculatedRaise)}
+                  disabled={isDisabled}
+                  title={`Raise ${formatNumber(calculatedRaise)}BB`}
+                >
+                  {multiplier}x
+                </button>
+              );
+            })}
+          </div>
+            
+          </div>
           
-          <button 
-            className="action-btn raise-btn" 
-            onClick={handleRaise} 
-            disabled={raiseAmount < minRaise}
-          >
-            Raise {formatNumber(raiseAmount)}BB
-          </button>
-        </div>
+          
+        </>
       )}
 
-      {/* Vertical Raise Slider - only show when player is active */}
+      {/*
       {isMainPlayerActive && !autoActionRef.current && (
         <div className="raise-slider-container">
           <div className="raise-amount-display">
@@ -151,7 +187,7 @@ function ActionPanel({
             <span>{formatNumber(minRaise)}BB</span>
           </div>
         </div>
-      )}
+      )} */}
 
       {/* Auto-action Checkbox - only show when player is NOT active */}
       {!isMainPlayerActive && (

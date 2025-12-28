@@ -34,10 +34,20 @@ function Card({ card, hidden = false, isGrayedOut = false }) {
     );
   }
 
-  const isRed = suit === '♥' || suit === '♦';
+  // Determine card suit class for color styling
+  let suitClass = '';
+  if (suit === '♣') {
+    suitClass = 'clubs'; 
+  } else if (suit === '♠') {
+    suitClass = 'spades';
+  } else if (suit === '♥') {
+    suitClass = 'hearts';
+  } else if (suit === '♦') {
+    suitClass = 'diamonds'; 
+  }
 
   return (
-    <div className={`card ${isRed ? 'red' : ''} ${isGrayedOut ? 'highlighted-card' : ''}`}>
+    <div className={`card ${suitClass} ${isGrayedOut ? 'highlighted-card' : ''}`}>
       <div className="card-content">
         <div className="card-rank">{rank}</div>
         <div className="card-suit">{suit}</div>

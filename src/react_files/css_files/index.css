@@ -14,14 +14,7 @@ code {
     monospace;
 }
 
-.poker-table {
-  background: linear-gradient(135deg, #2d5a27 0%, #1e3a1a 100%);
-  border-radius: 200px;
-  padding: 0px;
-  margin: 0px;
-  border: 2px solid #8b4513;
-  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-}
+/* .poker-table styles moved to PokerTable.css - wood floor texture */
 
 .card {
   display: inline-block;
@@ -37,8 +30,21 @@ code {
   text-align: center;
 }
 
-.card.red {
-  color: #d32f2f;
+/* Card suit colors */
+.card.clubs {
+  color: #2e7d32; /* תלתן - ירוק */
+}
+
+.card.spades {
+  color: #000000; /* ספייד - שחור */
+}
+
+.card.hearts {
+  color: #d32f2f; /* לב - אדום */
+}
+
+.card.diamonds {
+  color: #1976d2; /* דיימונד - כחול */
 }
 
 .player {

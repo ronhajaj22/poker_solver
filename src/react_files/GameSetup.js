@@ -5,8 +5,9 @@ import './css_files/GameSetup.css';
 // Allows the user to select game options and start the game
 function GameSetup({ onStartGame }) {
   // State for each setup option
-  const [numPlayers, setNumPlayers] = useState(6); // Default: 6 players
+  const [numPlayers, setNumPlayers] = useState(2); // Default: 6 players
   const [stackSize, setStackSize] = useState(100); // Default: 100 chips
+  const [clubMode, setClubMode] = useState(false); // Default: Exploiver Solver
   const [showSettings, setShowSettings] = useState(false); // Settings menu visibility
   const [tempSettings, setTempSettings] = useState({
     soundEnabled: true,
@@ -16,7 +17,7 @@ function GameSetup({ onStartGame }) {
     theme: 'dark',
     animationSpeed: 'normal',
     defaultBlindSize: 2,
-    defaultNumPlayers: 6,
+    defaultNumPlayers: 2,
     defaultStackSize: 100,
     foldToEndGame: false,
     experienceLevel: 'Just Starting'
@@ -37,7 +38,7 @@ function GameSetup({ onStartGame }) {
       if (showSettings && 
           settingsRef.current && 
           !settingsRef.current.contains(event.target) &&
-          buttonRef.current &&
+          buttonRef.current && 
           !buttonRef.current.contains(event.target)) {
         setShowSettings(false);
       }
@@ -53,7 +54,7 @@ function GameSetup({ onStartGame }) {
   const handleSubmit = (e) => {
     e.preventDefault(); // Prevent page reload
     // Call the parent handler to start the game with selected options
-    onStartGame(numPlayers, stackSize);
+    onStartGame(numPlayers, stackSize, clubMode);
   };
 
   // Handle settings changes
@@ -220,8 +221,25 @@ function GameSetup({ onStartGame }) {
             ))}
           </select>
         </label>
+        {/* Opponent Type dropdown */}
+        <label>
+          <span style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
+            Opponent Type:
+            <span 
+              className={clubMode ? "info-icon info-icon-club" : "info-icon info-icon-exploitive"}               
+              title={clubMode ? "In this mode, the solver plays like the average player in your club and shows how to improve in order to exploit your opponents as effectively as possible." : "In this mode, the solver learns your tendencies and weaknesses, then shows where you make mistakes and how to improve your game."}
+            >
+              ?
+            </span>
+          </span>
+          <select value={clubMode ? 'club' : 'exploitive'} onChange={e => setClubMode(e.target.value === 'club')}>
+            <option value="exploitive">Exploitive Solver</option>
+            <option value="club">Club Player</option>
+          </select>
+        </label>
+        
         {/* Start Game button */}
-        <button type="submit" className="button">Start Game</button>
+        <button type="submit" className={clubMode ? "button button-club" : "button button-exploitive"}>Start Game</button>
       </form>
     </div>
   );

@@ -3,6 +3,7 @@ import GameSetup from './GameSetup';
 import PokerTable from './PokerTable';
 import './css_files/App.css';
 import { setSelectionRange } from '@testing-library/user-event/dist/utils';
+import { playBetSound, playFlopSound, playCheckSound } from './soundUtils';
 
 // Main App component controls the game flow
 function App() {
@@ -23,6 +24,7 @@ function App() {
   const [checkAction, setCheckAction] = useState('');
   const [isGamePaused, setIsGamePaused] = useState(false);
   const [isTooltipVisible, setIsTooltipVisible] = useState(false);
+  const [clubMode, setClubMode] = useState(false);
   const tooltipVisibleRef = useRef(false);
   // Watch for tooltip visibility changes
   useEffect(() => {
@@ -68,12 +70,14 @@ function App() {
   // Game cycle state
   
   // Start game handler: called from GameSetup
-  const handleStartGame = async (numPlayers, stackSize) => {
+  const handleStartGame = async (numPlayers, stackSize, clubMode) => {
+    // Save clubMode state
+    setClubMode(clubMode);
     // Call backend to initialize game
     fetch('/api/game/new', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ num_players: numPlayers, stack_size: stackSize })
+      body: JSON.stringify({ num_players: numPlayers, stack_size: stackSize, club_mode: clubMode })
     })
       .then(res => res.json())
       .then(async data => {
@@ -118,7 +122,7 @@ function App() {
       setIsMainPlayerActive(true)
       return;
     } else {
-      await sleep(1000); // 1 second delay
+      await sleep(250); // TODO - change time here
       getPlayerActionFromServer(player_to_act);
     }
   }
@@ -140,7 +144,7 @@ function App() {
 
   const finishHandWithWinner = async (winners, winning_hands) => {     
     // Set the winner for chip animation
-    await sleep(1000);
+    await sleep(500); // TODO - change time here
     
     if (winning_hands != [] && winning_hands != null) {
       let highlightedCards = createHighlightedCards(winning_hands);
@@ -167,7 +171,7 @@ function App() {
     });
 
     setWinners(winners);
-    await sleep(1000);    
+    await sleep(250); // TODO - change time here
     
     // Hide the WIN label after 3 seconds and start new hand
     setTimeout(() => {
@@ -286,6 +290,10 @@ function App() {
 
   const openCommunityCardsSetPlayersToAct = async (communityCards, players_to_act) => {
     let start = stage === 0 ? 0 : stage + 2;
+    
+    // Play flop sound when flop is revealed (stage 0 -> 1)
+    playFlopSound(stage === 0 ? 3 : 1);
+    
 
     for (let i = start; i < communityCards.length; i++) {
       await sleep(500);
@@ -301,13 +309,15 @@ function App() {
     if (action === 'RAISE' || action === 'CALL') {
       setPot(potSize => potSize + addedAmount);
       setLastBetSize(totalBetSize);
+      // Play betting sound when someone bets
+      playBetSound();
+    } else if (action === 'CHECK') {
+      // Play check sound when someone checks
+      playCheckSound();
     }
     setLastAction(action);
-    if (stage === 0) {
-      setCheckAction(checkActionMessage);
-    } else {
-      setCheckAction('');
-    }
+    setCheckAction(checkActionMessage);
+    
     
     setPlayers(prevPlayers => {
       const updatedPlayers = prevPlayers.map(player => {
@@ -334,7 +344,7 @@ function App() {
         }
         return player;
       }));
-    }, action === 'FOLD' ? 1000 : 2000);
+    }, action === 'FOLD' ? 500 : 1000); // TODO - change time here
   };
 
   const createHighlightedCards = (winning_hands) => {
@@ -375,6 +385,7 @@ function App() {
           isTooltipVisible={isTooltipVisible}
           setIsTooltipVisible={setIsTooltipVisible}
           playersToAct={players_to_act}
+          clubMode={clubMode}
         />
       )}
     </div>

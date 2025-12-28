@@ -1,18 +1,18 @@
 /* Professional poker player box */
 .player {
   position: absolute;
-  min-width: 4.6rem;
-  min-height: 4rem;
+  min-width: 6rem;
+  min-height: 5rem;
   background: #23272f;
-  border-radius: 12px;
+  border-radius: 14px;
   box-shadow: 0 1px 6px rgba(0,0,0,0.18), 0 0 0 1.5px #111 inset;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-end;
-  padding: 0.18rem 0.3rem 0.3rem 0.3rem;
+  padding: 0.25rem 0.4rem 0.4rem 0.4rem;
   color: #fff;
-  font-size: 0.75rem;
+  font-size: 0.85rem;
   z-index: 2;
   border: 2px solid transparent;
   transition: border 0.2s, box-shadow 0.2s;
@@ -70,45 +70,83 @@
 /* Player cards - make them smaller */
 .player-cards {
   display: flex;
-  gap: 0.2rem;
+  gap: -10px; /* Overlap cards */
   margin-bottom: -18px; /* overlap table edge */
   justify-content: center;
   z-index: 10;
+  position: relative;
 }
 
 /* Poker card style for player cards */
 .player-cards .card {
-  width: 32px !important;
-  height: 25rem !important;
-  font-size: 0.9rem !important;
-  min-width: 32px !important;
-  min-height: 44px !important;
-  border-radius: 6px !important;
+  width: clamp(40px, 5.5vh, 70px) !important;
+  height: clamp(57px, 7.5vh, 100px) !important;
+  font-size: clamp(1.1rem, 1.2vw + 0.5rem, 1.5rem) !important;
+  min-width: clamp(40px, 5.5vh, 70px) !important;
+  min-height: clamp(57px, 7.5vh, 100px) !important;
+  border-radius: 7px !important;
   box-shadow: 0 2px 8px rgba(0,0,0,0.18);
-  background: #fff;
+  background: #fff !important;
+  background-color: #fff !important;
   border: 2px solid #333;
   display: flex;
   align-items: center;
   justify-content: center;
+  opacity: 1 !important;
+  backface-visibility: hidden;
+  position: relative;
+  transition: transform 0.2s ease, z-index 0.2s ease;
+}
+
+/* Add rotation to each card for realistic look */
+.player-cards .card:nth-child(1) {
+  transform: rotate(-4deg);
+  z-index: 2;
+  margin-right: -10px;
+}
+
+/* Hide border on overlapping side for second card */
+.player-cards .card:nth-child(2) {
+  transform: rotate(4deg);
+  z-index: 1;
+  margin-left: -10px;
+  border-left: none;
+}
+
+.player-cards .card:hover {
+  transform: rotate(0deg) translateY(-5px) !important;
+  z-index: 10 !important;
 }
 
 .player-cards .card-back {
-  background: repeating-linear-gradient(135deg, #b0b0b0 0 4px, #e0e0e0 4px 8px);
-  color: #888;
-  font-size: 1.2rem;
-  border: 2px solid #333;
+  background: linear-gradient(135deg, #d0d0d0 0%, #e5e5e5 50%, #c8c8c8 100%) !important;
+  background-image: 
+    repeating-linear-gradient(45deg, transparent, transparent 10px, rgba(0,0,0,0.08) 10px, rgba(0,0,0,0.08) 20px),
+    repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(0,0,0,0.08) 10px, rgba(0,0,0,0.08) 20px) !important;
+  background-color: #d0d0d0 !important;
+  color: #555;
+  font-size: clamp(0.9rem, 1vw + 0.3rem, 1.2rem);
+  border: 2px solid #bbb;
   border-radius: 6px;
   display: flex;
   align-items: center;
   justify-content: center;
+  opacity: 1 !important;
+  backface-visibility: hidden;
+  box-shadow: inset 0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Hide border on overlapping side for second card back */
+.player-cards .card:nth-child(2) .card-back {
+  border-left: none;
 }
 
 .player-cards .card-rank {
-  font-size: 0.8rem !important;
+  font-size: clamp(1rem, 1.1vw + 0.4rem, 1.4rem) !important;
 }
 
 .player-cards .card-suit {
-  font-size: 1.1rem !important;
+  font-size: clamp(1.3rem, 1.5vw + 0.5rem, 1.9rem) !important;
 }
 
 /* Raised chips */
@@ -286,6 +324,7 @@
   box-shadow: 0 4px 12px rgba(0,0,0,0.3);
   border: 1px solid #393e46;
   word-wrap: break-word;
+  white-space: pre-line;
 }
 
 .check-action-tooltip::after {

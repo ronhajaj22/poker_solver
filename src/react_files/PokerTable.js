@@ -67,7 +67,8 @@ function PokerTable({
   onResumeGame,
   isTooltipVisible,
   setIsTooltipVisible,
-  playersToAct
+  playersToAct,
+  clubMode = false
 }) {
   // Responsive oval size: always fits window, no scroll
   const [ovalSize, setOvalSize] = useState({ width: 900, height: 540 });
@@ -113,10 +114,12 @@ function PokerTable({
   return (
     <div className={`poker-table ${isGamePaused ? 'game-paused' : ''}`} onClick={handleTableClick}>
       {/* Table felt oval background, always smaller than player oval */}
-      <div className="table-felt" style={{ width: '60%', height: '60%' }}></div>
+      <div className={`table-felt ${clubMode ? 'table-felt-club' : 'table-felt-exploitive'}`}>
+        <div className="table-branding">{clubMode ? 'Club Mode' : 'Exploitive Solver Mode'}</div>
+      </div>
       {/* Pot and community cards in center */}
-      <div className="table-center" style={{ left: '50%', top: '50%' }}>
-        <div className="pot" style={{ fontSize: '0.8rem', borderRadius: '8px', marginBottom:'12rem', marginTop: '0.52rem'}}>Pot: {formatNumber(pot)}BB</div>
+      <div className="table-center">
+        <div className="pot" style={{ fontSize: '0.8rem', borderRadius: '8px'}}>Pot: {formatNumber(pot)}BB</div>
         {/* Show chips in the pot */}
         {pot > 0 && (
           <ChipStack 
@@ -127,7 +130,7 @@ function PokerTable({
             ovalSize={ovalSize}
           />
         )}
-        <div className="community-cards" style={{ gap: '0.18rem', marginTop:'-10rem' }}>
+        <div className="community-cards" style={{ gap: '0.18rem' }}>
           {communityCards.length > 0 && communityCards[0] != undefined && communityCards.filter(Boolean).map((card, i) => (
             <Card 
               key={i} 
@@ -184,7 +187,7 @@ function PokerTable({
           playerStack={mainPlayer.stack_size}
           playerChipsInPot={mainPlayer.chips_in_pot}
           mainPlayerActionHandler={mainPlayerActionHandler}
-          stage={stage}
+          street={stage}
           pot={pot}
         />
       )}

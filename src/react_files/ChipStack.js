@@ -17,9 +17,10 @@ const ChipStack = ({ amount, position = 'center', winners = [], winnerAngles = [
     const chipStacks = [];
     let remaining = amount;
     
-    // Standard chip values (you can adjust these)
-    const chipValues = [25, 10, 5, 1];
-    const chipColors = ['black', 'blue', 'red', 'white'];
+    // Standard chip values matching realistic poker chip colors
+    // Higher values first for better visual representation
+    const chipValues = [50, 25, 10, 5, 1];
+    const chipColors = ['silver', 'black', 'purple', 'red', 'yellow'];
     
     for (let i = 0; i < chipValues.length && remaining > 0; i++) {
       const value = chipValues[i];

@@ -1,17 +1,20 @@
 .card {
-  width: 50px;
-  height: 70px;
+  width: clamp(40px, 9vw + 10px, 75px);
+  height: clamp(58px, 11.5vw + 10px, 105px);
   background: white;
+  background-color: white;
   border: 2px solid #333;
   border-radius: 8px;
   display: flex;
   align-items: center;
   justify-content: center;
   font-weight: bold;
-  font-size: 18px;
+  font-size: clamp(14px, 2vw + 10px, 27px);
   color: black;
   box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
   transition: transform 0.2s ease;
+  opacity: 1;
+  backface-visibility: hidden;
 }
 
 .card:hover {
@@ -19,12 +22,26 @@
   box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.4);
 }
 
-.card.red {
-  color: #d32f2f;
+/* Card suit colors */
+.card.clubs {
+  color: #2e7d32; /* תלתן - ירוק */
+}
+
+.card.spades {
+  color: #000000; /* ספייד - שחור */
+}
+
+.card.hearts {
+  color: #d32f2f; /* לב - אדום */
+}
+
+.card.diamonds {
+  color: #1976d2; /* דיימונד - כחול */
 }
 
 .card-back {
   background: linear-gradient(135deg, #c41e3a 0%, #8b0000 50%, #c41e3a 100%);
+  background-color: #c41e3a;
   color: white;
   font-size: 24px;
   position: relative;
@@ -33,6 +50,8 @@
   align-items: center;
   justify-content: center;
   border: 2px solid #660000;
+  opacity: 1;
+  backface-visibility: hidden;
 }
 
 .card-back-pattern {
@@ -93,13 +112,13 @@
 }
 
 .card-rank {
-  font-size: 16px;
+  font-size: clamp(16px, 1.5vw + 8px, 24px);
   font-weight: bold;
   margin-bottom: 2px;
 }
 
 .card-suit {
-  font-size: 20px;
+  font-size: clamp(20px, 2vw + 10px, 30px);
 }
 
 /* Highlighted card styling (losing cards - grayed out) */

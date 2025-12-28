@@ -5,8 +5,8 @@
   right: 20px;
   z-index: 1000;
   display: flex;
-  flex-direction: row;
-  gap: 1rem;
+  flex-direction: column;
+  gap: 0.5rem;
   align-items: flex-end;
 }
 
@@ -15,6 +15,15 @@
   display: flex;
   flex-direction: row;
   gap: 0.5rem;
+}
+
+/* Quick Raise Buttons Row */
+.quick-raise-buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 0.3rem;
+  flex-wrap: wrap;
+  max-width: 600px;
 }
 
 .action-btn {
@@ -56,6 +65,18 @@
 }
 
 .raise-btn:hover:not(:disabled) {
+  background: #008891;
+}
+
+.quick-raise-btn {
+  background: #b50000;
+  color: #fff;
+  padding: 0.25rem 0.5rem;
+  min-width: 50px;
+  font-size: 0.7rem;
+}
+
+.quick-raise-btn:hover:not(:disabled) {
   background: #008891;
 }
 
